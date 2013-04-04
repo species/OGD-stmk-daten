@@ -1,0 +1,66 @@
+Abfallwirtschaftliche_Anlagen.shp
+
+mit Merkaartor als osm abspeichern, dann passt das encoding
+Fuege folgendes hinzu
+  amenity=recycling
+  recycling_type=centre
+  source=CC BY 3.0 AT: Land Steiermark - data.steiermark.gv.at
+
+wandle folgende spalten um
+	_BETR_ANSCH_ => addr   # muss noch gesplittet werden in addr:street und housenumber
+	_A_PLZ_ => addr:postcode
+	_AKUERZEL_ => type:ref
+	_ATYP_ => type
+	_BETREIBER_ => operator
+
+loesche folgende spalten:
+  _A_GEM_=-
+  _A_STR_=-
+  _BETRIEB_BI_=-
+  _BETRIEB_SE_=-
+  _BETR_EMAIL_=-
+  _BETR_FAX_=-
+  _BETR_TEL_=-
+  _BETR_URL_=-
+  _MERIDIAN_=0
+  _STATUS_=B
+  _GEMNR6_=*   # sollte auf dem gem-node stehen
+  _GEMNR6_alt_=* # sollte auf dem gem-node stehen
+_COORDX_ANL_=    670861.00000000    # uninteressant fuer den fall, wers braucht soll im shape nachschauen
+_COORDY_ANL_=    251513.00000000   
+
+_AKUERZEL_=ASZ entspricht _ATYP_=Altstoffsammelzentrum mit stationärer Problemstoffsammelstelle (381 POIs)
+_AKUERZEL_=BAD entspricht _ATYP_=Bodenaushubdeponie (gem. § 4 DVO 2008) (31 POIs)
+_AKUERZEL_=PSS entspricht _ATYP_=Problemstoffsammelstelle (stationär) (40 POIs)
+_AKUERZEL_=SPL entspricht _ATYP_=Splittinganlagen für Restmüll und Gewerbeabfälle (6)
+_AKUERZEL_=ASA entspricht _ATYP_=Abfallsortieranlage (12)
+_AKUERZEL_=AAA entspricht _ATYP_=Altstoffaufbereitungsanlage (3)
+_AKUERZEL_=AZL entspricht _ATYP_=Abfallzwischenlager (7)
+_AKUERZEL_=RSD entspricht _ATYP_=Reststoffdeponie (gem. § 4 DVO 2008) (7)
+_AKUERZEL_=MAD entspricht _ATYP_=Massenabfalldeponie (gem. § 4 DVO 2008) (8)
+_AKUERZEL_=AVA entspricht _ATYP_=Abfallverbrennungsanlage (2), Niklasdorf + Frohnleiten
+_AKUERZEL_=CPA entspricht _ATYP_=Chem.-physik. Abfallbehandlungsanlage für anorganische Stoffe (4) zB Schlackenhalte Donawitz
+_AKUERZEL_=CPO entspricht _ATYP_=Chem.-physik. Abfallbehandlungsanlage für organische Stoffe (6)
+_AKUERZEL_=BKA entspricht _ATYP_=Biomüllkompostanlagen mind. 300 t/a Verarbeitungskapazität (19)
+_AKUERZEL_=LKA entspricht _ATYP_=Landwirtschaftliche Haus- und Wirtschaftskompostanlage (42)
+_AKUERZEL_=GRA entspricht _ATYP_=Glasrecyclinganlage (1) Kraubath
+_AKUERZEL_=GAS entspricht _ATYP_=Biogasanlage (44)
+_AKUERZEL_=SRA entspricht _ATYP_=Schrottrecyclinganlage (2)
+_AKUERZEL_=BRD entspricht _ATYP_=Baurestmassendeponie (gem. § 4 DVO 2008) (17)
+_AKUERZEL_=KSA entspricht _ATYP_=Klärschlammbehandlungsanlage (3)
+_AKUERZEL_=MIT entspricht _ATYP_=Mitverbrennungsanlage (5)
+_AKUERZEL_=KSA entspricht _ATYP_=Klärschlammbehandlungsanlage (1)
+_AKUERZEL_=MBA entspricht _ATYP_=Mechanisch-biologische Restabfallbehandlungsanlage (1)
+_AKUERZEL_=BZL entspricht _ATYP_=Baurestmassenzwischenlager (1)
+_AKUERZEL_=IAD entspricht _ATYP_=Inertabfalldponie (gem. § 4 DVO 2008) (1)
+
+
+
+
+
+
+_ANLAGEKURZ_=ASA - Saubermacher DienstleistungsAG - Puchstraße stimmt die PLZ 8010 nicht, sollte 8020 sein
+Auf einer Deponie (zB RSD Frohnleiten) sind mehrere POIs (3) an derselben Deponie mit unterschiedlicher Adresse und unterschiedlichem Betreiber 10m nebeneinander
+nach Zeichen 79 wird abgeschnitten: zB
+_BETREIBER_=Restmüll-, Gewerbemüll- und Baustellenabfallsortieranlage - Fa. Transbeton Lief*   
+
