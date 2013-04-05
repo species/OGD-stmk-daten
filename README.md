@@ -21,15 +21,20 @@ Holzeinschlag
 Freibäder
 ---------
 
-* Rohdaten
+Rohdaten
 
 Niedergelassene Ärzte
 ---------------------
 
-* Rohdaten
+Rohdaten
 
 Feuerwehren
 -----------
 
-* Rohdaten
+Rohdaten
+
+Polizeiinspektionen
+-------------------
+
+Rohdaten
 
