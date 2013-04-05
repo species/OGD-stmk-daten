@@ -1,0 +1,540 @@
+DISTRICT_CODE;NAME;DISTRICT;NUTS3;TOUR_REG;REGION;STATUS;POP_TOTAL;AREA
+60101;Graz;Graz-Stadt;Graz;Region Graz;Steirischer Zentralraum;Statutarstadt;265318;12748,16
+60301;Aibl;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1429;4066,47
+60302;Deutschlandsberg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde;8130;2451,5
+60303;Eibiswald;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1385;238,31
+60305;Frauental an der Laßnitz;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2949;1558,38
+60306;Freiland bei Deutschlandsberg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;154;1025,93
+60307;Bad Gams;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2294;4874,76
+60308;Garanas;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;265;5976,48
+60309;Georgsberg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1488;1348,5
+60310;Greisdorf;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1017;2635,55
+60311;Gressenberg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;307;3483,21
+60312;Groß Sankt Florian;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2925;2578,97
+60313;Großradl;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1428;3199,79
+60314;Gundersdorf;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;419;571,26
+60315;Hollenegg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;2129;1757,75
+60316;Kloster;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;193;2209,62
+60318;Lannach;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3319;1987,23
+60319;Limberg bei Wies;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;920;768,85
+60320;Marhof;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1053;3100,9
+60321;Osterwitz;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;149;4525,97
+60322;Pitschgau;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1577;1215,31
+60323;Pölfing-Brunn;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1673;615,86
+60324;Preding;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1699;1822,99
+60325;Rassach;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1438;1819,13
+60326;Sankt Josef (Weststeiermark);Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1401;1330,29
+60327;Sankt Martin im Sulmtal;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1815;2053,31
+60328;Sankt Oswald ob Eibiswald;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;560;2245,48
+60329;Sankt Peter im Sulmtal;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1357;1098,38
+60330;Sankt Stefan ob Stainz;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;2189;1716,63
+60331;Schwanberg;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2087;1201,26
+60332;Soboth;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;340;4238,49
+60333;Stainz;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2536;918,48
+60334;Stainztal;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1460;1989,77
+60335;Stallhof;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;523;106,76
+60336;Sulmeck-Greith;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1334;1864,97
+60338;Trahütten;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;398;2820,59
+60339;Unterbergla;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1372;2298,7
+60340;Wernersdorf;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;633;996,98
+60341;Wettmannstätten;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1540;1797,49
+60342;Wielfresen;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;573;4394,38
+60343;Wies;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2304;1497,12
+60601;Attendorf;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1795;1571,29
+60602;Brodingberg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1244;1292,36
+60603;Deutschfeistritz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3915;3926,7
+60604;Dobl;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;1750;1364,76
+60605;Edelsgrub;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;699;715,99
+60606;Eggersdorf bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2102;991,61
+60607;Eisbach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2988;4151,7
+60608;Feldkirchen bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;5507;1157,59
+60609;Fernitz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;3209;1054,59
+60610;Frohnleiten;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Stadtgemeinde;6019;12763,8
+60611;Gössendorf;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3722;720,96
+60612;Grambach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1663;693,96
+60613;Gratkorn;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;7549;3461,29
+60614;Gratwein;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3686;457,43
+60615;Großstübing;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;337;1778,83
+60616;Gschnaidt;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;344;2996,11
+60617;Hart bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;4473;1106,18
+60618;Haselsdorf-Tobelbad;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1347;667,72
+60619;Hausmannstätten;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2851;678,14
+60620;Hitzendorf;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3637;2475,14
+60621;Höf-Präbach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1438;1066,7
+60622;Judendorf-Straßengel;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;5720;1064,21
+60623;Kainbach bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2636;1781,24
+60624;Kalsdorf bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;5872;1516,05
+60625;Krumegg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1442;1626,32
+60626;Kumberg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3609;2942,34
+60627;Langegg bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;834;1144,59
+60628;Laßnitzhöhe;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2704;1487,65
+60629;Lieboch;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4688;1172,87
+60630;Mellach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1201;996,58
+60631;Nestelbach bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1075;873,81
+60632;Peggau;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2132;1125,01
+60633;Pirka;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;3202;943,04
+60634;Hart-Purgstall;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1616;1585,38
+60635;Raaba;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2180;769,66
+60636;Röthelstein;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;219;699,75
+60637;Rohrbach-Steinberg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1429;842,02
+60639;Sankt Bartholomä;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1382;1172,06
+60640;Sankt Marein bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;1259;1028,62
+60641;Sankt Oswald bei Plankenwarth;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1179;1180,73
+60642;Sankt Radegund bei Graz;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2033;2155,31
+60643;Schrems bei Frohnleiten;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;604;1920,44
+60644;Seiersberg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;7358;792,59
+60645;Semriach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3262;6033,74
+60646;Stattegg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2743;2582,94
+60647;Stiwoll;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;715;1301,37
+60648;Thal;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2234;1851,28
+60649;Tulwitz;Graz-Umgebung;Graz;Thermenland Steiermark - Oststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;515;1160,58
+60650;Tyrnau;Graz-Umgebung;Graz;Thermenland Steiermark - Oststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;154;2012,56
+60651;Übelbach;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;1953;9463,2
+60652;Unterpremstätten;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3618;1787,53
+60653;Vasoldsberg;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4228;2808,48
+60654;Weinitzen;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2585;1898,78
+60655;Werndorf;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;2199;623,85
+60656;Wundschuh;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1517;1288,8
+60657;Zettling;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1551;1138,97
+60658;Zwaring-Pöls;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ohne Status;1533;2427,4
+61001;Allerheiligen bei Wildon;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1439;2050,82
+61002;Arnfels;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1074;419,38
+61003;Berghausen;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;643;564,11
+61004;Breitenfeld am Tannenriegel;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;201;446,08
+61005;Ehrenhausen;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1047;305,69
+61006;Eichberg-Trautenburg;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;787;2118,53
+61007;Empersdorf;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1322;1423,11
+61008;Gabersdorf;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1119;1985,85
+61009;Gamlitz;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3128;3458,24
+61010;Glanz an der Weinstraße;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1405;2406,36
+61011;Gleinstätten;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1466;834,23
+61012;Gralla;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;2068;1213,54
+61013;Großklein;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2270;2771,5
+61014;Hainsdorf im Schwarzautal;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;283;668,75
+61015;Heiligenkreuz am Waasen;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1868;1537,55
+61016;Heimschuh;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1954;1851,16
+61017;Hengsberg;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1392;1770,1
+61018;Kaindorf an der Sulm;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2542;655,02
+61019;Kitzeck im Sausal;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1207;1634,92
+61020;Lang;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1214;1566,54
+61021;Lebring-Sankt Margarethen;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1998;760,32
+61022;Leibnitz;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde;7863;594,63
+61023;Leutschach;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;557;111,03
+61024;Oberhaag;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;2261;3596,74
+61025;Obervogau;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;878;396,38
+61026;Pistorf;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1406;1356,64
+61027;Ragnitz;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1454;2076,18
+61028;Ratsch an der Weinstraße;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;448;830,21
+61029;Retznei;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;420;331,12
+61030;Sankt Andrä-Höch;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1740;2062,54
+61031;Sankt Georgen an der Stiefing;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1107;1386,34
+61032;Sankt Johann im Saggautal;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;2050;2701,93
+61033;Sankt Nikolai im Sausal;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2219;2615,82
+61034;Sankt Nikolai ob Draßling;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1056;1765,19
+61035;Sankt Ulrich am Waasen;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;773;1099,93
+61036;Sankt Veit am Vogau;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1905;2523,55
+61037;Schloßberg;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1069;2938,56
+61038;Seggauberg;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;974;1103,72
+61039;Spielfeld;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;963;1013,19
+61040;Stocking;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1455;1641,26
+61041;Straß in Steiermark;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1755;875,32
+61042;Sulztal an der Weinstraße;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;133;229,28
+61043;Tillmitsch;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;3159;1501,94
+61044;Vogau;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1116;604,69
+61045;Wagna;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5362;1301,51
+61046;Weitendorf;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde ohne Status;1527;1386,52
+61047;Wildon;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2569;724,75
+61048;Wolfsberg im Schwarzautal;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;799;1058,37
+61101;Eisenerz;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;4805;12446,12
+61104;Hieflau;Leoben;Östliche Obersteiermark;Sonstige;Obersteiermark Ost;Gemeinde ohne Status;775;4697,8
+61105;Kalwang;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1086;6726,06
+61106;Kammern im Liesingtal;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1657;5869,14
+61107;Kraubath an der Mur;Leoben;Östliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark Ost;Marktgemeinde;1287;2747,46
+61108;Leoben;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;24645;10772,64
+61109;Mautern in Steiermark;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1817;10879,28
+61110;Niklasdorf;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2547;1512,71
+61111;Proleb;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1580;2447,5
+61112;Radmer;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;659;8243,59
+61113;Sankt Michael in Obersteiermark;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3075;5602,4
+61114;Sankt Peter-Freienstein;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2417;2729,7
+61115;Sankt Stefan ob Leoben;Leoben;Östliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark Ost;Gemeinde ohne Status;1966;7855,02
+61116;Traboch;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1387;1249,09
+61118;Vordernberg;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1052;2786,77
+61119;Wald am Schoberpaß;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;634;9025,44
+61120;Trofaiach;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;11339;14325,05
+61201;Admont;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;2535;7600,53
+61202;Aich;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;926;2436,64
+61203;Aigen im Ennstal;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;2574;8631,88
+61204;Altaussee;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde ohne Status;1777;9210,93
+61205;Altenmarkt bei Sankt Gallen;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;864;4304,72
+61206;Ardning;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1185;3416,42
+61207;Bad Aussee;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Stadtgemeinde;4884;8186,09
+61208;Donnersbach;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;1101;6330,66
+61209;Donnersbachwald;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;328;11439,5
+61210;Gaishorn am See;Liezen;Liezen;Hochsteiermark;Liezen;Marktgemeinde;1011;4067,78
+61211;Gams bei Hieflau;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;573;4623,65
+61212;Gössenberg;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;274;3210,77
+61213;Gröbming;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2846;6648,3
+61214;Großsölk;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;487;2085,03
+61215;Grundlsee;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde ohne Status;1256;15153,97
+61216;Hall;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1743;5072,64
+61217;Haus;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2394;8250,07
+61218;Irdning;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2763;2197,74
+61219;Johnsbach;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;141;9782,5
+61220;Kleinsölk;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;582;13216,79
+61221;Landl;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1270;10451,39
+61222;Lassing;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1667;3725,37
+61223;Liezen;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;6861;5589,51
+61224;Michaelerberg;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;543;2602,27
+61225;Mitterberg;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;1170;1728,56
+61226;Bad Mitterndorf;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Marktgemeinde;3088;11258,35
+61227;Niederöblarn;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;596;2085,76
+61228;Öblarn;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;1442;4931,08
+61229;Oppenberg;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;246;9271,45
+61230;Palfau;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;408;5797,75
+61232;Pichl-Preunegg;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;940;5440,12
+61233;Pichl-Kainisch;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde ohne Status;766;2977,4
+61234;Pruggern;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;614;2162,05
+61235;Pürgg-Trautenfels;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;919;6270,57
+61236;Ramsau am Dachstein;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;2770;7533,05
+61237;Rohrmoos-Untertal;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;1389;14639,24
+61238;Rottenmann;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;5120;11261,69
+61239;Sankt Gallen;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;1421;6120,28
+61240;Sankt Martin am Grimming;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;762;3763,72
+61241;Sankt Nikolai im Sölktal;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;497;13522,64
+61242;Schladming;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Stadtgemeinde;4367;1031,61
+61243;Selzthal;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1679;1674,8
+61244;Stainach;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;1962;1024,86
+61245;Tauplitz;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde ohne Status;1013;5390,66
+61246;Treglwang;Liezen;Liezen;Hochsteiermark;Liezen;Gemeinde ohne Status;366;3629,24
+61247;Trieben;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;3440;4532,62
+61248;Weißenbach an der Enns;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;502;6858,88
+61249;Weißenbach bei Liezen;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;1117;3583,1
+61250;Weng im Gesäuse;Liezen;Liezen;Sonstige;Liezen;Gemeinde ohne Status;607;7528,78
+61251;Wildalpen;Liezen;Liezen;Hochsteiermark;Liezen;Gemeinde ohne Status;526;20282,07
+61252;Wörschach;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde ohne Status;1158;4290,58
+61401;Dürnstein in der Steiermark;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;276;1421,78
+61403;Frojach-Katsch;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1193;3883,79
+61404;Krakaudorf;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;636;2978,28
+61405;Krakauhintermühlen;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;552;8076,23
+61406;Krakauschatten;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;318;1305,31
+61407;Kulm am Zirbitz;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;329;1899,65
+61408;Laßnitz bei Murau;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1047;4547,6
+61409;Mariahof;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1344;3269,64
+61410;Mühlen;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;940;5066,62
+61411;Murau;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;2124;1075,02
+61412;Neumarkt in Steiermark;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1788;512,84
+61413;Niederwölz;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;599;1027,71
+61414;Oberwölz Stadt;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;996;465,09
+61415;Oberwölz Umgebung;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;787;9489,25
+61416;Perchau am Sattel;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;300;1943,56
+61417;Predlitz-Turrach;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;851;14987,97
+61418;Ranten;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1044;3880,5
+61419;Rinegg;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;160;1360,59
+61420;Sankt Blasen;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;573;2654,72
+61421;Sankt Georgen ob Murau;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1385;8377,06
+61422;Sankt Lambrecht;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1447;4364,44
+61423;Sankt Lorenzen bei Scheifling;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;622;4187,55
+61424;Sankt Marein bei Neumarkt;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;967;5476
+61425;Sankt Peter am Kammersberg;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2081;8417,79
+61427;Scheifling;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1537;1536,46
+61428;Schöder;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1020;7492,99
+61429;Schönberg-Lachtal;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;443;4193,18
+61430;Stadl an der Mur;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1006;10633,5
+61431;Stolzalpe;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;451;1189,72
+61432;Teufenbach;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;705;343,32
+61433;Triebendorf;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;141;850,77
+61434;Winklern bei Oberwölz;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;885;6869,96
+61435;Zeutschach;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;223;1831,94
+61436;St.Ruprecht-Falkendorf;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;473;2800,64
+61601;Bärnbach;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;5248;1724,74
+61602;Edelschrott;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;1619;6571,37
+61603;Gallmannsegg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;316;3279,26
+61604;Geistthal;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;839;3651,12
+61605;Gößnitz;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;453;3104,69
+61606;Graden;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;489;2286,44
+61607;Hirschegg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;678;5998,83
+61608;Kainach bei Voitsberg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;669;3466,07
+61609;Köflach;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9731;2041,17
+61610;Kohlschwarz;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;710;1598,43
+61611;Krottendorf-Gaisfeld;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;2441;1705,07
+61612;Ligist;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3242;3461,84
+61613;Maria Lankowitz;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2196;2400,38
+61614;Modriach;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;214;2197,45
+61615;Mooskirchen;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2069;1797,44
+61616;Pack;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;421;3913,77
+61617;Piberegg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;361;1433,73
+61618;Rosental an der Kainach;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;1700;654,06
+61619;Salla;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;288;4919,64
+61620;Sankt Johann-Köppling;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;1776;1023,62
+61621;Sankt Martin am Wöllmißberg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;828;2575,99
+61622;Söding;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;2172;913,63
+61623;Södingberg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde ohne Status;834;1608,88
+61624;Stallhofen;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3160;2732,45
+61625;Voitsberg;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9614;2861,86
+61701;Albersdorf-Prebuch;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1987;1415,14
+61702;Anger;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;833;197,2
+61703;Arzberg;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;552;1593,81
+61704;Baierdorf bei Anger;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1669;1630,6
+61705;Birkfeld;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1619;426,46
+61706;Etzersdorf-Rollsdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1133;1343,77
+61707;Feistritz bei Anger;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1074;811,04
+61708;Fischbach;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1566;6156,86
+61709;Fladnitz an der Teichalm;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1179;3477,86
+61710;Floing;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1202;1315,65
+61711;Gasen;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;947;3391,97
+61712;Gersdorf an der Feistritz;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1214;1901,73
+61713;Gleisdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;5766;475,4
+61714;Gschaid bei Birkfeld;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;915;1500,89
+61715;Gutenberg an der Raabklamm;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1256;1462,13
+61716;Markt Hartmannsdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2947;2920,44
+61717;Haslau bei Birkfeld;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;443;1404,55
+61718;Hirnsdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;700;456,61
+61719;Hofstätten an der Raab;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2045;1524,86
+61720;Hohenau an der Raab;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1314;3775,11
+61721;Ilztal;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1731;1599,09
+61722;Koglhof;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1122;3040,44
+61723;Krottendorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2376;1241,29
+61724;Kulm bei Weiz;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;483;587,53
+61725;Labuch;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;788;722,47
+61726;Laßnitzthal;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1088;759,34
+61727;Ludersdorf-Wilfersdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2044;1281,12
+61728;Miesenbach bei Birkfeld;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;742;1472,13
+61729;Mitterdorf an der Raab;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2074;2102,44
+61730;Mortantsch;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2011;1746,67
+61731;Naas;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1389;2077,53
+61732;Naintsch;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;614;2757,79
+61733;Neudorf bei Passail;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;498;1274,52
+61734;Nitscha;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1448;1408,17
+61735;Oberrettenbach;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;465;1105,17
+61736;Passail;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2004;1379,01
+61737;Pischelsdorf in der Steiermark;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2500;1732,07
+61739;Preßguts;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;398;648,63
+61740;Puch bei Weiz;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2100;2475,94
+61741;Ratten;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1185;2879,75
+61742;Reichendorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;612;494,01
+61743;Rettenegg;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;759;7852,61
+61744;Sankt Kathrein am Hauenstein;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;678;1929,63
+61745;Sankt Kathrein am Offenegg;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1149;4038,23
+61746;Sankt Margarethen an der Raab;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3914;4301,5
+61747;Sankt Ruprecht an der Raab;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2081;1178,71
+61748;Sinabelkirchen;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4044;3718,81
+61749;Stenzengreith;Weiz;Oststeiermark;Region Graz;Oststeiermark;Gemeinde ohne Status;515;1317,73
+61750;Strallegg;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2003;4223,06
+61751;Thannhausen;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2356;3342,58
+61752;Ungerdorf;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;852;501,78
+61753;Unterfladnitz;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1500;1585,09
+61754;Waisenegg;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1093;2605,66
+61755;Weiz;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;8928;507,26
+62001;Amering;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1066;4872,51
+62002;Apfelberg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1135;933,35
+62003;Bretstein;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;309;9144,29
+62004;Eppenstein;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1249;5759,05
+62005;Feistritz bei Knittelfeld;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;773;989,13
+62006;Flatschach;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;204;742,05
+62007;Fohnsdorf;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;7900;5469,57
+62008;Gaal;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1433;19746,51
+62009;Großlobming;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1191;736,78
+62010;Hohentauern;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;462;9264,45
+62011;Judenburg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;9319;1322,29
+62012;Kleinlobming;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;655;4701,7
+62013;Knittelfeld;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;11552;451,72
+62014;Kobenz;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1840;1763,6
+62015;Maria Buch-Feistritz;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;2290;2850,29
+62016;Obdach;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2103;4280,17
+62017;Oberkurzheim;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;714;2916,45
+62018;Oberweg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;577;3433,11
+62019;Oberzeiring;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;860;3821,7
+62020;Pöls;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2432;3337,18
+62021;Pusterwald;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;490;10528,98
+62022;Rachau;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;607;10493,75
+62023;Reifling;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;385;1621,56
+62024;Reisstraße;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;174;6227,25
+62025;Sankt Anna am Lavantegg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;417;4714,44
+62026;Sankt Georgen ob Judenburg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;884;4433,37
+62027;Sankt Johann am Tauern;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;489;8451,19
+62028;Sankt Lorenzen bei Knittelfeld;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;796;3591,37
+62029;Sankt Marein bei Knittelfeld;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1226;6071,58
+62030;Sankt Margarethen bei Knittelfeld;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1334;737,85
+62031;Sankt Oswald-Möderbrugg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1174;5604,47
+62032;Sankt Peter ob Judenburg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;1111;5027,64
+62033;Sankt Wolfgang-Kienberg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde ohne Status;375;2044,03
+62034;Seckau;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1262;4623,57
+62035;Spielberg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;5125;2228,35
+62036;Unzmarkt-Frauenburg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1375;3645,35
+62037;Weißkirchen in Steiermark;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1316;127,1
+62038;Zeltweg;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;7188;870,49
+62101;Aflenz Kurort;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1007;1609,22
+62102;Aflenz Land;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1483;3897,09
+62103;Allerheiligen im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1945;4709,92
+62104;Altenberg an der Rax;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;334;5749,06
+62105;Breitenau am Hochlantsch;Bruck-Mürzzuschlag;Östliche Obersteiermark;Thermenland Steiermark - Oststeiermark;Obersteiermark Ost;Marktgemeinde;1806;6240,1
+62106;Bruck an der Mur;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;12551;3831,84
+62107;Etmißl;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;519;2763,03
+62108;Frauenberg;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;158;2058,54
+62109;Ganz;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;347;3209,8
+62110;Gußwerk;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1286;28529,59
+62111;Halltal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;333;7444,61
+62112;Kapellen;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;598;4486,81
+62113;Kapfenberg;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;21710;6119,86
+62114;Kindberg;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;5465;4149,67
+62115;Krieglach;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;5171;9373,98
+62116;Langenwang;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3999;7592,62
+62117;Mariazell;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;1500;643,33
+62118;Mitterdorf im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2417;1115,51
+62119;Mürzhofen;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;946;192,75
+62120;Mürzsteg;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;631;10817,02
+62121;Mürzzuschlag;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;8663;1921,38
+62122;Neuberg an der Mürz;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1306;6407,3
+62123;Oberaich;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3126;4692,3
+62124;Parschlug;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1740;2079,6
+62125;Pernegg an der Mur;Bruck-Mürzzuschlag;Östliche Obersteiermark;Region Graz;Obersteiermark Ost;Gemeinde ohne Status;2392;8600,54
+62126;Sankt Ilgen;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;275;7349,85
+62127;Sankt Katharein an der Laming;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;994;4367,19
+62128;Sankt Lorenzen im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3502;3804,69
+62129;Sankt Marein im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2527;887,45
+62130;Sankt Sebastian;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1018;4731,79
+62131;Spital am Semmering;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1624;7314,7
+62132;Stanz im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1922;7673,37
+62133;Thörl;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1657;6532,66
+62134;Tragöß;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;1005;11021,32
+62135;Turnau;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1566;13428,41
+62136;Veitsch;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2499;7757,61
+62137;Wartberg im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde ohne Status;2089;2375,86
+62201;Altenmarkt bei Fürstenfeld;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1153;2007,66
+62202;Bad Blumau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1619;3735,89
+62203;Bad Waltersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2185;3196,79
+62204;Blaindorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;665;1056,02
+62205;Buch-St. Magdalena;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2162;2640,51
+62206;Burgau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;993;1999,2
+62207;Dechantskirchen;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1614;2414,89
+62208;Dienersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;703;708,84
+62209;Ebersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1229;1726,29
+62210;Eichberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1215;1864,56
+62211;Friedberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;2574;2587,27
+62212;Fürstenfeld;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;5984;1517,5
+62213;Grafendorf bei Hartberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2531;2522,48
+62214;Greinbach;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1774;2337,71
+62215;Großhart;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;629;1064,78
+62216;Großsteinbach;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1325;2124,82
+62217;Großwilfersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1388;2106,54
+62218;Hainersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;661;1735,47
+62219;Hartberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;6540;2157,87
+62220;Hartberg Umgebung;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2148;3042,98
+62221;Hartl;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;820;1474,08
+62222;Hofkirchen bei Hartberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;628;666,19
+62223;Ilz;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2565;2486,26
+62224;Kaibing;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;375;280,56
+62225;Kaindorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1470;1425,6
+62226;Lafnitz;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1387;1560,85
+62227;Limbach bei Neudau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;331;769,35
+62228;Loipersdorf bei Fürstenfeld;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1389;1771,77
+62229;Mönichwald;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;897;3528,82
+62230;Nestelbach im Ilztal;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1107;1444,04
+62231;Neudau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1212;1016,79
+62232;Ottendorf an der Rittschein;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1502;1427,37
+62233;Pinggau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3083;5908,94
+62234;Pöllau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2067;466,21
+62235;Pöllauberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2094;3395,3
+62236;Puchegg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;556;1371,87
+62237;Rabenwald;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;616;1694,49
+62238;Riegersberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;990;2473,1
+62239;Rohr bei Hartberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1091;1682,65
+62240;Rohrbach an der Lafnitz;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1065;207,13
+62241;Saifen-Boden;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1048;1894,71
+62242;Sankt Jakob im Walde;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1066;3029,6
+62243;Sankt Johann bei Herberstein;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;371;282,11
+62244;Sankt Johann in der Haide;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1993;2356,01
+62245;Sankt Lorenzen am Wechsel;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1570;4853,93
+62246;Schachen bei Vorau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1190;1917,57
+62247;Schäffern;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1456;3236,54
+62248;Schlag bei Thalberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;932;1079,18
+62249;Schönegg bei Pöllau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1383;2690,47
+62250;Sebersdorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1409;1613,84
+62251;Siegersdorf bei Herberstein;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;290;494,71
+62252;Söchau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1436;1818,66
+62253;Sonnhofen;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1037;2141,48
+62254;Stambach;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;635;2047,76
+62255;Stein;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;484;729,13
+62256;Stubenberg;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;2321;3264,48
+62257;Tiefenbach bei Kaindorf;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;692;843,31
+62258;Übersbach;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1159;1516,39
+62259;Vorau;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1356;477,45
+62260;Vornholz;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;719;1887,03
+62261;Waldbach;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;710;1868,01
+62262;Wenigzell;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;1426;3568,27
+62263;Wörth an der Lafnitz;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde ohne Status;362;1092,15
+62301;Auersbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;880;1269,56
+62302;Aug-Radisch;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;289;453,18
+62303;Bad Gleichenberg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;2226;1372,58
+62304;Bad Radkersburg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde;1326;216,04
+62305;Bairisch Kölldorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1065;644,44
+62306;Baumgarten bei Gnas;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;575;900,7
+62307;Bierbaum am Auersbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;477;517,97
+62308;Breitenfeld an der Rittschein;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;786;1319,91
+62309;Deutsch Goritz;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1231;2357,07
+62310;Dietersdorf am Gnasbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;370;661,22
+62311;Edelsbach bei Feldbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1394;1612,59
+62312;Edelstauden;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;452;676,04
+62313;Eichfeld;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;887;1799,8
+62314;Eichkögl;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1231;1490,56
+62315;Fehring;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde;3039;2976,45
+62316;Feldbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde;4643;321,16
+62317;Fladnitz im Raabtal;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;753;634,82
+62318;Frannach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;558;806,69
+62319;Frutten-Gießelsdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;645;1086,24
+62320;Glojach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;245;340,64
+62321;Gnas;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1930;1593,29
+62322;Gniebing-Weißenbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;2190;1541,73
+62323;Gosdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1150;1573,22
+62324;Gossendorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;907;941,85
+62325;Grabersdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;351;637,81
+62326;Halbenrain;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1786;3878,42
+62327;Hatzendorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1740;2506,87
+62328;Hof bei Straden;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;880;1722,89
+62329;Hohenbrugg-Weinberg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;973;1568,78
+62330;Jagerberg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1664;2904,85
+62331;Johnsdorf-Brunn;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;782;734,07
+62332;Kapfenstein;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1609;2859,18
+62333;Kirchbach in Steiermark;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1555;1533,54
+62334;Kirchberg an der Raab;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1995;1666,48
+62335;Klöch;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1223;1640,65
+62336;Kohlberg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;524;804,99
+62337;Kornberg bei Riegersburg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1145;1600,24
+62338;Krusdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;398;599,61
+62339;Leitersdorf im Raabtal;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;664;483,05
+62340;Lödersdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;705;985,22
+62341;Maierdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;532;936,14
+62342;Merkendorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1151;1127,5
+62343;Mettersdorf am Saßbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1318;2278,31
+62344;Mitterlabill;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;414;792,39
+62345;Mühldorf bei Feldbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;3069;1772,81
+62346;Mureck;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde;1597;499,66
+62347;Murfeld;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1666;2421,9
+62348;Oberdorf am Hochegg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;725;1271,47
+62349;Oberstorcha;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;636;880,46
+62350;Paldau;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2090;2370,8
+62351;Perlsdorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;351;563,26
+62352;Pertlstein;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;798;934,53
+62353;Petersdorf II;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;864;1516,3
+62354;Pirching am Traubenberg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1624;1674,32
+62355;Poppendorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;694;1133,85
+62356;Raabau;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;589;399,62
+62357;Radkersburg Umgebung;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1760;2783,95
+62358;Raning;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;810;833,53
+62359;Ratschendorf;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;619;1044,5
+62360;Riegersburg;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2391;3214,52
+62361;Sankt Anna am Aigen;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1758;2174,86
+62362;Sankt Peter am Ottersbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2261;3677,28
+62363;Sankt Stefan im Rosental;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3809;3979,46
+62364;Schwarzau im Schwarzautal;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;641;1056,16
+62365;Stainz bei Straden;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;995;1375,14
+62366;Straden;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1550;1953,55
+62367;Studenzen;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;693;590,02
+62368;Tieschen;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1317;1817,43
+62369;Trautmannsdorf in Oststeiermark;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;859;732,08
+62370;Trössing;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;277;417,97
+62371;Unterauersbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;449;797,54
+62372;Unterlamm;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1260;1673,27
+62373;Weinburg am Saßbach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1052;2575,26
+62374;Zerlach;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde ohne Status;1713;2382,17
