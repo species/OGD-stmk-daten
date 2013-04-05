@@ -17,3 +17,24 @@ Holzeinschlag
 * Rohdaten nach Jahr
 * holzeinschlag_ST_2011.pdf: Darstellung des Gesamt-Holzschlags in der Steiermark 2011 nach Bezirk
 * Steiermark_gesamt.ods: Jährlicher Verlauf des Holzeinschlags in der Steiermark nach Typ
+
+Freibäder
+---------
+
+Rohdaten
+
+Niedergelassene Ärzte
+---------------------
+
+Rohdaten
+
+Feuerwehren
+-----------
+
+Rohdaten
+
+Polizeiinspektionen
+-------------------
+
+Rohdaten
+
