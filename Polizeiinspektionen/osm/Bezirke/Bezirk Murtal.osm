@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.251188712520026" lon="14.896381550714619" id="-110">
+  <tag k="addr:housenumber" v="110"></tag>
+  <tag k="contact:tel" v="+43 59133 6312"></tag>
+  <tag k="addr:city" v="St. Lorenzen/Knittelfeld"></tag>
+  <tag k="addr:postcode" v="8715"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1086"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.21889963467514" lon="14.831074641023145" id="-111">
+  <tag k="addr:housenumber" v="19"></tag>
+  <tag k="contact:tel" v="+43 59133 6310"></tag>
+  <tag k="addr:city" v="Knittelfeld"></tag>
+  <tag k="addr:postcode" v="8720"></tag>
+  <tag k="addr:street" v="Franz-Leitner-Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1087"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.27445867111892" lon="14.785621586388418" id="-112">
+  <tag k="addr:housenumber" v="81"></tag>
+  <tag k="contact:tel" v="+43 59133 6311"></tag>
+  <tag k="addr:city" v="Seckau"></tag>
+  <tag k="addr:postcode" v="8732"></tag>
+  <tag k="addr:street" v="Zellenplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1088"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.189127005845265" lon="14.748391382488185" id="-113">
+  <tag k="addr:housenumber" v="79"></tag>
+  <tag k="contact:tel" v="+43 59133 6307"></tag>
+  <tag k="addr:city" v="Zeltweg"></tag>
+  <tag k="addr:postcode" v="8740"></tag>
+  <tag k="addr:street" v="Bahnhofstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1089"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.15221867114336" lon="14.739010949100095" id="-114">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 59133 6306"></tag>
+  <tag k="addr:city" v="Weißkirchen/Steiermark"></tag>
+  <tag k="addr:postcode" v="8741"></tag>
+  <tag k="addr:street" v="Gemeindeplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1090"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.068418128808986" lon="14.69563275641029" id="-115">
+  <tag k="addr:housenumber" v="33"></tag>
+  <tag k="contact:tel" v="+43 59133 6302"></tag>
+  <tag k="addr:city" v="Obdach"></tag>
+  <tag k="addr:postcode" v="8742"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1091"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.16920872924724" lon="14.655108536366921" id="-116">
+  <tag k="addr:housenumber" v="32"></tag>
+  <tag k="contact:tel" v="+43 59133 6300"></tag>
+  <tag k="addr:city" v="Judenburg"></tag>
+  <tag k="addr:postcode" v="8750"></tag>
+  <tag k="addr:street" v="Herrengasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1092"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.208633683587" lon="14.681537918109132" id="-117">
+  <tag k="addr:housenumber" v="12"></tag>
+  <tag k="contact:tel" v="+43 59133 6301"></tag>
+  <tag k="addr:city" v="Fohnsdorf"></tag>
+  <tag k="addr:postcode" v="8753"></tag>
+  <tag k="addr:street" v="Landstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1093"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.22014624905799" lon="14.58003911838266" id="-118">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 59133 6304"></tag>
+  <tag k="addr:city" v="Pöls"></tag>
+  <tag k="addr:postcode" v="8761"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1094"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.251643732407764" lon="14.487352427415296" id="-119">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 59133 6303"></tag>
+  <tag k="addr:city" v="Oberzeiring"></tag>
+  <tag k="addr:postcode" v="8762"></tag>
+  <tag k="addr:street" v="Marktplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1095"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.19605854896815" lon="14.442983473925366" id="-130">
+  <tag k="addr:housenumber" v="22"></tag>
+  <tag k="contact:tel" v="+43 59133 6305"></tag>
+  <tag k="addr:city" v="Unzmarkt"></tag>
+  <tag k="addr:postcode" v="8800"></tag>
+  <tag k="addr:street" v="Kärntner Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1106"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

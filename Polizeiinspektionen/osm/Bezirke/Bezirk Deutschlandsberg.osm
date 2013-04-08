@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.94440625034112" lon="15.330591041393674" id="-78">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 59133 6104"></tag>
+  <tag k="addr:city" v="Lannach"></tag>
+  <tag k="addr:postcode" v="8502"></tag>
+  <tag k="addr:street" v="Franz-Kandler-Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1054"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.859788190184815" lon="15.406582750746026" id="-79">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 59133 6105"></tag>
+  <tag k="addr:city" v="Preding"></tag>
+  <tag k="addr:postcode" v="8504"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1055"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.89415434048809" lon="15.266594012167321" id="-80">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 59133 6112"></tag>
+  <tag k="addr:city" v="Stainz"></tag>
+  <tag k="addr:postcode" v="8510"></tag>
+  <tag k="addr:street" v="Steggasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1056"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.92957880052187" lon="15.253129203937194" id="-81">
+  <tag k="addr:housenumber" v="21"></tag>
+  <tag k="contact:tel" v="+43 59133 6108"></tag>
+  <tag k="addr:city" v="St. Stefan/Stainz"></tag>
+  <tag k="addr:postcode" v="8511"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1057"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.823879425171384" lon="15.316279975107289" id="-82">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 59133 6103"></tag>
+  <tag k="addr:city" v="Groß St. Florian"></tag>
+  <tag k="addr:postcode" v="8522"></tag>
+  <tag k="addr:street" v="Marktplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1058"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.81776556812085" lon="15.215899845582031" id="-83">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 59133 6100"></tag>
+  <tag k="addr:city" v="Deutschlandsberg"></tag>
+  <tag k="addr:postcode" v="8530"></tag>
+  <tag k="addr:street" v="Bahnhofstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1059"></tag>
+  <tag k="note:type" v="Polizeiinspektion/ Bezirksleitstelle / Bezirkspoli"></tag>
+</node>
+<node lat="46.75715277003344" lon="15.200425012307916" id="-84">
+  <tag k="addr:housenumber" v="17"></tag>
+  <tag k="contact:tel" v="+43 59133 6109"></tag>
+  <tag k="addr:city" v="Schwanberg"></tag>
+  <tag k="addr:postcode" v="8541"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1060"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.7163932436835" lon="15.265869733832883" id="-85">
+  <tag k="addr:housenumber" v="27"></tag>
+  <tag k="contact:tel" v="+43 59133 6113"></tag>
+  <tag k="addr:city" v="Wies"></tag>
+  <tag k="addr:postcode" v="8551"></tag>
+  <tag k="addr:street" v="Altenmarkter Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1061"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.68804568863545" lon="15.245659729481726" id="-86">
+  <tag k="addr:housenumber" v="294"></tag>
+  <tag k="contact:tel" v="+43 59133 6102"></tag>
+  <tag k="addr:city" v="Eibiswald"></tag>
+  <tag k="addr:postcode" v="8552"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1062"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.68195673164173" lon="15.073337917059579" id="-87">
+  <tag k="addr:housenumber" v="90"></tag>
+  <tag k="contact:tel" v="+43 59133 6111"></tag>
+  <tag k="addr:city" v="Soboth"></tag>
+  <tag k="addr:postcode" v="8554"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1063"></tag>
+  <tag k="note:type" v="Polizeiinspektion mit Außengrenze"></tag>
+</node>
+</osm>

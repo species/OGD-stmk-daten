@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.73766471532281" lon="15.920370119991917" id="-1">
+  <tag k="addr:housenumber" v="108"></tag>
+  <tag k="contact:tel" v="+43 59133 6181"></tag>
+  <tag k="addr:city" v="Oberpurkla"></tag>
+  <tag k="addr:postcode" v="8484"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="977"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.93168263991465" lon="15.662283000871758" id="-22">
+  <tag k="addr:housenumber" v="15"></tag>
+  <tag k="contact:tel" v="+43 59133 6124"></tag>
+  <tag k="addr:city" v="Kirchbach/Steiermark"></tag>
+  <tag k="addr:postcode" v="8082"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="998"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.902544735432514" lon="15.712306671116437" id="-23">
+  <tag k="addr:housenumber" v="25"></tag>
+  <tag k="contact:tel" v="+43 59133 6128"></tag>
+  <tag k="addr:city" v="St. Stefan/Rosental"></tag>
+  <tag k="addr:postcode" v="8083"></tag>
+  <tag k="addr:street" v="Murecker Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="999"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.79936102482055" lon="15.75907936260551" id="-24">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 59133 6184"></tag>
+  <tag k="addr:city" v="St. Peter/Ottersbach"></tag>
+  <tag k="addr:postcode" v="8093"></tag>
+  <tag k="addr:street" v="Petersplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1000"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.98589702539279" lon="15.767581886231884" id="-54">
+  <tag k="addr:housenumber" v="212"></tag>
+  <tag k="contact:tel" v="+43 59133 6125"></tag>
+  <tag k="addr:city" v="Kirchberg/Raab"></tag>
+  <tag k="addr:postcode" v="8324"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1030"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.95306928104646" lon="15.882645968037737" id="-55">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 59133 6120"></tag>
+  <tag k="addr:city" v="Feldbach"></tag>
+  <tag k="addr:postcode" v="8330"></tag>
+  <tag k="addr:street" v="Grillparzerstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1031"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.00093588055076" lon="15.935793655174088" id="-56">
+  <tag k="addr:housenumber" v="26"></tag>
+  <tag k="contact:tel" v="+43 59133 6126"></tag>
+  <tag k="addr:city" v="Riegersburg"></tag>
+  <tag k="addr:postcode" v="8333"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1032"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.874363819730476" lon="15.826786515644486" id="-57">
+  <tag k="contact:tel" v="+43 59133 6123"></tag>
+  <tag k="addr:city" v="Gnas"></tag>
+  <tag k="addr:postcode" v="8342"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1033"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.87912911418134" lon="15.906886635839808" id="-58">
+  <tag k="addr:housenumber" v="139"></tag>
+  <tag k="contact:tel" v="+43 59133 6121"></tag>
+  <tag k="addr:city" v="Bad Gleichenberg"></tag>
+  <tag k="addr:postcode" v="8344"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1034"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.936317088408934" lon="16.010120480841234" id="-59">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 59133 6122"></tag>
+  <tag k="addr:city" v="Fehring"></tag>
+  <tag k="addr:postcode" v="8350"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1035"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.83254824174086" lon="15.974361569187261" id="-60">
+  <tag k="addr:housenumber" v="14"></tag>
+  <tag k="contact:tel" v="+43 59133 6127"></tag>
+  <tag k="addr:city" v="St. Anna/Aigen"></tag>
+  <tag k="addr:postcode" v="8354"></tag>
+  <tag k="addr:street" v="Marktstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1036"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.70791253507257" lon="15.770810386146458" id="-74">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 59133 6183"></tag>
+  <tag k="addr:city" v="Mureck"></tag>
+  <tag k="addr:postcode" v="8480"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1050"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.69048548623905" lon="15.99436692805414" id="-75">
+  <tag k="addr:housenumber" v="17"></tag>
+  <tag k="contact:tel" v="+43 59133 6180"></tag>
+  <tag k="addr:city" v="Bad Radkersburg"></tag>
+  <tag k="addr:postcode" v="8490"></tag>
+  <tag k="addr:street" v="Dr. Schwaiger Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1051"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="46.7534441705107" lon="15.9728601019418" id="-76">
+  <tag k="addr:housenumber" v="81"></tag>
+  <tag k="contact:tel" v="+43 59133 6182"></tag>
+  <tag k="addr:city" v="Klöch"></tag>
+  <tag k="addr:postcode" v="8493"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1052"></tag>
+  <tag k="note:type" v="Grenzpolizeiinspektion (GÜ)"></tag>
+</node>
+</osm>

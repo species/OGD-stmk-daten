@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.48450797256235" lon="15.7215664756118" id="-104">
+  <tag k="addr:housenumber" v="145"></tag>
+  <tag k="contact:tel" v="+43 59133 6269"></tag>
+  <tag k="addr:city" v="Ratten"></tag>
+  <tag k="addr:postcode" v="8673"></tag>
+  <tag k="addr:street" v="Kirchenviertel"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1080"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.27269639966873" lon="15.691249778047851" id="-160">
+  <tag k="addr:housenumber" v="19"></tag>
+  <tag k="contact:tel" v="+43 59133 6261"></tag>
+  <tag k="addr:city" v="Anger"></tag>
+  <tag k="addr:postcode" v="8184"></tag>
+  <tag k="addr:street" v="Weizer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1136"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.21588417422381" lon="15.632243626367341" id="-34">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 59133 6260"></tag>
+  <tag k="addr:city" v="Weiz"></tag>
+  <tag k="addr:postcode" v="8160"></tag>
+  <tag k="addr:street" v="Straußgasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1010"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.28173143608964" lon="15.515489172758674" id="-35">
+  <tag k="addr:housenumber" v="43"></tag>
+  <tag k="contact:tel" v="+43 59133 6266"></tag>
+  <tag k="addr:city" v="Passail"></tag>
+  <tag k="addr:postcode" v="8162"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1011"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.152171202430424" lon="15.663613608145045" id="-36">
+  <tag k="addr:housenumber" v="20"></tag>
+  <tag k="contact:tel" v="+43 59133 6273"></tag>
+  <tag k="addr:city" v="St. Ruprecht/Raab"></tag>
+  <tag k="addr:postcode" v="8181"></tag>
+  <tag k="addr:street" v="Untere Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1012"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.35467250648245" lon="15.694411168340322" id="-37">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 59133 6262"></tag>
+  <tag k="addr:city" v="Birkfeld"></tag>
+  <tag k="addr:postcode" v="8190"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1013"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.10696402689522" lon="15.708244791752676" id="-38">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 59133 6264"></tag>
+  <tag k="addr:city" v="Gleisdorf"></tag>
+  <tag k="addr:postcode" v="8200"></tag>
+  <tag k="addr:street" v="Weizer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1014"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.17417923596143" lon="15.806343233154573" id="-39">
+  <tag k="addr:housenumber" v="22"></tag>
+  <tag k="contact:tel" v="+43 59133 6267"></tag>
+  <tag k="addr:city" v="Pischelsdorf/Steiermark"></tag>
+  <tag k="addr:postcode" v="8212"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1015"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.05407075287651" lon="15.842061623566426" id="-51">
+  <tag k="addr:housenumber" v="33"></tag>
+  <tag k="contact:tel" v="+43 59133 6265"></tag>
+  <tag k="addr:city" v="Markt Hartmannsdorf"></tag>
+  <tag k="addr:postcode" v="8311"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1027"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.0445779105692" lon="15.744667241170792" id="-52">
+  <tag k="addr:housenumber" v="39"></tag>
+  <tag k="contact:tel" v="+43 59133 6272"></tag>
+  <tag k="addr:city" v="St. Margarethen/Raab"></tag>
+  <tag k="addr:postcode" v="8321"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1028"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

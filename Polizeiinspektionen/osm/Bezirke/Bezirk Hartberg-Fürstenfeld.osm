@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.30218561987809" lon="15.83921106010876" id="-159">
+  <tag k="addr:housenumber" v="619"></tag>
+  <tag k="contact:tel" v="+43 59133 6235"></tag>
+  <tag k="addr:city" v="Pöllau"></tag>
+  <tag k="addr:postcode" v="8225"></tag>
+  <tag k="addr:street" v="Schloffereckstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1135"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.22410867408228" lon="15.907217994865643" id="-40">
+  <tag k="addr:housenumber" v="86"></tag>
+  <tag k="contact:tel" v="+43 59133 6234"></tag>
+  <tag k="addr:city" v="Kaindorf"></tag>
+  <tag k="addr:postcode" v="8224"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1016"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.28220130699756" lon="15.973963953454712" id="-41">
+  <tag k="addr:housenumber" v="29"></tag>
+  <tag k="contact:tel" v="+43 59133 6230"></tag>
+  <tag k="addr:city" v="Hartberg"></tag>
+  <tag k="addr:postcode" v="8230"></tag>
+  <tag k="addr:street" v="Ressavarstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1017"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.39045559991731" lon="15.99554537224484" id="-42">
+  <tag k="addr:housenumber" v="165"></tag>
+  <tag k="contact:tel" v="+43 59133 6236"></tag>
+  <tag k="addr:city" v="Rohrbach/Lafnitz"></tag>
+  <tag k="addr:postcode" v="8234"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1018"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.44130260893423" lon="16.05862610258419" id="-43">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 59133 6232"></tag>
+  <tag k="addr:city" v="Friedberg"></tag>
+  <tag k="addr:postcode" v="8240"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1019"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.40590434256176" lon="15.888712956405346" id="-44">
+  <tag k="addr:housenumber" v="78"></tag>
+  <tag k="contact:tel" v="+43 59133 6239"></tag>
+  <tag k="addr:city" v="Vorau"></tag>
+  <tag k="addr:postcode" v="8250"></tag>
+  <tag k="addr:street" v="Berggasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1020"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.086475619435404" lon="15.923526937216812" id="-45">
+  <tag k="addr:housenumber" v="38"></tag>
+  <tag k="contact:tel" v="+43 59133 6222"></tag>
+  <tag k="addr:city" v="Ilz"></tag>
+  <tag k="addr:postcode" v="8262"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1021"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.16987912144171" lon="16.00736129096626" id="-46">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 59133 6231"></tag>
+  <tag k="addr:city" v="Bad Waltersdorf"></tag>
+  <tag k="addr:postcode" v="8271"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1022"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.04604451863153" lon="16.081939350615897" id="-47">
+  <tag k="addr:housenumber" v="9"></tag>
+  <tag k="contact:tel" v="+43 59133 6220"></tag>
+  <tag k="addr:city" v="Fürstenfeld"></tag>
+  <tag k="addr:postcode" v="8280"></tag>
+  <tag k="addr:street" v="Schillerstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1023"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.14299668139142" lon="16.099207488734685" id="-48">
+  <tag k="addr:housenumber" v="7"></tag>
+  <tag k="contact:tel" v="+43 59133 6221"></tag>
+  <tag k="addr:city" v="Burgau"></tag>
+  <tag k="addr:postcode" v="8291"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1024"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.280171828021295" lon="16.00750679459977" id="-49">
+  <tag k="addr:housenumber" v="163"></tag>
+  <tag k="contact:tel" v="+43 59133 6238"></tag>
+  <tag k="addr:city" v="St. Johann/Haide"></tag>
+  <tag k="addr:postcode" v="8295"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1025"></tag>
+  <tag k="note:type" v="Autobahnpolizeiinspektion"></tag>
+</node>
+<node lat="47.03088702402703" lon="16.01710158666889" id="-61">
+  <tag k="addr:housenumber" v="104"></tag>
+  <tag k="contact:tel" v="+43 59133 6223"></tag>
+  <tag k="addr:city" v="Söchau"></tag>
+  <tag k="addr:postcode" v="8362"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1037"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

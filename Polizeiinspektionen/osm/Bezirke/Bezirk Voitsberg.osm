@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.04838571213445" lon="15.2210920098524" id="-33">
+  <tag k="addr:housenumber" v="31"></tag>
+  <tag k="contact:tel" v="+43 59133 6196"></tag>
+  <tag k="addr:city" v="Stallhofen"></tag>
+  <tag k="addr:postcode" v="8152"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1009"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.99996975186972" lon="15.285677308342276" id="-88">
+  <tag k="addr:housenumber" v="101"></tag>
+  <tag k="contact:tel" v="+43 59133 6195"></tag>
+  <tag k="addr:city" v="Söding"></tag>
+  <tag k="addr:postcode" v="8561"></tag>
+  <tag k="addr:street" v="Packer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1064"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.99181557541496" lon="15.151089351565737" id="-89">
+  <tag k="addr:housenumber" v="151"></tag>
+  <tag k="contact:tel" v="+43 59133 6197"></tag>
+  <tag k="addr:city" v="Ligist"></tag>
+  <tag k="addr:postcode" v="8563"></tag>
+  <tag k="addr:street" v="Unterwald"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1065"></tag>
+  <tag k="note:type" v="Autobahnpolizeiinspektion"></tag>
+</node>
+<node lat="47.008897601782344" lon="15.21622500934016" id="-90">
+  <tag k="addr:housenumber" v="161"></tag>
+  <tag k="contact:tel" v="+43 59133 6194"></tag>
+  <tag k="addr:city" v="Krottendorf-Gaisfeld"></tag>
+  <tag k="addr:postcode" v="8564"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1066"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.04748487789328" lon="15.150367832608358" id="-91">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 59133 6190"></tag>
+  <tag k="addr:city" v="Voitsberg"></tag>
+  <tag k="addr:postcode" v="8570"></tag>
+  <tag k="addr:street" v="Dr-Hubert-Kravcar-Platz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1067"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="47.063883177598605" lon="15.087852386310418" id="-92">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 59133 6193"></tag>
+  <tag k="addr:city" v="Köflach"></tag>
+  <tag k="addr:postcode" v="8580"></tag>
+  <tag k="addr:street" v="Mühlgasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1068"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.02352963947875" lon="15.051942678192272" id="-93">
+  <tag k="addr:housenumber" v="46"></tag>
+  <tag k="contact:tel" v="+43 59133 6192"></tag>
+  <tag k="addr:city" v="Edelschrott"></tag>
+  <tag k="addr:postcode" v="8583"></tag>
+  <tag k="addr:street" v="Packer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1069"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

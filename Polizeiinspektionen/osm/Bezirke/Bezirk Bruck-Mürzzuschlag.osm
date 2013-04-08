@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.50737156740232" lon="15.44965202702837" id="-100">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 59133 6251"></tag>
+  <tag k="addr:city" v="Kindberg"></tag>
+  <tag k="addr:postcode" v="8650"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1076"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.580357648984375" lon="15.492266714802557" id="-101">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 59133 6258"></tag>
+  <tag k="addr:city" v="Veitsch"></tag>
+  <tag k="addr:postcode" v="8663"></tag>
+  <tag k="addr:street" v="Obere Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1077"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.56831720432149" lon="15.619846972485705" id="-102">
+  <tag k="addr:housenumber" v="16"></tag>
+  <tag k="contact:tel" v="+43 59133 6253"></tag>
+  <tag k="addr:city" v="Langenwang"></tag>
+  <tag k="addr:postcode" v="8665"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1078"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.544677754744434" lon="15.560240865979175" id="-103">
+  <tag k="addr:housenumber" v="9"></tag>
+  <tag k="contact:tel" v="+43 59133 6252"></tag>
+  <tag k="addr:city" v="Krieglach"></tag>
+  <tag k="addr:postcode" v="8670"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1079"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.605500186178226" lon="15.670542094726795" id="-105">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 59133 6250"></tag>
+  <tag k="addr:city" v="Mürzzuschlag"></tag>
+  <tag k="addr:postcode" v="8680"></tag>
+  <tag k="addr:street" v="DDr.-Alfred-Schachner-Platz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1081"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando/Alpine Einsatzgruppe Mürzz"></tag>
+</node>
+<node lat="47.615422148934115" lon="15.751764521714009" id="-106">
+  <tag k="addr:housenumber" v="24a"></tag>
+  <tag k="contact:tel" v="+43 59133 6256"></tag>
+  <tag k="addr:city" v="Spital/Semmering"></tag>
+  <tag k="addr:postcode" v="8684"></tag>
+  <tag k="addr:street" v="Bundesstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1082"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.665748109933496" lon="15.575614413956277" id="-107">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 59133 6255"></tag>
+  <tag k="addr:city" v="Neuberg/Mürz"></tag>
+  <tag k="addr:postcode" v="8692"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1083"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.448554472690894" lon="15.30600523890386" id="-153">
+  <tag k="addr:housenumber" v="101"></tag>
+  <tag k="contact:tel" v="+43 59133 6203"></tag>
+  <tag k="addr:city" v="Kapfenberg"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1129"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.522234506507154" lon="15.233491577898329" id="-154">
+  <tag k="addr:housenumber" v="205"></tag>
+  <tag k="contact:tel" v="+43 59133 6209"></tag>
+  <tag k="addr:city" v="Thörl"></tag>
+  <tag k="addr:postcode" v="8621"></tag>
+  <tag k="addr:street" v="Palbersdorf Nr"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1130"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.36030507905879" lon="15.335106143595075" id="-29">
+  <tag k="addr:housenumber" v="16"></tag>
+  <tag k="contact:tel" v="+43 59133 6204"></tag>
+  <tag k="addr:city" v="Kirchdorf/Pernegg"></tag>
+  <tag k="addr:postcode" v="8132"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1005"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.41143629968792" lon="15.270501459310749" id="-94">
+  <tag k="addr:housenumber" v="9"></tag>
+  <tag k="contact:tel" v="+43 59133 6200305"></tag>
+  <tag k="addr:city" v="Bruck/Mur"></tag>
+  <tag k="addr:postcode" v="8601"></tag>
+  <tag k="addr:street" v="Herzog-Ernst-Gasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1070"></tag>
+  <tag k="note:type" v="Polizeiinspektion/ Bezirksleitstelle / Bezirkspoli"></tag>
+</node>
+<node lat="47.47028603693567" lon="15.163810547546321" id="-95">
+  <tag k="addr:housenumber" v="31"></tag>
+  <tag k="contact:tel" v="+43 59133 6207"></tag>
+  <tag k="addr:city" v="St. Katharein/Laming"></tag>
+  <tag k="addr:postcode" v="8611"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1071"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.391381570997694" lon="15.430595667634252" id="-96">
+  <tag k="addr:housenumber" v="20"></tag>
+  <tag k="contact:tel" v="+43 59133 6201"></tag>
+  <tag k="addr:city" v="Breitenau/Hochlantsch"></tag>
+  <tag k="addr:postcode" v="8614"></tag>
+  <tag k="addr:street" v="St. Jakob"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1072"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.77258506024764" lon="15.31664517338863" id="-97">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 59133 6205"></tag>
+  <tag k="addr:city" v="Mariazell"></tag>
+  <tag k="addr:postcode" v="8630"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1073"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.74161754556234" lon="15.308204761562111" id="-98">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 59133 6202"></tag>
+  <tag k="addr:city" v="Gußwerk"></tag>
+  <tag k="addr:postcode" v="8632"></tag>
+  <tag k="addr:street" v="Am Postplatzl"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1074"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.47308114661813" lon="15.364669878332538" id="-99">
+  <tag k="addr:housenumber" v="1A"></tag>
+  <tag k="contact:tel" v="+43 59133 6208"></tag>
+  <tag k="addr:city" v="St. Marein/Mürztal"></tag>
+  <tag k="addr:postcode" v="8641"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1075"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

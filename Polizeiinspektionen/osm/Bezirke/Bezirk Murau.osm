@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.06984007471548" lon="14.2994766253116" id="-131">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 59133 6365"></tag>
+  <tag k="addr:city" v="St. Lambrecht"></tag>
+  <tag k="addr:postcode" v="8813"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1107"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.07592468946446" lon="14.424671703205373" id="-132">
+  <tag k="addr:housenumber" v="9"></tag>
+  <tag k="contact:tel" v="+43 59133 6361"></tag>
+  <tag k="addr:city" v="Neumarkt/Steiermark"></tag>
+  <tag k="addr:postcode" v="8820"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1108"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.20276670871304" lon="14.28136083087898" id="-133">
+  <tag k="addr:housenumber" v="99"></tag>
+  <tag k="contact:tel" v="+43 59133 6362"></tag>
+  <tag k="addr:city" v="Oberwölz"></tag>
+  <tag k="addr:postcode" v="8832"></tag>
+  <tag k="addr:street" v="Stadt"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1109"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.17988140034431" lon="14.111852469646864" id="-134">
+  <tag k="addr:housenumber" v="155"></tag>
+  <tag k="contact:tel" v="+43 59133 6364"></tag>
+  <tag k="addr:city" v="Schöder"></tag>
+  <tag k="addr:postcode" v="8844"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1110"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.10960073687619" lon="14.17269053190425" id="-135">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 59133 6360"></tag>
+  <tag k="addr:city" v="Murau"></tag>
+  <tag k="addr:postcode" v="8850"></tag>
+  <tag k="addr:street" v="Bahnhofstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1111"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando/Alpine Einsatzgruppe Murau"></tag>
+</node>
+<node lat="47.08670068737627" lon="13.980439287243009" id="-136">
+  <tag k="addr:housenumber" v="120"></tag>
+  <tag k="contact:tel" v="+43 59133 6366"></tag>
+  <tag k="addr:city" v="Stadl/Mur"></tag>
+  <tag k="addr:postcode" v="8862"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1112"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.14833317286919" lon="14.412158596952962" id="-151">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 59133 6363"></tag>
+  <tag k="addr:city" v="Scheifling"></tag>
+  <tag k="addr:postcode" v="8811"></tag>
+  <tag k="addr:street" v="Amtsplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1127"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

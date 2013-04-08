@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.955222862483964" lon="15.587194527437475" id="-21">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 59133 6167"></tag>
+  <tag k="addr:city" v="Heiligenkreuz/Waasen"></tag>
+  <tag k="addr:postcode" v="8081"></tag>
+  <tag k="addr:street" v="Am Marktplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="997"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.85344388240264" lon="15.537936029693414" id="-62">
+  <tag k="addr:housenumber" v="13"></tag>
+  <tag k="contact:tel" v="+43 59133 6171"></tag>
+  <tag k="addr:city" v="Lebring"></tag>
+  <tag k="addr:postcode" v="8403"></tag>
+  <tag k="addr:street" v="Leibnitzer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1038"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.88509605590331" lon="15.519139612941926" id="-63">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 59133 6176"></tag>
+  <tag k="addr:city" v="Wildon"></tag>
+  <tag k="addr:postcode" v="8410"></tag>
+  <tag k="addr:street" v="Unterer Markt Nr"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1039"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.84419238330333" lon="15.656880921948416" id="-64">
+  <tag k="addr:housenumber" v="99"></tag>
+  <tag k="contact:tel" v="+43 59133 6177"></tag>
+  <tag k="addr:city" v="Wolfsberg/Schwarzautal"></tag>
+  <tag k="addr:postcode" v="8421"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1040"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.77648455683905" lon="15.54633429150625" id="-65">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 59133 6160"></tag>
+  <tag k="addr:city" v="Leibnitz"></tag>
+  <tag k="addr:postcode" v="8430"></tag>
+  <tag k="addr:street" v="Mariengasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1041"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando / Polizeiinspektion/ Bezirk"></tag>
+</node>
+<node lat="46.75502483569242" lon="15.366910112890709" id="-66">
+  <tag k="addr:housenumber" v="14a"></tag>
+  <tag k="contact:tel" v="+43 59133 6166"></tag>
+  <tag k="addr:city" v="Gleinstätten"></tag>
+  <tag k="addr:postcode" v="8443"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1042"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.758837674256135" lon="15.488305408713032" id="-67">
+  <tag k="addr:housenumber" v="251"></tag>
+  <tag k="contact:tel" v="+43 59133 6168"></tag>
+  <tag k="addr:city" v="Heimschuh"></tag>
+  <tag k="addr:postcode" v="8451"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1043"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.67798007971723" lon="15.401551662012903" id="-68">
+  <tag k="addr:housenumber" v="27"></tag>
+  <tag k="contact:tel" v="+43 59133 6161"></tag>
+  <tag k="addr:city" v="Arnfels"></tag>
+  <tag k="addr:postcode" v="8454"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1044"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.677759526661745" lon="15.542084178824558" id="-69">
+  <tag k="addr:housenumber" v="69"></tag>
+  <tag k="contact:tel" v="+43 59133 6165"></tag>
+  <tag k="addr:city" v="Gamlitz"></tag>
+  <tag k="addr:postcode" v="8462"></tag>
+  <tag k="addr:street" v="Eckberg "></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1045"></tag>
+  <tag k="note:type" v="Grenzpolizeiinspektion (GÜ)"></tag>
+</node>
+<node lat="46.720450919177964" lon="15.552676462070652" id="-70">
+  <tag k="addr:housenumber" v="43"></tag>
+  <tag k="contact:tel" v="+43 59133 6164"></tag>
+  <tag k="addr:city" v="Gamlitz"></tag>
+  <tag k="addr:postcode" v="8462"></tag>
+  <tag k="addr:street" v="Obere Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1046"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.66769738015629" lon="15.466949797371177" id="-71">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 59133 6172"></tag>
+  <tag k="addr:city" v="Leutschach"></tag>
+  <tag k="addr:postcode" v="8463"></tag>
+  <tag k="addr:street" v="Arnfelser Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1047"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="46.69368039764599" lon="15.641299911361603" id="-72">
+  <tag k="addr:housenumber" v="48a"></tag>
+  <tag k="contact:tel" v="+43 59133 6173"></tag>
+  <tag k="addr:city" v="Spielfeld"></tag>
+  <tag k="addr:postcode" v="8471"></tag>
+  <tag k="addr:street" v="Spielfeld"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1048"></tag>
+  <tag k="note:type" v="Grenzpolizeiinspektion (GREKO)"></tag>
+</node>
+<node lat="46.72626616009589" lon="15.627439593708642" id="-73">
+  <tag k="addr:housenumber" v="58"></tag>
+  <tag k="contact:tel" v="+43 59133 6175"></tag>
+  <tag k="addr:city" v="Straß/Steiermark"></tag>
+  <tag k="addr:postcode" v="8472"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1049"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>

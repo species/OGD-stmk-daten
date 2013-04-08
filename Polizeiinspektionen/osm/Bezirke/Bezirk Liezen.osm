@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.49220780627293" lon="14.482432439864409" id="-123">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 59133 6346"></tag>
+  <tag k="addr:city" v="Trieben"></tag>
+  <tag k="addr:postcode" v="8784"></tag>
+  <tag k="addr:street" v="Industriepark"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1099"></tag>
+  <tag k="note:type" v="Autobahnpolizeiinspektion"></tag>
+</node>
+<node lat="47.48683185617054" lon="14.48655949783674" id="-124">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 59133 6345"></tag>
+  <tag k="addr:city" v="Trieben"></tag>
+  <tag k="addr:postcode" v="8784"></tag>
+  <tag k="addr:street" v="Triebener Bundesstr."></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1100"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.525677483984715" lon="14.359197089986896" id="-125">
+  <tag k="addr:housenumber" v="51"></tag>
+  <tag k="contact:tel" v="+43 59133 6343"></tag>
+  <tag k="addr:city" v="Rottenmann"></tag>
+  <tag k="addr:postcode" v="8786"></tag>
+  <tag k="addr:street" v="Fürstgasse"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1101"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.57411486813148" lon="14.459965157946971" id="-137">
+  <tag k="addr:housenumber" v="64"></tag>
+  <tag k="contact:tel" v="+43 59133 6341"></tag>
+  <tag k="addr:city" v="Admont"></tag>
+  <tag k="addr:postcode" v="8911"></tag>
+  <tag k="addr:street" v="Maierhof"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1113"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.66324228462414" lon="14.987471308954749" id="-139">
+  <tag k="addr:housenumber" v="92"></tag>
+  <tag k="contact:tel" v="+43 59133 6347"></tag>
+  <tag k="addr:city" v="Wildalpen"></tag>
+  <tag k="addr:postcode" v="8924"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1115"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.665022226221154" lon="14.712095753008828" id="-140">
+  <tag k="addr:housenumber" v="100"></tag>
+  <tag k="contact:tel" v="+43 59133 6342"></tag>
+  <tag k="addr:city" v="Großreifling"></tag>
+  <tag k="addr:postcode" v="8931"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1116"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.69082813379754" lon="14.616888386862835" id="-141">
+  <tag k="addr:housenumber" v="208"></tag>
+  <tag k="contact:tel" v="+43 59133 6344"></tag>
+  <tag k="addr:city" v="St. Gallen"></tag>
+  <tag k="addr:postcode" v="8933"></tag>
+  <tag k="addr:street" v="Markt"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1117"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.56768971539368" lon="14.241106385699947" id="-142">
+  <tag k="addr:housenumber" v="12a"></tag>
+  <tag k="contact:tel" v="+43 59133 6340"></tag>
+  <tag k="addr:city" v="Liezen"></tag>
+  <tag k="addr:postcode" v="8940"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1118"></tag>
+  <tag k="note:type" v="Bezirkspolizeikommando/Alpine Einsatzgruppe Admond"></tag>
+</node>
+<node lat="47.53313680273386" lon="14.1102088377126" id="-143">
+  <tag k="addr:housenumber" v="338"></tag>
+  <tag k="contact:tel" v="+43 59133 6357"></tag>
+  <tag k="addr:city" v="Stainach"></tag>
+  <tag k="addr:postcode" v="8950"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1119"></tag>
+  <tag k="note:type" v="Polizeiinspektion/ Alpine Einsatzgruppe Bad Aussee"></tag>
+</node>
+<node lat="47.507511955374994" lon="14.107807691959469" id="-144">
+  <tag k="addr:housenumber" v="23"></tag>
+  <tag k="contact:tel" v="+43 59133 6354"></tag>
+  <tag k="addr:city" v="Irdning"></tag>
+  <tag k="addr:postcode" v="8952"></tag>
+  <tag k="addr:street" v="Aignerstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1120"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.448455581272505" lon="13.902846506672013" id="-145">
+  <tag k="addr:housenumber" v="450"></tag>
+  <tag k="contact:tel" v="+43 59133 6350"></tag>
+  <tag k="addr:city" v="Gröbming"></tag>
+  <tag k="addr:postcode" v="8962"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1121"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.41013590593288" lon="13.768734901503302" id="-146">
+  <tag k="addr:housenumber" v="47"></tag>
+  <tag k="contact:tel" v="+43 59133 6353"></tag>
+  <tag k="addr:city" v="Haus"></tag>
+  <tag k="addr:postcode" v="8967"></tag>
+  <tag k="addr:street" v="Schloßplatz"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1122"></tag>
+  <tag k="note:type" v="Polizeiinspektion/ Alpine Einsatzgruppe Schladming"></tag>
+</node>
+<node lat="47.3929616902486" lon="13.691346640676622" id="-147">
+  <tag k="addr:housenumber" v="46"></tag>
+  <tag k="contact:tel" v="+43 59133 6356"></tag>
+  <tag k="addr:city" v="Schladming"></tag>
+  <tag k="addr:postcode" v="8970"></tag>
+  <tag k="addr:street" v="Coburg Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1123"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.42173159371423" lon="13.655939329985484" id="-148">
+  <tag k="addr:housenumber" v="177"></tag>
+  <tag k="contact:tel" v="+43 59133 6355"></tag>
+  <tag k="addr:city" v="Ramsau/Dachstein"></tag>
+  <tag k="addr:postcode" v="8972"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1124"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.55515809823767" lon="13.934969219517498" id="-149">
+  <tag k="addr:housenumber" v="292"></tag>
+  <tag k="contact:tel" v="+43 59133 6352"></tag>
+  <tag k="addr:city" v="Bad Mitterndorf"></tag>
+  <tag k="addr:postcode" v="8983"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1125"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+<node lat="47.61183501454417" lon="13.7795048005473" id="-150">
+  <tag k="addr:housenumber" v="362"></tag>
+  <tag k="contact:tel" v="+43 59133 6351"></tag>
+  <tag k="addr:city" v="Bad Aussee"></tag>
+  <tag k="addr:postcode" v="8990"></tag>
+  <tag k="addr:street" v="Altausseer Straße"></tag>
+  <tag k="amenity" v="police"></tag>
+  <tag k="ref:ogdsteiermark" v="1126"></tag>
+  <tag k="note:type" v="Polizeiinspektion"></tag>
+</node>
+</osm>
