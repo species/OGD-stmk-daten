@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.217121146338116" lon="15.626673406324235" id="-78">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 316 27 15 96"></tag>
+  <tag k="name" v="Paracelsus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8160"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Weiz"></tag>
+  <tag k="ref:ogdsteiermark" v="78"></tag>
+  <tag k="addr:street" v="Birkfelder Straße"></tag>
+</node>
+<node lat="47.218164804566015" lon="15.623396074107571" id="-79">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8160"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Weiz"></tag>
+  <tag k="ref:ogdsteiermark" v="79"></tag>
+  <tag k="addr:street" v="Rathausgasse"></tag>
+</node>
+<node lat="47.27234035826223" lon="15.695348776629158" id="-80">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 3175 715 00"></tag>
+  <tag k="name" v="Andreas-Apotheke"></tag>
+  <tag k="addr:postcode" v="8184"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Anger"></tag>
+  <tag k="ref:ogdsteiermark" v="80"></tag>
+  <tag k="addr:street" v="Pettauer Straße"></tag>
+</node>
+<node lat="47.354440745412525" lon="15.692330504306122" id="-81">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 3174 45 15"></tag>
+  <tag k="name" v="St. Petrus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8190"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Birkfeld"></tag>
+  <tag k="ref:ogdsteiermark" v="81"></tag>
+  <tag k="addr:street" v="Berggasse"></tag>
+</node>
+<node lat="47.1050613867815" lon="15.711678567043105" id="-82">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 3112 24 69"></tag>
+  <tag k="name" v="Apotheke `Zur heiligen Dreifaltigkeit`"></tag>
+  <tag k="addr:postcode" v="8200"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gleisdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="82"></tag>
+  <tag k="addr:street" v="Florianiplatz"></tag>
+</node>
+<node lat="47.10541643188261" lon="15.705653856036752" id="-83">
+  <tag k="addr:housenumber" v="27"></tag>
+  <tag k="contact:tel" v="+43 3112 56 00"></tag>
+  <tag k="name" v="Raabtal-Apotheke"></tag>
+  <tag k="addr:postcode" v="8200"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gleisdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="83"></tag>
+  <tag k="addr:street" v="Ludwig-Binder-Straße"></tag>
+</node>
+<node lat="47.17267093365499" lon="15.807053763701283" id="-84">
+  <tag k="addr:housenumber" v="59"></tag>
+  <tag k="contact:tel" v="+43 3113 8330-0"></tag>
+  <tag k="name" v="Kulmland Apotheke"></tag>
+  <tag k="addr:postcode" v="8212"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Pischelsdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="84"></tag>
+  <tag k="addr:street" v="Pischelsdorf"></tag>
+</node>
+<node lat="47.04557750056933" lon="15.746912616142978" id="-95">
+  <tag k="addr:housenumber" v="330"></tag>
+  <tag k="contact:tel" v="+43 3115 22065"></tag>
+  <tag k="name" v="Apotheke St. Margarethen"></tag>
+  <tag k="addr:postcode" v="8321"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Margarethen/Raab"></tag>
+  <tag k="ref:ogdsteiermark" v="95"></tag>
+  <tag k="addr:street" v="Sankt Margarethen Raab"></tag>
+</node>
+</osm>

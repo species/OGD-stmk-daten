@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.487613110096596" lon="14.48750091060254" id="-168">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 3615 23 93"></tag>
+  <tag k="name" v="Stadt-Apotheke `Zur hl. Barbara`"></tag>
+  <tag k="addr:postcode" v="8784"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Trieben"></tag>
+  <tag k="ref:ogdsteiermark" v="168"></tag>
+  <tag k="addr:street" v="Marktgasse"></tag>
+</node>
+<node lat="47.525875022703026" lon="14.360715274733899" id="-169">
+  <tag k="addr:housenumber" v="38"></tag>
+  <tag k="contact:tel" v="+43 3382 524 17"></tag>
+  <tag k="name" v="Stadt-Apotheke"></tag>
+  <tag k="addr:postcode" v="8786"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Rottenmann"></tag>
+  <tag k="ref:ogdsteiermark" v="169"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.573796482308936" lon="14.461706142881232" id="-178">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 3585 22 80"></tag>
+  <tag k="name" v="Stifts-Apotheke"></tag>
+  <tag k="addr:postcode" v="8911"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Admont"></tag>
+  <tag k="ref:ogdsteiermark" v="178"></tag>
+  <tag k="addr:street" v="Admont"></tag>
+</node>
+<node lat="47.569138399417305" lon="14.24106395930574" id="-179">
+  <tag k="addr:housenumber" v="16"></tag>
+  <tag k="contact:tel" v="+43 316 71 46 91"></tag>
+  <tag k="name" v="Löwen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8940"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Liezen"></tag>
+  <tag k="ref:ogdsteiermark" v="179"></tag>
+  <tag k="addr:street" v="Ausseer Straße"></tag>
+</node>
+<node lat="47.56491923490339" lon="14.243755112645989" id="-180">
+  <tag k="addr:housenumber" v="30"></tag>
+  <tag k="contact:tel" v="+43 3382 524 17"></tag>
+  <tag k="name" v="Stadt-Apotheke"></tag>
+  <tag k="addr:postcode" v="8940"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Liezen"></tag>
+  <tag k="ref:ogdsteiermark" v="180"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.533291002337705" lon="14.107761839834893" id="-181">
+  <tag k="addr:housenumber" v="255"></tag>
+  <tag k="contact:tel" v="+43 316 71 11 47"></tag>
+  <tag k="name" v="Panther-Apotheke"></tag>
+  <tag k="addr:postcode" v="8950"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Stainach"></tag>
+  <tag k="ref:ogdsteiermark" v="181"></tag>
+  <tag k="addr:street" v="Salzburger Straße"></tag>
+</node>
+<node lat="47.44394955940054" lon="13.901829330839934" id="-182">
+  <tag k="addr:housenumber" v="56"></tag>
+  <tag k="contact:tel" v="+43 3685 223 06"></tag>
+  <tag k="name" v="Alpenapotheke"></tag>
+  <tag k="addr:postcode" v="8962"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gröbming"></tag>
+  <tag k="ref:ogdsteiermark" v="182"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.39243755927188" lon="13.68776753962305" id="-183">
+  <tag k="addr:housenumber" v="677"></tag>
+  <tag k="contact:tel" v="+43 3687 225 77"></tag>
+  <tag k="name" v="Edelweiß-Apotheke"></tag>
+  <tag k="addr:postcode" v="8970"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Schladming"></tag>
+  <tag k="ref:ogdsteiermark" v="183"></tag>
+  <tag k="addr:street" v="Pfarrgasse"></tag>
+</node>
+<node lat="47.554390480470666" lon="13.936268760794713" id="-184">
+  <tag k="addr:housenumber" v="284"></tag>
+  <tag k="contact:tel" v="+43 3133 24 56"></tag>
+  <tag k="name" v="Kur-Apotheke"></tag>
+  <tag k="addr:postcode" v="8983"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Mitterndorf"></tag>
+  <tag k="ref:ogdsteiermark" v="184"></tag>
+  <tag k="addr:street" v="Bad Mitterndorf"></tag>
+</node>
+<node lat="47.61414021058437" lon="13.775908063940868" id="-185">
+  <tag k="addr:housenumber" v="62"></tag>
+  <tag k="contact:tel" v="+43 3622 531 88"></tag>
+  <tag k="name" v="Narzissen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8990"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Aussee"></tag>
+  <tag k="ref:ogdsteiermark" v="185"></tag>
+  <tag k="addr:street" v="Altausseer Straße"></tag>
+</node>
+<node lat="47.608744488920536" lon="13.783985752638273" id="-186">
+  <tag k="addr:housenumber" v="104"></tag>
+  <tag k="contact:tel" v="+43 3622 522 77"></tag>
+  <tag k="name" v="Kurapotheke im alten Kurmittelhaus"></tag>
+  <tag k="addr:postcode" v="8990"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Aussee"></tag>
+  <tag k="ref:ogdsteiermark" v="186"></tag>
+  <tag k="addr:street" v="Oppauer Platz"></tag>
+</node>
+</osm>

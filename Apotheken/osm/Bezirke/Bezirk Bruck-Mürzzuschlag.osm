@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.409407935769224" lon="15.263941689807503" id="-132">
+  <tag k="addr:housenumber" v="10"></tag>
+  <tag k="contact:tel" v="+43 3862 523 19"></tag>
+  <tag k="name" v="Landskron-Apotheke"></tag>
+  <tag k="addr:postcode" v="8600"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bruck an der Mur"></tag>
+  <tag k="ref:ogdsteiermark" v="132"></tag>
+  <tag k="addr:street" v="Bergstraße"></tag>
+</node>
+<node lat="47.41133429290443" lon="15.270819520999645" id="-133">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 3382 524 17"></tag>
+  <tag k="name" v="Stadt-Apotheke"></tag>
+  <tag k="addr:postcode" v="8600"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bruck an der Mur"></tag>
+  <tag k="ref:ogdsteiermark" v="133"></tag>
+  <tag k="addr:street" v="Herzog-Ernst-Gasse"></tag>
+</node>
+<node lat="47.410288812620166" lon="15.268465535712895" id="-134">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 316 83 01 12"></tag>
+  <tag k="name" v="Salvator-Apotheke"></tag>
+  <tag k="addr:postcode" v="8600"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bruck an der Mur"></tag>
+  <tag k="ref:ogdsteiermark" v="134"></tag>
+  <tag k="addr:street" v="Koloman Wallisch-Platz"></tag>
+</node>
+<node lat="47.4318220160513" lon="15.271471719364538" id="-135">
+  <tag k="addr:housenumber" v="79"></tag>
+  <tag k="contact:tel" v="+43 3862 223 17"></tag>
+  <tag k="name" v="Apotheke Diemlach"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kapfenberg-Diemlach"></tag>
+  <tag k="ref:ogdsteiermark" v="135"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+</node>
+<node lat="47.4477900398458" lon="15.306296225309424" id="-136">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 3862 282 88"></tag>
+  <tag k="name" v="Aesculap-Apotheke Kapfenberg"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kapfenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="136"></tag>
+  <tag k="addr:street" v="Grillparzerstraße"></tag>
+</node>
+<node lat="47.46489798802313" lon="15.327963361488598" id="-137">
+  <tag k="addr:housenumber" v="9"></tag>
+  <tag k="contact:tel" v="+43 3862 313 80"></tag>
+  <tag k="name" v="Apotheke `Zu d.heiligen Kosmas u.Damian`"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kapfenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="137"></tag>
+  <tag k="addr:street" v="Hugo-Wolf-Straße"></tag>
+</node>
+<node lat="47.46643106352174" lon="15.341948264127918" id="-138">
+  <tag k="addr:housenumber" v="7"></tag>
+  <tag k="contact:tel" v="+43 3862 32500"></tag>
+  <tag k="name" v="Lebenswert Apotheke"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kapfenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="138"></tag>
+  <tag k="addr:street" v="Siegfried Marcus-Straße"></tag>
+</node>
+<node lat="47.44388266436467" lon="15.292166967251362" id="-139">
+  <tag k="addr:housenumber" v="48"></tag>
+  <tag k="contact:tel" v="+43 3862 223 18-12"></tag>
+  <tag k="name" v="Europa-Apotheke"></tag>
+  <tag k="addr:postcode" v="8605"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kapfenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="139"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+<node lat="47.52296871922054" lon="15.233481902483224" id="-140">
+  <tag k="addr:housenumber" v="178"></tag>
+  <tag k="contact:tel" v="+43 316 82 31 59"></tag>
+  <tag k="name" v="Sonnen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8621"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Thörl"></tag>
+  <tag k="ref:ogdsteiermark" v="140"></tag>
+  <tag k="addr:street" v="Palbersdorf"></tag>
+</node>
+<node lat="47.542493898559606" lon="15.23969984110843" id="-141">
+  <tag k="addr:housenumber" v="25"></tag>
+  <tag k="contact:tel" v="+43 316 82 31 59"></tag>
+  <tag k="name" v="Sonnen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8623"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Aflenz-Kurort"></tag>
+  <tag k="ref:ogdsteiermark" v="141"></tag>
+  <tag k="addr:street" v="Mariazeller Straße"></tag>
+</node>
+<node lat="47.772961064392376" lon="15.317268888097995" id="-142">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 3882 21 02"></tag>
+  <tag k="name" v="Apotheke `Zur Gnadenmutter`"></tag>
+  <tag k="addr:postcode" v="8630"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Mariazell"></tag>
+  <tag k="ref:ogdsteiermark" v="142"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.47513432169371" lon="15.371874371989257" id="-143">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 3864 37 36"></tag>
+  <tag k="name" v="Bernhard-Apotheke"></tag>
+  <tag k="addr:postcode" v="8641"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Marein im Mürztal"></tag>
+  <tag k="ref:ogdsteiermark" v="143"></tag>
+  <tag k="addr:street" v="Landstraße"></tag>
+</node>
+<node lat="47.506009420732354" lon="15.449437338661136" id="-144">
+  <tag k="addr:housenumber" v="28"></tag>
+  <tag k="contact:tel" v="+43 3865 25 84"></tag>
+  <tag k="name" v="Apotheke `Zum heiligen Josef`"></tag>
+  <tag k="addr:postcode" v="8650"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kindberg"></tag>
+  <tag k="ref:ogdsteiermark" v="144"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.53245509472927" lon="15.511961955545829" id="-145">
+  <tag k="addr:housenumber" v="69"></tag>
+  <tag k="contact:tel" v="+43 3858 61 60"></tag>
+  <tag k="name" v="Apotheke `Zur heiligen Barbara`"></tag>
+  <tag k="addr:postcode" v="8662"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Mitterdorf im Mürztal"></tag>
+  <tag k="ref:ogdsteiermark" v="145"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+</node>
+<node lat="47.56863751569996" lon="15.620571806410519" id="-146">
+  <tag k="addr:housenumber" v="10"></tag>
+  <tag k="contact:tel" v="+43 3175 715 00"></tag>
+  <tag k="name" v="Andreas-Apotheke"></tag>
+  <tag k="addr:postcode" v="8665"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Langenwang"></tag>
+  <tag k="ref:ogdsteiermark" v="146"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+</node>
+<node lat="47.54550529713696" lon="15.56191424601537" id="-147">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 3855 23 26"></tag>
+  <tag k="name" v="Jakobus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8670"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Krieglach"></tag>
+  <tag k="ref:ogdsteiermark" v="147"></tag>
+  <tag k="addr:street" v="Roseggerstraße"></tag>
+</node>
+<node lat="47.606950435196026" lon="15.676152310081088" id="-148">
+  <tag k="addr:housenumber" v="8-10"></tag>
+  <tag k="contact:tel" v="+43 3852 23 61"></tag>
+  <tag k="name" v="Berg-Apotheke"></tag>
+  <tag k="addr:postcode" v="8680"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Mürzzuschlag"></tag>
+  <tag k="ref:ogdsteiermark" v="148"></tag>
+  <tag k="addr:street" v="Untere Berggasse"></tag>
+</node>
+<node lat="47.60610421002911" lon="15.674642969275942" id="-149">
+  <tag k="addr:housenumber" v="27"></tag>
+  <tag k="contact:tel" v="+43 3865 25 84"></tag>
+  <tag k="name" v="Apotheke `Zum heiligen Josef`"></tag>
+  <tag k="addr:postcode" v="8680"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Mürzzuschlag"></tag>
+  <tag k="ref:ogdsteiermark" v="149"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+</osm>

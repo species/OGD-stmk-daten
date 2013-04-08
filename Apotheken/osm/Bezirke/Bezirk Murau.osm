@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.07242058054402" lon="14.299700744993892" id="-174">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 3585 22 80"></tag>
+  <tag k="name" v="Stifts-Apotheke"></tag>
+  <tag k="addr:postcode" v="8813"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Lambrecht"></tag>
+  <tag k="ref:ogdsteiermark" v="174"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.07363025155623" lon="14.425510680476833" id="-175">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8820"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Neumarkt in Steiermark"></tag>
+  <tag k="ref:ogdsteiermark" v="175"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.11070316580202" lon="14.167141998968889" id="-176">
+  <tag k="addr:housenumber" v="34"></tag>
+  <tag k="contact:tel" v="+43 3532 23 40"></tag>
+  <tag k="name" v="Apotheke `Zum Salvator`"></tag>
+  <tag k="addr:postcode" v="8850"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Murau"></tag>
+  <tag k="ref:ogdsteiermark" v="176"></tag>
+  <tag k="addr:street" v="Anna-Neumann-Straße"></tag>
+</node>
+<node lat="47.11385445334902" lon="14.180243383788923" id="-177">
+  <tag k="addr:housenumber" v="141"></tag>
+  <tag k="contact:tel" v="+43 3532 448 40"></tag>
+  <tag k="name" v="Egidi Apotheke"></tag>
+  <tag k="addr:postcode" v="8850"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="St. Egidi/Murau"></tag>
+  <tag k="ref:ogdsteiermark" v="177"></tag>
+  <tag k="addr:street" v="Keltensiedlung"></tag>
+</node>
+</osm>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.965368478951284" lon="15.476050430409604" id="-102">
+  <tag k="addr:housenumber" v="102"></tag>
+  <tag k="contact:tel" v="+43 3135 523 60"></tag>
+  <tag k="name" v="Apotheke Kalsdorf"></tag>
+  <tag k="addr:postcode" v="8401"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kalsdorf bei Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="102"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="46.92390811658191" lon="15.481846321790519" id="-103">
+  <tag k="addr:housenumber" v="114"></tag>
+  <tag k="contact:tel" v="+43 3135 519 92"></tag>
+  <tag k="name" v="Diana Apotheke"></tag>
+  <tag k="addr:postcode" v="8402"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Werndorf"></tag>
+  <tag k="ref:ogdsteiermark" v="103"></tag>
+  <tag k="addr:street" v="Bundesstraße"></tag>
+</node>
+<node lat="46.97546391766105" lon="15.33243474445748" id="-115">
+  <tag k="addr:housenumber" v="128"></tag>
+  <tag k="contact:tel" v="+43 3136 609 00"></tag>
+  <tag k="name" v="Damian-Apotheke"></tag>
+  <tag k="addr:postcode" v="8501"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Lieboch"></tag>
+  <tag k="ref:ogdsteiermark" v="115"></tag>
+  <tag k="addr:street" v="Packer Straße"></tag>
+</node>
+<node lat="47.01123791255339" lon="15.399198803885007" id="-59">
+  <tag k="addr:housenumber" v="537"></tag>
+  <tag k="contact:tel" v="+43 316 25 30 05"></tag>
+  <tag k="name" v="Lilienapotheke"></tag>
+  <tag k="addr:postcode" v="8054"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Seiersberg"></tag>
+  <tag k="ref:ogdsteiermark" v="59"></tag>
+  <tag k="addr:street" v="Kärntner Straße"></tag>
+</node>
+<node lat="47.01146714569832" lon="15.408684050833596" id="-61">
+  <tag k="addr:housenumber" v="4/1/7b"></tag>
+  <tag k="contact:tel" v="+43 316 29 20 20"></tag>
+  <tag k="name" v="Apotheke im Zentrum"></tag>
+  <tag k="addr:postcode" v="8055"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Seiersberg"></tag>
+  <tag k="ref:ogdsteiermark" v="61"></tag>
+  <tag k="addr:street" v="Shopping City Seiersbg 1,Top"></tag>
+</node>
+<node lat="47.12476247775811" lon="15.60336240822213" id="-63">
+  <tag k="addr:housenumber" v="33"></tag>
+  <tag k="contact:tel" v="+43 3117 279 88"></tag>
+  <tag k="name" v="Marien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8063"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Eggersdorf bei Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="63"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="46.99266178152697" lon="15.50798731367514" id="-64">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 3135 475 11"></tag>
+  <tag k="name" v="Apotheke Hausmannstätten"></tag>
+  <tag k="addr:postcode" v="8071"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Hausmannstätten"></tag>
+  <tag k="ref:ogdsteiermark" v="64"></tag>
+  <tag k="addr:street" v="Sankt Peter Straße"></tag>
+</node>
+<node lat="46.9739692110339" lon="15.501733822408482" id="-65">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 3135 577 76"></tag>
+  <tag k="name" v="Apotheke Fernitz"></tag>
+  <tag k="addr:postcode" v="8072"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Fernitz"></tag>
+  <tag k="ref:ogdsteiermark" v="65"></tag>
+  <tag k="addr:street" v="Schulgasse"></tag>
+</node>
+<node lat="47.0120590233374" lon="15.443083417085438" id="-66">
+  <tag k="addr:housenumber" v="32"></tag>
+  <tag k="contact:tel" v="+43 316 29 22 87"></tag>
+  <tag k="name" v="Johannes-Apotheke"></tag>
+  <tag k="addr:postcode" v="8073"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Feldkirchen bei Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="66"></tag>
+  <tag k="addr:street" v="Triester Straße"></tag>
+</node>
+<node lat="47.03161722070954" lon="15.494902015269531" id="-67">
+  <tag k="addr:housenumber" v="33"></tag>
+  <tag k="contact:tel" v="+43 316 40 65 50"></tag>
+  <tag k="name" v="Apotheke zum Chiron"></tag>
+  <tag k="addr:postcode" v="8074"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Raaba"></tag>
+  <tag k="ref:ogdsteiermark" v="67"></tag>
+  <tag k="addr:street" v="Josef Krainer Straße"></tag>
+</node>
+<node lat="47.134260262484716" lon="15.337356847196835" id="-71">
+  <tag k="addr:housenumber" v="12"></tag>
+  <tag k="contact:tel" v="+43 3124 222 36"></tag>
+  <tag k="name" v="Donatus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8101"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gratkorn"></tag>
+  <tag k="ref:ogdsteiermark" v="71"></tag>
+  <tag k="addr:street" v="Brucker Straße"></tag>
+</node>
+<node lat="47.11692405237239" lon="15.342217095649604" id="-72">
+  <tag k="addr:housenumber" v="19"></tag>
+  <tag k="contact:tel" v="+43 3124 522 10"></tag>
+  <tag k="name" v="Flora-Apotheke"></tag>
+  <tag k="addr:postcode" v="8111"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Judendorf-Straßengel"></tag>
+  <tag k="ref:ogdsteiermark" v="72"></tag>
+  <tag k="addr:street" v="Gratweiner Straße"></tag>
+</node>
+<node lat="47.127266398984766" lon="15.317581364117734" id="-73">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 3124 521 36"></tag>
+  <tag k="name" v="Fischer Apotheke"></tag>
+  <tag k="addr:postcode" v="8112"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gratwein"></tag>
+  <tag k="ref:ogdsteiermark" v="73"></tag>
+  <tag k="addr:street" v="Bahnhofstraße"></tag>
+</node>
+<node lat="47.199318166586856" lon="15.337035282289996" id="-74">
+  <tag k="addr:housenumber" v="147"></tag>
+  <tag k="contact:tel" v="+43 3117 279 88"></tag>
+  <tag k="name" v="Marien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8121"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Deutschfeistritz"></tag>
+  <tag k="ref:ogdsteiermark" v="74"></tag>
+  <tag k="addr:street" v="Deutschfeistritz"></tag>
+</node>
+<node lat="47.271311373045364" lon="15.327266672067518" id="-75">
+  <tag k="addr:housenumber" v="41"></tag>
+  <tag k="contact:tel" v="+43 3126 24 41"></tag>
+  <tag k="name" v="Engel-Apotheke"></tag>
+  <tag k="addr:postcode" v="8130"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Frohnleiten"></tag>
+  <tag k="ref:ogdsteiermark" v="75"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.97679740286902" lon="15.40295885835702" id="-76">
+  <tag k="addr:housenumber" v="95"></tag>
+  <tag k="contact:tel" v="+43 3136 544 70"></tag>
+  <tag k="name" v="St. Thomas-Apotheke"></tag>
+  <tag k="addr:postcode" v="8141"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Unterpremstätten"></tag>
+  <tag k="ref:ogdsteiermark" v="76"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.034687365445976" lon="15.303827031503351" id="-77">
+  <tag k="addr:housenumber" v="280"></tag>
+  <tag k="contact:tel" v="+43 3117 279 88"></tag>
+  <tag k="name" v="Marien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8151"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Hitzendorf"></tag>
+  <tag k="ref:ogdsteiermark" v="77"></tag>
+  <tag k="addr:street" v="Hitzendorf"></tag>
+</node>
+<node lat="47.07508666033019" lon="15.588584067901264" id="-94">
+  <tag k="addr:housenumber" v="66"></tag>
+  <tag k="contact:tel" v="+43 3133 24 56"></tag>
+  <tag k="name" v="Kur-Apotheke"></tag>
+  <tag k="addr:postcode" v="8301"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Laßnitzhöhe"></tag>
+  <tag k="ref:ogdsteiermark" v="94"></tag>
+  <tag k="addr:street" v="Hauptstraße"></tag>
+</node>
+<node lat="47.014244710019035" lon="15.690313262136524" id="-96">
+  <tag k="addr:housenumber" v="137"></tag>
+  <tag k="contact:tel" v="+43 3119 311 11"></tag>
+  <tag k="name" v="Fux-Apotheke"></tag>
+  <tag k="addr:postcode" v="8323"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Marein bei Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="96"></tag>
+  <tag k="addr:street" v="Markt"></tag>
+</node>
+</osm>

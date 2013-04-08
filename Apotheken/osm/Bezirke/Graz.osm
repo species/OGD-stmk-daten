@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.061206045820924" lon="15.443919754087611" id="-1">
+  <tag k="addr:housenumber" v="28"></tag>
+  <tag k="contact:tel" v="+43 316 82 62 26"></tag>
+  <tag k="name" v="Kronen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="1"></tag>
+  <tag k="addr:street" v="Conrad-von-Hötzendorf-Straße"></tag>
+</node>
+<node lat="47.068382974210934" lon="15.447466059241286" id="-10">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 316 82 95 71"></tag>
+  <tag k="name" v="Kaiser-Josef-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="10"></tag>
+  <tag k="addr:street" v="Kaiser-Josef-Platz"></tag>
+</node>
+<node lat="47.07855617378055" lon="15.463798048438287" id="-11">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 32 21 03"></tag>
+  <tag k="name" v="Apotheke `Zum heiligen Leonhard`"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="11"></tag>
+  <tag k="addr:street" v="Leonhardplatz"></tag>
+</node>
+<node lat="47.071958666854705" lon="15.448368512654783" id="-12">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 316 32 21 29"></tag>
+  <tag k="name" v="Apotheke `Zum guten Hirten`"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="12"></tag>
+  <tag k="addr:street" v="Leonhardstraße"></tag>
+</node>
+<node lat="47.058140823887555" lon="15.452461881386418" id="-13">
+  <tag k="addr:housenumber" v="110"></tag>
+  <tag k="contact:tel" v="+43 316 82 50 62"></tag>
+  <tag k="name" v="St. Franziskus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="13"></tag>
+  <tag k="addr:street" v="Münzgrabenstraße"></tag>
+</node>
+<node lat="47.06605174900865" lon="15.447353414052728" id="-14">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 83 05 46"></tag>
+  <tag k="name" v="Apotheke `Zur St. Anna`"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="14"></tag>
+  <tag k="addr:street" v="Münzgrabenstraße"></tag>
+</node>
+<node lat="47.06680685522939" lon="15.438433949295588" id="-15">
+  <tag k="addr:housenumber" v="57"></tag>
+  <tag k="contact:tel" v="+43 316 82 65 61"></tag>
+  <tag k="name" v="Neutor-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="15"></tag>
+  <tag k="addr:street" v="Neutorgasse"></tag>
+</node>
+<node lat="47.06891821526606" lon="15.455797669362578" id="-16">
+  <tag k="addr:housenumber" v="26"></tag>
+  <tag k="contact:tel" v="+43 316 83 06 29"></tag>
+  <tag k="name" v="Herz-Jesu-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="16"></tag>
+  <tag k="addr:street" v="Nibelungengasse"></tag>
+</node>
+<node lat="47.068448784413214" lon="15.442329550805137" id="-17">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 316 82 96 47"></tag>
+  <tag k="name" v="Opernapotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="17"></tag>
+  <tag k="addr:street" v="Opernring"></tag>
+</node>
+<node lat="47.06792466379597" lon="15.46081431507079" id="-18">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 316 82 92 16"></tag>
+  <tag k="name" v="Apotheke `Zur heiligen Elisabeth`"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="18"></tag>
+  <tag k="addr:street" v="Plüddemanngasse"></tag>
+</node>
+<node lat="47.07180407898869" lon="15.437657633846245" id="-19">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 316 83 04 20"></tag>
+  <tag k="name" v="Landschafts-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="19"></tag>
+  <tag k="addr:street" v="Sackstraße"></tag>
+</node>
+<node lat="47.061904203003024" lon="15.471652490467791" id="-2">
+  <tag k="addr:housenumber" v="31"></tag>
+  <tag k="contact:tel" v="+43 316 47 24 29"></tag>
+  <tag k="name" v="St. Paul-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="2"></tag>
+  <tag k="addr:street" v="Eisteichgasse"></tag>
+</node>
+<node lat="47.056394481613154" lon="15.440622637702305" id="-20">
+  <tag k="addr:housenumber" v="106"></tag>
+  <tag k="contact:tel" v="+43 316 82 92 49"></tag>
+  <tag k="name" v="Schönau-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="20"></tag>
+  <tag k="addr:street" v="Schönaugasse"></tag>
+</node>
+<node lat="47.08495898210239" lon="15.43105696402815" id="-21">
+  <tag k="addr:housenumber" v="69"></tag>
+  <tag k="contact:tel" v="+43 316 68 34 94"></tag>
+  <tag k="name" v="Theodor-Körner-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="21"></tag>
+  <tag k="addr:street" v="Theodor-Körner-Straße"></tag>
+</node>
+<node lat="47.078921077233154" lon="15.439072954929351" id="-22">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 316 83 01 12"></tag>
+  <tag k="name" v="Salvator-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="22"></tag>
+  <tag k="addr:street" v="Wickenburggasse"></tag>
+</node>
+<node lat="47.08318219008287" lon="15.404094203924414" id="-23">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 316 57 00 70"></tag>
+  <tag k="name" v="Rosen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Eggenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="23"></tag>
+  <tag k="addr:street" v="Alte Poststraße"></tag>
+</node>
+<node lat="47.07179701384958" lon="15.431697183131522" id="-24">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 316 713289-0"></tag>
+  <tag k="name" v="Apotheke d.Barmh.Brüder`Zum Granatapfel`"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="24"></tag>
+  <tag k="addr:street" v="Annenstraße"></tag>
+</node>
+<node lat="47.071113217765365" lon="15.424347286022485" id="-25">
+  <tag k="addr:housenumber" v="45"></tag>
+  <tag k="contact:tel" v="+43 316 71 26 80"></tag>
+  <tag k="name" v="Apotheke `Zum grünen Kreuz`"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="25"></tag>
+  <tag k="addr:street" v="Annenstraße"></tag>
+</node>
+<node lat="47.0709529482244" lon="15.40195960638712" id="-26">
+  <tag k="addr:housenumber" v="44"></tag>
+  <tag k="contact:tel" v="+43 316 58 23 51"></tag>
+  <tag k="name" v="Apotheke `Zur Hoffnung`"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Eggenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="26"></tag>
+  <tag k="addr:street" v="Eggenberger Allee"></tag>
+</node>
+<node lat="47.069762740304874" lon="15.433790128648363" id="-27">
+  <tag k="addr:housenumber" v="12"></tag>
+  <tag k="contact:tel" v="+43 316 71 20 28"></tag>
+  <tag k="name" v="Apotheke `Zum goldenen Engel`"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="27"></tag>
+  <tag k="addr:street" v="Griesgasse"></tag>
+</node>
+<node lat="47.065389256725865" lon="15.430815226285478" id="-28">
+  <tag k="addr:housenumber" v="26"></tag>
+  <tag k="contact:tel" v="+43 316 71 11 47"></tag>
+  <tag k="name" v="Panther-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="28"></tag>
+  <tag k="addr:street" v="Griesplatz"></tag>
+</node>
+<node lat="47.07348442983729" lon="15.419122364076134" id="-29">
+  <tag k="addr:housenumber" v="112"></tag>
+  <tag k="contact:tel" v="+43 316 71 51 35"></tag>
+  <tag k="name" v="Bahnhof-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="29"></tag>
+  <tag k="addr:street" v="Keplerstraße"></tag>
+</node>
+<node lat="47.07451299798698" lon="15.446688309224223" id="-3">
+  <tag k="addr:housenumber" v="31"></tag>
+  <tag k="contact:tel" v="+43 316 32 33 92"></tag>
+  <tag k="name" v="Glacis-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="3"></tag>
+  <tag k="addr:street" v="Glacisstraße"></tag>
+</node>
+<node lat="47.066205585958016" lon="15.426855621423117" id="-30">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 316 71 19 87"></tag>
+  <tag k="name" v="Dreifaltigkeits-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="30"></tag>
+  <tag k="addr:street" v="Lazarettgasse"></tag>
+</node>
+<node lat="47.060490035069904" lon="15.428466028802442" id="-31">
+  <tag k="addr:housenumber" v="55"></tag>
+  <tag k="contact:tel" v="+43 316 76 47 78"></tag>
+  <tag k="name" v="Apotheke im Citypark"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="31"></tag>
+  <tag k="addr:street" v="Lazarettgürtel"></tag>
+</node>
+<node lat="47.07441647165544" lon="15.404630070914022" id="-32">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 316 58 12 65"></tag>
+  <tag k="name" v="Schutzengel-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Eggenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="32"></tag>
+  <tag k="addr:street" v="Lilienthalgasse"></tag>
+</node>
+<node lat="47.07073287310601" lon="15.433506238643012" id="-33">
+  <tag k="addr:housenumber" v="7"></tag>
+  <tag k="contact:tel" v="+43 316 71 32 80"></tag>
+  <tag k="name" v="Mohren-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="33"></tag>
+  <tag k="addr:street" v="Südtiroler Platz"></tag>
+</node>
+<node lat="47.051209567308966" lon="15.428843017718803" id="-34">
+  <tag k="addr:housenumber" v="a"></tag>
+  <tag k="contact:tel" v="+43 316 27 15 96"></tag>
+  <tag k="name" v="Paracelsus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="34"></tag>
+  <tag k="addr:street" v="Triester Straße 87"></tag>
+</node>
+<node lat="47.073301974682316" lon="15.429546427833197" id="-35">
+  <tag k="addr:housenumber" v="20"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="35"></tag>
+  <tag k="addr:street" v="Volksgartenstraße"></tag>
+</node>
+<node lat="47.07848941030298" lon="15.427457639800224" id="-36">
+  <tag k="addr:housenumber" v="19"></tag>
+  <tag k="contact:tel" v="+43 316 71 46 91"></tag>
+  <tag k="name" v="Löwen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8020"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="36"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+<node lat="47.020138651545835" lon="15.471330533233578" id="-37">
+  <tag k="addr:housenumber" v="308"></tag>
+  <tag k="contact:tel" v="+43 316 40 60 33"></tag>
+  <tag k="name" v="Apotheke Thondorf `Zum hl.Christophorus`"></tag>
+  <tag k="addr:postcode" v="8041"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Liebenau"></tag>
+  <tag k="ref:ogdsteiermark" v="37"></tag>
+  <tag k="addr:street" v="Liebenauer Hauptstraße"></tag>
+</node>
+<node lat="47.04019960857031" lon="15.464990947772081" id="-38">
+  <tag k="addr:housenumber" v="EG"></tag>
+  <tag k="contact:tel" v="+43 316 47 23 24"></tag>
+  <tag k="name" v="Apotheke-Liebenau"></tag>
+  <tag k="addr:postcode" v="8041"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Liebenau"></tag>
+  <tag k="ref:ogdsteiermark" v="38"></tag>
+  <tag k="addr:street" v="Murpark, Ostbahnstraße 3,"></tag>
+</node>
+<node lat="47.04433732983105" lon="15.449295466273437" id="-39">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 316 47 21 18"></tag>
+  <tag k="name" v="Apotheke `Am Grünanger`"></tag>
+  <tag k="addr:postcode" v="8041"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Liebenau"></tag>
+  <tag k="ref:ogdsteiermark" v="39"></tag>
+  <tag k="addr:street" v="Ziehrerstraße"></tag>
+</node>
+<node lat="47.070764759872496" lon="15.43765285302419" id="-4">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 316 83 03 42"></tag>
+  <tag k="name" v="Adler-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="4"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.052306932244264" lon="15.470523738904332" id="-40">
+  <tag k="addr:housenumber" v="21"></tag>
+  <tag k="contact:tel" v="+43 316 47 34 47"></tag>
+  <tag k="name" v="Petrifelder Apotheke"></tag>
+  <tag k="addr:postcode" v="8042"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Sankt Peter"></tag>
+  <tag k="ref:ogdsteiermark" v="40"></tag>
+  <tag k="addr:street" v="Petrifelder Straße"></tag>
+</node>
+<node lat="47.05801264737997" lon="15.471232726298615" id="-41">
+  <tag k="addr:housenumber" v="45"></tag>
+  <tag k="contact:tel" v="+43 316 47 14 42"></tag>
+  <tag k="name" v="Apotheke `Zum heiligen Petrus`"></tag>
+  <tag k="addr:postcode" v="8042"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Sankt Peter"></tag>
+  <tag k="ref:ogdsteiermark" v="41"></tag>
+  <tag k="addr:street" v="St. Peter-Hauptstraße"></tag>
+</node>
+<node lat="47.0689586205911" lon="15.484517941730495" id="-42">
+  <tag k="addr:housenumber" v="121"></tag>
+  <tag k="contact:tel" v="+43 316 422 210"></tag>
+  <tag k="name" v="Rothlauer-Apotheke"></tag>
+  <tag k="addr:postcode" v="8042"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Waltendorf"></tag>
+  <tag k="ref:ogdsteiermark" v="42"></tag>
+  <tag k="addr:street" v="Waltendorfer Hauptstraße"></tag>
+</node>
+<node lat="47.089765320705" lon="15.459203389579189" id="-43">
+  <tag k="addr:housenumber" v="31"></tag>
+  <tag k="contact:tel" v="+43 316 32 30 47"></tag>
+  <tag k="name" v="Apotheke `Zu Maria Trost`"></tag>
+  <tag k="addr:postcode" v="8043"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Kroisbach"></tag>
+  <tag k="ref:ogdsteiermark" v="43"></tag>
+  <tag k="addr:street" v="Mariatroster Straße"></tag>
+</node>
+<node lat="47.105352683945874" lon="15.488368393892687" id="-44">
+  <tag k="addr:housenumber" v="196"></tag>
+  <tag k="contact:tel" v="+43 316 39 89 39"></tag>
+  <tag k="name" v="Hubertus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8044"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Mariatrost"></tag>
+  <tag k="ref:ogdsteiermark" v="44"></tag>
+  <tag k="addr:street" v="Mariatroster Straße"></tag>
+</node>
+<node lat="47.10483344682815" lon="15.420878519173689" id="-45">
+  <tag k="addr:housenumber" v="52"></tag>
+  <tag k="contact:tel" v="+43 316 69 11 50"></tag>
+  <tag k="name" v="St. Josef-Apotheke"></tag>
+  <tag k="addr:postcode" v="8045"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Andritz"></tag>
+  <tag k="ref:ogdsteiermark" v="45"></tag>
+  <tag k="addr:street" v="Andritzer Reichsstraße"></tag>
+</node>
+<node lat="47.11042692747589" lon="15.430216451924428" id="-46">
+  <tag k="addr:housenumber" v="47"></tag>
+  <tag k="contact:tel" v="+43 316 693703"></tag>
+  <tag k="name" v="Purpur-Apotheke"></tag>
+  <tag k="addr:postcode" v="8045"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Andritz"></tag>
+  <tag k="ref:ogdsteiermark" v="46"></tag>
+  <tag k="addr:street" v="Radegunder Straße"></tag>
+</node>
+<node lat="47.1138662260128" lon="15.424115208271232" id="-47">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 316 69 13 77"></tag>
+  <tag k="name" v="Antonius-Apotheke"></tag>
+  <tag k="addr:postcode" v="8045"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Andritz"></tag>
+  <tag k="ref:ogdsteiermark" v="47"></tag>
+  <tag k="addr:street" v="Weinitzenstraße"></tag>
+</node>
+<node lat="47.098910399714846" lon="15.416922611994027" id="-48">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 67 28 08"></tag>
+  <tag k="name" v="Apotheke Andritz"></tag>
+  <tag k="addr:postcode" v="8045"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Andritz"></tag>
+  <tag k="ref:ogdsteiermark" v="48"></tag>
+  <tag k="addr:street" v="Weinzöttlstraße"></tag>
+</node>
+<node lat="47.07856154094085" lon="15.473878477452377" id="-49">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 32 20 50"></tag>
+  <tag k="name" v="Casa Medica Apotheke"></tag>
+  <tag k="addr:postcode" v="8047"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Ragnitz"></tag>
+  <tag k="ref:ogdsteiermark" v="49"></tag>
+  <tag k="addr:street" v="Berthold Linder Weg"></tag>
+</node>
+<node lat="47.07832429916559" lon="15.444595658118267" id="-5">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 32 11 28"></tag>
+  <tag k="name" v="Apotheke `Zur göttlichen Vorsehung`"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="5"></tag>
+  <tag k="addr:street" v="Heinrichstraße"></tag>
+</node>
+<node lat="47.07703303148395" lon="15.496606284859139" id="-50">
+  <tag k="addr:housenumber" v="177"></tag>
+  <tag k="contact:tel" v="+43 316 30 13 05"></tag>
+  <tag k="name" v="Apotheke Ragnitz"></tag>
+  <tag k="addr:postcode" v="8047"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Ragnitz"></tag>
+  <tag k="ref:ogdsteiermark" v="50"></tag>
+  <tag k="addr:street" v="Ragnitzstraße"></tag>
+</node>
+<node lat="47.09377924400518" lon="15.413148574778724" id="-51">
+  <tag k="addr:housenumber" v="77"></tag>
+  <tag k="contact:tel" v="+43 316 68 42 66"></tag>
+  <tag k="name" v="Kalvarien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8051"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Gösting"></tag>
+  <tag k="ref:ogdsteiermark" v="51"></tag>
+  <tag k="addr:street" v="Augasse"></tag>
+</node>
+<node lat="47.09054548636095" lon="15.408365744447234" id="-52">
+  <tag k="addr:housenumber" v="215-217"></tag>
+  <tag k="contact:tel" v="+43 316 68 21 43"></tag>
+  <tag k="name" v="Janus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8051"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Gösting"></tag>
+  <tag k="ref:ogdsteiermark" v="52"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+<node lat="47.10468635807435" lon="15.398512174443447" id="-53">
+  <tag k="addr:housenumber" v="351"></tag>
+  <tag k="contact:tel" v="+43 316 670 747"></tag>
+  <tag k="name" v="Apotheke Graz Shopping Nord"></tag>
+  <tag k="addr:postcode" v="8051"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Gösting"></tag>
+  <tag k="ref:ogdsteiermark" v="53"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+<node lat="47.062120057219325" lon="15.392032140355795" id="-54">
+  <tag k="addr:housenumber" v="72"></tag>
+  <tag k="contact:tel" v="+43 316 57 44 77"></tag>
+  <tag k="name" v="Aesculap-Apotheke"></tag>
+  <tag k="addr:postcode" v="8052"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Eggenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="54"></tag>
+  <tag k="addr:street" v="Burenstraße"></tag>
+</node>
+<node lat="47.05675691330788" lon="15.395101058086649" id="-55">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 316 22 54 84"></tag>
+  <tag k="name" v="Apotheke 8052"></tag>
+  <tag k="addr:postcode" v="8052"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Wetzelsdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="55"></tag>
+  <tag k="addr:street" v="Lissäckerstraße"></tag>
+</node>
+<node lat="47.05071381783324" lon="15.39838829590989" id="-56">
+  <tag k="addr:housenumber" v="101"></tag>
+  <tag k="contact:tel" v="+43 316 28 41 56"></tag>
+  <tag k="name" v="Peter-Rosegger-Apotheke"></tag>
+  <tag k="addr:postcode" v="8052"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Wetzelsdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="56"></tag>
+  <tag k="addr:street" v="Peter-Rosegger-Straße"></tag>
+</node>
+<node lat="47.047155241767925" lon="15.414942650337212" id="-57">
+  <tag k="addr:housenumber" v="152"></tag>
+  <tag k="contact:tel" v="+43 316 27 21 88"></tag>
+  <tag k="name" v="Apotheke Neuhart"></tag>
+  <tag k="addr:postcode" v="8053"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Straßgang"></tag>
+  <tag k="ref:ogdsteiermark" v="57"></tag>
+  <tag k="addr:street" v="Kärntner Straße"></tag>
+</node>
+<node lat="47.02340029555613" lon="15.400195656329196" id="-58">
+  <tag k="addr:housenumber" v="412"></tag>
+  <tag k="contact:tel" v="+43 316 28 36 42"></tag>
+  <tag k="name" v="Floriani-Apotheke"></tag>
+  <tag k="addr:postcode" v="8054"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Straßgang"></tag>
+  <tag k="ref:ogdsteiermark" v="58"></tag>
+  <tag k="addr:street" v="Kärntner Straße 410 -"></tag>
+</node>
+<node lat="47.070226189926686" lon="15.440059866067392" id="-6">
+  <tag k="addr:housenumber" v="11"></tag>
+  <tag k="contact:tel" v="+43 316 83 02 67"></tag>
+  <tag k="name" v="Bären-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="6"></tag>
+  <tag k="addr:street" v="Herrengasse"></tag>
+</node>
+<node lat="47.03390955037363" lon="15.417377896038726" id="-60">
+  <tag k="addr:housenumber" v="25,Shopp.Cent.West"></tag>
+  <tag k="contact:tel" v="+43 316 29 29 79"></tag>
+  <tag k="name" v="Regenbogen Apotheke"></tag>
+  <tag k="addr:postcode" v="8054"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Straßgang"></tag>
+  <tag k="ref:ogdsteiermark" v="60"></tag>
+  <tag k="addr:street" v="Weblinger Gürtel"></tag>
+</node>
+<node lat="47.02775436990449" lon="15.433757849102852" id="-62">
+  <tag k="addr:housenumber" v="373"></tag>
+  <tag k="contact:tel" v="+43 316 29 10 55"></tag>
+  <tag k="name" v="Apotheke Puntigam"></tag>
+  <tag k="addr:postcode" v="8055"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz-Puntigam"></tag>
+  <tag k="ref:ogdsteiermark" v="62"></tag>
+  <tag k="addr:street" v="Triester Straße"></tag>
+</node>
+<node lat="47.072716828464266" lon="15.439519649256306" id="-7">
+  <tag k="addr:housenumber" v="3"></tag>
+  <tag k="contact:tel" v="+43 316 83 05 66"></tag>
+  <tag k="name" v="Schloßberg-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="7"></tag>
+  <tag k="addr:street" v="Hofgasse"></tag>
+</node>
+<node lat="47.06709748071919" lon="15.443139520974755" id="-8">
+  <tag k="addr:housenumber" v="15"></tag>
+  <tag k="contact:tel" v="+43 316 83 01 61"></tag>
+  <tag k="name" v="Jakomini-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="8"></tag>
+  <tag k="addr:street" v="Jakominiplatz"></tag>
+</node>
+<node lat="47.067399167236715" lon="15.441432283209503" id="-9">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 316 82 31 59"></tag>
+  <tag k="name" v="Sonnen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8010"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Graz"></tag>
+  <tag k="ref:ogdsteiermark" v="9"></tag>
+  <tag k="addr:street" v="Jakominiplatz"></tag>
+</node>
+</osm>

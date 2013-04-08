@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.867424738533636" lon="15.896678718743976" id="-100">
+  <tag k="addr:housenumber" v="78"></tag>
+  <tag k="contact:tel" v="+43 316 29 22 87"></tag>
+  <tag k="name" v="Johannes-Apotheke"></tag>
+  <tag k="addr:postcode" v="8344"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Gleichenberg"></tag>
+  <tag k="ref:ogdsteiermark" v="100"></tag>
+  <tag k="addr:street" v="Ringstraße"></tag>
+</node>
+<node lat="46.935944233592174" lon="16.009896194033892" id="-101">
+  <tag k="addr:housenumber" v="10"></tag>
+  <tag k="contact:tel" v="+43 316 69 11 50"></tag>
+  <tag k="name" v="St. Josef-Apotheke"></tag>
+  <tag k="addr:postcode" v="8350"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Fehring"></tag>
+  <tag k="ref:ogdsteiermark" v="101"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.70739150459534" lon="15.774059137279417" id="-113">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 3472 24 36"></tag>
+  <tag k="name" v="Apotheke `Zur Reichskrone`"></tag>
+  <tag k="addr:postcode" v="8480"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Mureck"></tag>
+  <tag k="ref:ogdsteiermark" v="113"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.687972180374366" lon="15.986492747378323" id="-114">
+  <tag k="addr:housenumber" v="24"></tag>
+  <tag k="contact:tel" v="+43 3476 23 39"></tag>
+  <tag k="name" v="Apotheke `Zum Mohren`"></tag>
+  <tag k="addr:postcode" v="8490"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Radkersburg"></tag>
+  <tag k="ref:ogdsteiermark" v="114"></tag>
+  <tag k="addr:street" v="Langgasse"></tag>
+</node>
+<node lat="46.93248477305244" lon="15.66164848096367" id="-69">
+  <tag k="addr:housenumber" v="139"></tag>
+  <tag k="contact:tel" v="+43 316 69 11 50"></tag>
+  <tag k="name" v="St. Josef-Apotheke"></tag>
+  <tag k="addr:postcode" v="8082"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kirchbach in Steiermark"></tag>
+  <tag k="ref:ogdsteiermark" v="69"></tag>
+  <tag k="addr:street" v="Kirchbach in Steiermark"></tag>
+</node>
+<node lat="46.90413518558859" lon="15.711184818319538" id="-70">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 316 57 00 70"></tag>
+  <tag k="name" v="Rosen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8083"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Stefan im Rosental"></tag>
+  <tag k="ref:ogdsteiermark" v="70"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+</node>
+<node lat="46.952556501619185" lon="15.88843690600546" id="-97">
+  <tag k="addr:housenumber" v="15"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8330"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Feldbach"></tag>
+  <tag k="ref:ogdsteiermark" v="97"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.950833146457214" lon="15.885211920485814" id="-98">
+  <tag k="addr:housenumber" v="26"></tag>
+  <tag k="contact:tel" v="+43 3152 53 18"></tag>
+  <tag k="name" v="Leonhard-Apotheke"></tag>
+  <tag k="addr:postcode" v="8330"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Feldbach"></tag>
+  <tag k="ref:ogdsteiermark" v="98"></tag>
+  <tag k="addr:street" v="Schillerstraße"></tag>
+</node>
+<node lat="46.87466304647999" lon="15.825967505304638" id="-99">
+  <tag k="addr:housenumber" v="47"></tag>
+  <tag k="contact:tel" v="+43 3117 279 88"></tag>
+  <tag k="name" v="Marien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8342"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gnas"></tag>
+  <tag k="ref:ogdsteiermark" v="99"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+</osm>

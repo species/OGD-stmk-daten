@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.38265552140771" lon="15.093411181991957" id="-150">
+  <tag k="addr:housenumber" v="7"></tag>
+  <tag k="contact:tel" v="+43 3842 432 64"></tag>
+  <tag k="name" v="Josefee-Apotheke"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben"></tag>
+  <tag k="ref:ogdsteiermark" v="150"></tag>
+  <tag k="addr:street" v="Franz-Josef-Straße"></tag>
+</node>
+<node lat="47.379516298083736" lon="15.094025119962062" id="-151">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 3842 423 51"></tag>
+  <tag k="name" v="Stadt-Apotheke `Zum weißen Storch`"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben"></tag>
+  <tag k="ref:ogdsteiermark" v="151"></tag>
+  <tag k="addr:street" v="Krottendorfergasse"></tag>
+</node>
+<node lat="47.37605960211304" lon="15.074299206744485" id="-152">
+  <tag k="addr:housenumber" v="67"></tag>
+  <tag k="contact:tel" v="+43 3842 213 86"></tag>
+  <tag k="name" v="Apotheke `Zur Hütte`"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben-Donawitz"></tag>
+  <tag k="ref:ogdsteiermark" v="152"></tag>
+  <tag k="addr:street" v="Pestalozzistraße"></tag>
+</node>
+<node lat="47.38263596353035" lon="15.100512633505671" id="-153">
+  <tag k="addr:housenumber" v="22"></tag>
+  <tag k="contact:tel" v="+43 3842 448 10"></tag>
+  <tag k="name" v="Glück-Auf-Apotheke"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben-Judendorf"></tag>
+  <tag k="ref:ogdsteiermark" v="153"></tag>
+  <tag k="addr:street" v="Schießstattstraße"></tag>
+</node>
+<node lat="47.362296608993454" lon="15.097205956765219" id="-154">
+  <tag k="addr:housenumber" v="7"></tag>
+  <tag k="contact:tel" v="+43 3842 222 84"></tag>
+  <tag k="name" v="Apotheke in Göss"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben-Göss"></tag>
+  <tag k="ref:ogdsteiermark" v="154"></tag>
+  <tag k="addr:street" v="Turmgasse"></tag>
+</node>
+<node lat="47.378744439266335" lon="15.09139454140055" id="-155">
+  <tag k="addr:housenumber" v="10"></tag>
+  <tag k="contact:tel" v="+43 3842 225 26"></tag>
+  <tag k="name" v="Waasen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8700"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leoben"></tag>
+  <tag k="ref:ogdsteiermark" v="155"></tag>
+  <tag k="addr:street" v="Waasenstraße"></tag>
+</node>
+<node lat="47.39536043055996" lon="15.157754443294817" id="-156">
+  <tag k="addr:housenumber" v="50"></tag>
+  <tag k="contact:tel" v="+43 3842 838 80"></tag>
+  <tag k="name" v="Apotheke Niklasdorf"></tag>
+  <tag k="addr:postcode" v="8712"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Niklasdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="156"></tag>
+  <tag k="addr:street" v="Leobner Straße"></tag>
+</node>
+<node lat="47.34921629619434" lon="15.012093042481933" id="-167">
+  <tag k="addr:housenumber" v="a"></tag>
+  <tag k="contact:tel" v="+43 3843 29 10"></tag>
+  <tag k="name" v="Liesingtal-Apotheke"></tag>
+  <tag k="addr:postcode" v="8770"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Michael/Obersteiermark"></tag>
+  <tag k="ref:ogdsteiermark" v="167"></tag>
+  <tag k="addr:street" v="12.-Februar-Straße 40"></tag>
+</node>
+<node lat="47.5419447771459" lon="14.885912561131029" id="-170">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 316 83 03 42"></tag>
+  <tag k="name" v="Adler-Apotheke"></tag>
+  <tag k="addr:postcode" v="8790"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Eisenerz"></tag>
+  <tag k="ref:ogdsteiermark" v="170"></tag>
+  <tag k="addr:street" v="Freiheitsplatz"></tag>
+</node>
+<node lat="47.54159946653581" lon="14.89413499639906" id="-171">
+  <tag k="addr:housenumber" v="16"></tag>
+  <tag k="contact:tel" v="+43 3848 2350"></tag>
+  <tag k="name" v="Erzberg-Apotheke `Zur heiligen Barbara`"></tag>
+  <tag k="addr:postcode" v="8790"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Eisenerz"></tag>
+  <tag k="ref:ogdsteiermark" v="171"></tag>
+  <tag k="addr:street" v="Vordernberger Straße"></tag>
+</node>
+<node lat="47.426910415489886" lon="15.006193066162922" id="-172">
+  <tag k="addr:housenumber" v="2a"></tag>
+  <tag k="contact:tel" v="+43 3453 26 10"></tag>
+  <tag k="name" v="Mariahilf-Apotheke"></tag>
+  <tag k="addr:postcode" v="8793"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Trofaiach"></tag>
+  <tag k="ref:ogdsteiermark" v="172"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.42437315773042" lon="14.998026040763873" id="-173">
+  <tag k="addr:housenumber" v="12"></tag>
+  <tag k="contact:tel" v="+43 3382 524 17"></tag>
+  <tag k="name" v="Stadt-Apotheke"></tag>
+  <tag k="addr:postcode" v="8793"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Trofaiach"></tag>
+  <tag k="ref:ogdsteiermark" v="173"></tag>
+  <tag k="addr:street" v="Langefelderstraße"></tag>
+</node>
+</osm>

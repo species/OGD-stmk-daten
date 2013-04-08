@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.85343707611839" lon="15.410499510485511" id="-116">
+  <tag k="addr:housenumber" v="253"></tag>
+  <tag k="contact:tel" v="+43 3185 334 44"></tag>
+  <tag k="name" v="Apotheke Preding"></tag>
+  <tag k="addr:postcode" v="8504"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Preding"></tag>
+  <tag k="ref:ogdsteiermark" v="116"></tag>
+  <tag k="addr:street" v="Preding Nr."></tag>
+</node>
+<node lat="46.893985095634044" lon="15.265704518186677" id="-117">
+  <tag k="addr:housenumber" v="8"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8510"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Stainz"></tag>
+  <tag k="ref:ogdsteiermark" v="117"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.92932816854112" lon="15.254964170128543" id="-118">
+  <tag k="addr:housenumber" v="15"></tag>
+  <tag k="contact:tel" v="+43 3463 812 34"></tag>
+  <tag k="name" v="Filialapotheke"></tag>
+  <tag k="addr:postcode" v="8511"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Sankt Stefan ob Stainz"></tag>
+  <tag k="ref:ogdsteiermark" v="118"></tag>
+  <tag k="addr:street" v="Sankt Stefan ob Stainz"></tag>
+</node>
+<node lat="46.82180164038934" lon="15.316925096992277" id="-119">
+  <tag k="addr:housenumber" v="13"></tag>
+  <tag k="contact:tel" v="+43 3117 279 88"></tag>
+  <tag k="name" v="Marien-Apotheke"></tag>
+  <tag k="addr:postcode" v="8522"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Groß Sankt Florian"></tag>
+  <tag k="ref:ogdsteiermark" v="119"></tag>
+  <tag k="addr:street" v="Marktstraße"></tag>
+</node>
+<node lat="46.817946155911095" lon="15.222393606782791" id="-120">
+  <tag k="addr:housenumber" v="51"></tag>
+  <tag k="contact:tel" v="+43 3462 29 01"></tag>
+  <tag k="name" v="Christophorus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8530"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Deutschlandsberg"></tag>
+  <tag k="ref:ogdsteiermark" v="120"></tag>
+  <tag k="addr:street" v="Frauentaler Straße"></tag>
+</node>
+<node lat="46.8151461447488" lon="15.2157591306177" id="-121">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 3462 23 63"></tag>
+  <tag k="name" v="Hirschen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8530"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Deutschlandsberg"></tag>
+  <tag k="ref:ogdsteiermark" v="121"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.75781586415067" lon="15.20119903359536" id="-122">
+  <tag k="addr:housenumber" v="25"></tag>
+  <tag k="contact:tel" v="+43 316 29 22 87"></tag>
+  <tag k="name" v="Johannes-Apotheke"></tag>
+  <tag k="addr:postcode" v="8541"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Schwanberg"></tag>
+  <tag k="ref:ogdsteiermark" v="122"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.72009902946843" lon="15.271853039795355" id="-123">
+  <tag k="addr:housenumber" v="17"></tag>
+  <tag k="contact:tel" v="+43 3465 36 11"></tag>
+  <tag k="name" v="Apotheke Wies"></tag>
+  <tag k="addr:postcode" v="8551"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Wies"></tag>
+  <tag k="ref:ogdsteiermark" v="123"></tag>
+  <tag k="addr:street" v="Unterer Markt"></tag>
+</node>
+<node lat="46.686450006258134" lon="15.24551535531824" id="-124">
+  <tag k="addr:housenumber" v="25"></tag>
+  <tag k="contact:tel" v="+43 3466 422 07"></tag>
+  <tag k="name" v="Apotheke `Zur Krone`"></tag>
+  <tag k="addr:postcode" v="8552"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Eibiswald"></tag>
+  <tag k="ref:ogdsteiermark" v="124"></tag>
+  <tag k="addr:street" v="Eibiswald"></tag>
+</node>
+</osm>

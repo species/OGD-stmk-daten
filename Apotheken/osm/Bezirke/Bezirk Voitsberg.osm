@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.99460813428713" lon="15.212161824867172" id="-125">
+  <tag k="addr:housenumber" v="147"></tag>
+  <tag k="contact:tel" v="+43 3143 44 30"></tag>
+  <tag k="name" v="Kosmas-Apotheke"></tag>
+  <tag k="addr:postcode" v="8563"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Ligist"></tag>
+  <tag k="ref:ogdsteiermark" v="125"></tag>
+  <tag k="addr:street" v="Ligist"></tag>
+</node>
+<node lat="47.050769057719144" lon="15.146591589387638" id="-126">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 316 69 11 50"></tag>
+  <tag k="name" v="St. Josef-Apotheke"></tag>
+  <tag k="addr:postcode" v="8570"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Voitsberg"></tag>
+  <tag k="ref:ogdsteiermark" v="126"></tag>
+  <tag k="addr:street" v="Conrad-von-Hötzendorf-Straße"></tag>
+</node>
+<node lat="47.04971727707379" lon="15.150227401271634" id="-127">
+  <tag k="addr:housenumber" v="33"></tag>
+  <tag k="contact:tel" v="+43 3142 225 78"></tag>
+  <tag k="name" v="Rathaus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8570"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Voitsberg"></tag>
+  <tag k="ref:ogdsteiermark" v="127"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.070370720249166" lon="15.127292217166803" id="-128">
+  <tag k="addr:housenumber" v="4"></tag>
+  <tag k="contact:tel" v="+43 3142 625 53"></tag>
+  <tag k="name" v="Barbara-Apotheke"></tag>
+  <tag k="addr:postcode" v="8572"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bärnbach"></tag>
+  <tag k="ref:ogdsteiermark" v="128"></tag>
+  <tag k="addr:street" v="Piberstraße"></tag>
+</node>
+<node lat="47.064161795902066" lon="15.084452703564908" id="-129">
+  <tag k="addr:housenumber" v="17"></tag>
+  <tag k="contact:tel" v="+43 3144 22 66"></tag>
+  <tag k="name" v="Apotheke `Zum heiligen Schutzengel`"></tag>
+  <tag k="addr:postcode" v="8580"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Köflach"></tag>
+  <tag k="ref:ogdsteiermark" v="129"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.06373353934982" lon="15.081320880483506" id="-130">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 316 82 31 59"></tag>
+  <tag k="name" v="Sonnen-Apotheke"></tag>
+  <tag k="addr:postcode" v="8580"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Köflach"></tag>
+  <tag k="ref:ogdsteiermark" v="130"></tag>
+  <tag k="addr:street" v="Kärntner Straße"></tag>
+</node>
+<node lat="47.062420991771575" lon="15.080764582875037" id="-131">
+  <tag k="addr:housenumber" v="69"></tag>
+  <tag k="contact:tel" v="+43 316 29 22 87"></tag>
+  <tag k="name" v="Johannes-Apotheke"></tag>
+  <tag k="addr:postcode" v="8580"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Köflach-Pichling"></tag>
+  <tag k="ref:ogdsteiermark" v="131"></tag>
+  <tag k="addr:street" v="Packer Straße"></tag>
+</node>
+</osm>

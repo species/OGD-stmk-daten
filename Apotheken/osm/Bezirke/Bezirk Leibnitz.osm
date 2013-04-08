@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.88751730652916" lon="15.511497584078498" id="-104">
+  <tag k="addr:housenumber" v="74"></tag>
+  <tag k="contact:tel" v="+43 316 71 34 31"></tag>
+  <tag k="name" v="Apotheke `Zur Mariahilf`"></tag>
+  <tag k="addr:postcode" v="8410"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Wildon"></tag>
+  <tag k="ref:ogdsteiermark" v="104"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.79077829170212" lon="15.538593038013554" id="-105">
+  <tag k="addr:housenumber" v="100"></tag>
+  <tag k="contact:tel" v="+43 3452 832 34"></tag>
+  <tag k="name" v="Sulmtal Apotheke"></tag>
+  <tag k="addr:postcode" v="8430"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Kaindorf an der Sulm"></tag>
+  <tag k="ref:ogdsteiermark" v="105"></tag>
+  <tag k="addr:street" v="Grazer Straße"></tag>
+</node>
+<node lat="46.78106052251517" lon="15.538030478429697" id="-106">
+  <tag k="addr:housenumber" v="29"></tag>
+  <tag k="contact:tel" v="+43 3452 820 10"></tag>
+  <tag k="name" v="Apotheke `Zum Hirschen`"></tag>
+  <tag k="addr:postcode" v="8430"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leibnitz"></tag>
+  <tag k="ref:ogdsteiermark" v="106"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="46.7831438983187" lon="15.541369103216518" id="-107">
+  <tag k="addr:housenumber" v="a"></tag>
+  <tag k="contact:tel" v="+43 3452 822 33"></tag>
+  <tag k="name" v="Linden-Apotheke"></tag>
+  <tag k="addr:postcode" v="8430"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leibnitz"></tag>
+  <tag k="ref:ogdsteiermark" v="107"></tag>
+  <tag k="addr:street" v="Kaspar-Harb-Gasse 2"></tag>
+</node>
+<node lat="46.77049457650085" lon="15.56333657342298" id="-108">
+  <tag k="addr:housenumber" v="87"></tag>
+  <tag k="contact:tel" v="+43 316 69 13 77"></tag>
+  <tag k="name" v="Antonius-Apotheke"></tag>
+  <tag k="addr:postcode" v="8435"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Wagna"></tag>
+  <tag k="ref:ogdsteiermark" v="108"></tag>
+  <tag k="addr:street" v="Marburger Straße"></tag>
+</node>
+<node lat="46.75321983283215" lon="15.364337018583088" id="-109">
+  <tag k="addr:housenumber" v="333/1"></tag>
+  <tag k="contact:tel" v="+43 3457 31630"></tag>
+  <tag k="name" v="Michaeli Apotheke"></tag>
+  <tag k="addr:postcode" v="8443"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gleinstätten"></tag>
+  <tag k="ref:ogdsteiermark" v="109"></tag>
+  <tag k="addr:street" v="Gleinstätten"></tag>
+</node>
+<node lat="46.721374220924474" lon="15.555848269504308" id="-110">
+  <tag k="addr:housenumber" v="391"></tag>
+  <tag k="contact:tel" v="+43 3453 73 22"></tag>
+  <tag k="name" v="Urbani-Apotheke"></tag>
+  <tag k="addr:postcode" v="8462"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Gamlitz"></tag>
+  <tag k="ref:ogdsteiermark" v="110"></tag>
+  <tag k="addr:street" v="Untere Hauptstraße"></tag>
+</node>
+<node lat="46.667403366634844" lon="15.467017465326279" id="-111">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 3454 70 000"></tag>
+  <tag k="name" v="Rebenland Apotheke"></tag>
+  <tag k="addr:postcode" v="8463"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Leutschach"></tag>
+  <tag k="ref:ogdsteiermark" v="111"></tag>
+  <tag k="addr:street" v="Arnfelser Straße"></tag>
+</node>
+<node lat="46.72831877460464" lon="15.619180598965206" id="-112">
+  <tag k="addr:housenumber" v="a"></tag>
+  <tag k="contact:tel" v="+43 3453 26 10"></tag>
+  <tag k="name" v="Mariahilf-Apotheke"></tag>
+  <tag k="addr:postcode" v="8472"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Straß"></tag>
+  <tag k="ref:ogdsteiermark" v="112"></tag>
+  <tag k="addr:street" v="Hauptstraße 14"></tag>
+</node>
+<node lat="46.95542412708002" lon="15.588646382813183" id="-68">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 3134 21 79"></tag>
+  <tag k="name" v="Rochus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8081"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Heiligenkreuz am Waasen"></tag>
+  <tag k="ref:ogdsteiermark" v="68"></tag>
+  <tag k="addr:street" v="Pirchingstraße"></tag>
+</node>
+</osm>

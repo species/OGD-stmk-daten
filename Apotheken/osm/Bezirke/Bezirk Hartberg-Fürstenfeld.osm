@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.30201827853675" lon="15.834288715635331" id="-85">
+  <tag k="addr:housenumber" v="128"></tag>
+  <tag k="contact:tel" v="+43 3335 23 15"></tag>
+  <tag k="name" v="Apotheke `Zum schwarzen Adler`"></tag>
+  <tag k="addr:postcode" v="8225"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Pöllau"></tag>
+  <tag k="ref:ogdsteiermark" v="85"></tag>
+  <tag k="addr:street" v="Schrittwieserplatz"></tag>
+</node>
+<node lat="47.28062495382557" lon="15.968751944993954" id="-86">
+  <tag k="addr:housenumber" v="2"></tag>
+  <tag k="contact:tel" v="+43 3332 623 65"></tag>
+  <tag k="name" v="Apotheke `Zum schwarzen Bären`"></tag>
+  <tag k="addr:postcode" v="8230"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Hartberg"></tag>
+  <tag k="ref:ogdsteiermark" v="86"></tag>
+  <tag k="addr:street" v="Kirchengasse"></tag>
+</node>
+<node lat="47.283988900497235" lon="15.973934944611084" id="-87">
+  <tag k="addr:housenumber" v="1"></tag>
+  <tag k="contact:tel" v="+43 316 27 15 96"></tag>
+  <tag k="name" v="Paracelsus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8230"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Hartberg"></tag>
+  <tag k="ref:ogdsteiermark" v="87"></tag>
+  <tag k="addr:street" v="Raimund Obendrauf-Straße"></tag>
+</node>
+<node lat="47.44117000869073" lon="16.060182428318388" id="-88">
+  <tag k="addr:housenumber" v="120"></tag>
+  <tag k="contact:tel" v="+43 3339 227 28"></tag>
+  <tag k="name" v="Apotheke `Zur Maria Heil der Kranken`"></tag>
+  <tag k="addr:postcode" v="8240"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Friedberg"></tag>
+  <tag k="ref:ogdsteiermark" v="88"></tag>
+  <tag k="addr:street" v="Wiener Straße"></tag>
+</node>
+<node lat="47.4059484617786" lon="15.886355873768903" id="-89">
+  <tag k="addr:housenumber" v="425"></tag>
+  <tag k="contact:tel" v="+43 3337 41 50"></tag>
+  <tag k="name" v="Augustinus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8250"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Vorau"></tag>
+  <tag k="ref:ogdsteiermark" v="89"></tag>
+  <tag k="addr:street" v="Vorau"></tag>
+</node>
+<node lat="47.08700369119245" lon="15.922595713130866" id="-90">
+  <tag k="addr:housenumber" v="23"></tag>
+  <tag k="contact:tel" v="+43 3385 77 57"></tag>
+  <tag k="name" v="Jacobus-Apotheke"></tag>
+  <tag k="addr:postcode" v="8262"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Ilz"></tag>
+  <tag k="ref:ogdsteiermark" v="90"></tag>
+  <tag k="addr:street" v="Ilz"></tag>
+</node>
+<node lat="47.169518519381796" lon="16.006889584597364" id="-91">
+  <tag k="addr:housenumber" v="6"></tag>
+  <tag k="contact:tel" v="+43 3333 39 70"></tag>
+  <tag k="name" v="Thermen Apotheke"></tag>
+  <tag k="addr:postcode" v="8271"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Bad Waltersdorf"></tag>
+  <tag k="ref:ogdsteiermark" v="91"></tag>
+  <tag k="addr:street" v="Bad Waltersdorf"></tag>
+</node>
+<node lat="47.050529999243686" lon="16.076061869206903" id="-92">
+  <tag k="addr:housenumber" v="14"></tag>
+  <tag k="contact:tel" v="+43 3382 524 17"></tag>
+  <tag k="name" v="Stadt-Apotheke"></tag>
+  <tag k="addr:postcode" v="8280"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Fürstenfeld"></tag>
+  <tag k="ref:ogdsteiermark" v="92"></tag>
+  <tag k="addr:street" v="Hauptplatz"></tag>
+</node>
+<node lat="47.047616763846214" lon="16.080323609393556" id="-93">
+  <tag k="addr:housenumber" v="5"></tag>
+  <tag k="contact:tel" v="+43 316 71 11 47"></tag>
+  <tag k="name" v="Panther-Apotheke"></tag>
+  <tag k="addr:postcode" v="8280"></tag>
+  <tag k="amenity" v="pharmacy"></tag>
+  <tag k="addr:city" v="Fürstenfeld"></tag>
+  <tag k="ref:ogdsteiermark" v="93"></tag>
+  <tag k="addr:street" v="Stadt-Zug-Platz"></tag>
+</node>
+</osm>
