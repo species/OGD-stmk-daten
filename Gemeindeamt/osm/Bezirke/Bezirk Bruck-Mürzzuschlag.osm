@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.406213210392224" lon="15.21600420638579" id="-111">
+  <tag k="FAX" v="+43 (3862) 51010-10"></tag>
+  <tag k="TEL" v="+43 (3862) 51010"></tag>
+  <tag k="OBJECTID" v="653"></tag>
+  <tag k="URL" v="http://www.oberaich.gv.at/"></tag>
+  <tag k="GEMNR_alt" v="60211"></tag>
+  <tag k="ORT" v="Bruck an der Mur"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="71"></tag>
+  <tag k="PLZ" v="8600"></tag>
+  <tag k="GEMANSCHR1" v="Bruckerstraße"></tag>
+  <tag k="HW_BMN34" v="665752.9"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Bruckerstraße 71"></tag>
+  <tag k="GVOUID" v="65004220.0"></tag>
+  <tag k="MAIL" v="oberaich@oberaich.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Oberaich"></tag>
+  <tag k="GEMNR" v="62123"></tag>
+</node>
+<node lat="47.42506056925299" lon="15.34029400133561" id="-220">
+  <tag k="FAX" v="+43 (3864) 6764"></tag>
+  <tag k="TEL" v="+43 (3864) 6764"></tag>
+  <tag k="OBJECTID" v="762"></tag>
+  <tag k="URL" v="http://www.frauenberg.at/"></tag>
+  <tag k="GEMNR_alt" v="60206"></tag>
+  <tag k="ORT" v="Bruck an der Mur"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="34"></tag>
+  <tag k="PLZ" v="8600"></tag>
+  <tag k="GEMANSCHR1" v="Frauenberg"></tag>
+  <tag k="HW_BMN34" v="675160.77"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Frauenberg 34"></tag>
+  <tag k="GVOUID" v="65004258.0"></tag>
+  <tag k="MAIL" v="gde@frauenberg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Frauenberg"></tag>
+  <tag k="GEMNR" v="62108"></tag>
+</node>
+<node lat="47.410455250121785" lon="15.268730881766746" id="-221">
+  <tag k="FAX" v="+43 (3862) 890-101"></tag>
+  <tag k="TEL" v="+43 (3862) 890-0"></tag>
+  <tag k="OBJECTID" v="763"></tag>
+  <tag k="URL" v="http://www.bruckmur.at/"></tag>
+  <tag k="GEMNR_alt" v="60204"></tag>
+  <tag k="ORT" v="Bruck an der Mur"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8600"></tag>
+  <tag k="GEMANSCHR1" v="Koloman-Wallisch-Platz"></tag>
+  <tag k="HW_BMN34" v="669739.03"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Koloman-Wallisch-Platz 1"></tag>
+  <tag k="GVOUID" v="65004095.0"></tag>
+  <tag k="MAIL" v="stadt@bruckmur.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Bruck an der Mur"></tag>
+  <tag k="GEMNR" v="62106"></tag>
+</node>
+<node lat="47.48103448113719" lon="15.286809305706596" id="-222">
+  <tag k="FAX" v="+43 (3862) 31396-18"></tag>
+  <tag k="TEL" v="+43 (3862) 31396"></tag>
+  <tag k="OBJECTID" v="764"></tag>
+  <tag k="URL" v="http://www.parschlug.at/"></tag>
+  <tag k="GEMNR_alt" v="60212"></tag>
+  <tag k="ORT" v="Kapfenberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8605"></tag>
+  <tag k="GEMANSCHR1" v="Haritzmeierstraße"></tag>
+  <tag k="HW_BMN34" v="671209.3"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Haritzmeierstraße 1"></tag>
+  <tag k="GVOUID" v="65004106.0"></tag>
+  <tag k="MAIL" v="gemeinde@parschlug.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Parschlug"></tag>
+  <tag k="GEMNR" v="62124"></tag>
+</node>
+<node lat="47.43954979515791" lon="15.289381135099248" id="-223">
+  <tag k="FAX" v="+43 (3862) 22501-2090"></tag>
+  <tag k="TEL" v="+43 (3862) 22501"></tag>
+  <tag k="OBJECTID" v="765"></tag>
+  <tag k="URL" v="http://www.kapfenberg.at/"></tag>
+  <tag k="GEMNR_alt" v="60209"></tag>
+  <tag k="ORT" v="Kapfenberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8605"></tag>
+  <tag k="GEMANSCHR1" v="Koloman-Wallisch-Platz"></tag>
+  <tag k="HW_BMN34" v="671341.05"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Koloman-Wallisch-Platz 1"></tag>
+  <tag k="GVOUID" v="65003969.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@kapfenberg.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Kapfenberg"></tag>
+  <tag k="GEMNR" v="62113"></tag>
+</node>
+<node lat="47.4713029223357" lon="15.162866500344187" id="-224">
+  <tag k="FAX" v="+43 (3869) 2242-4"></tag>
+  <tag k="TEL" v="+43 (3869) 2242"></tag>
+  <tag k="OBJECTID" v="766"></tag>
+  <tag k="URL" v="http://www.katharein.at/"></tag>
+  <tag k="GEMNR_alt" v="60215"></tag>
+  <tag k="ORT" v="St. Katharein an der Laming"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="11"></tag>
+  <tag k="PLZ" v="8611"></tag>
+  <tag k="GEMANSCHR1" v="St. Katharein an der Laming"></tag>
+  <tag k="HW_BMN34" v="661851.38"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St. Katharein an der Laming 11"></tag>
+  <tag k="GVOUID" v="65003765.0"></tag>
+  <tag k="MAIL" v="gemeinde@katharein.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Katharein an der Laming"></tag>
+  <tag k="GEMNR" v="62127"></tag>
+</node>
+<node lat="47.508767675542" lon="15.073968162602993" id="-225">
+  <tag k="FAX" v="+43 (3868) 8215-14"></tag>
+  <tag k="TEL" v="+43 (3868) 8227"></tag>
+  <tag k="OBJECTID" v="767"></tag>
+  <tag k="URL" v="http://www.tragoess.at/"></tag>
+  <tag k="GEMNR_alt" v="60220"></tag>
+  <tag k="ORT" v="Tragöß-Oberort"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="41"></tag>
+  <tag k="PLZ" v="8612"></tag>
+  <tag k="GEMANSCHR1" v="Pichl-Großdorf"></tag>
+  <tag k="HW_BMN34" v="655217.53"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Pichl-Großdorf 41"></tag>
+  <tag k="GVOUID" v="65004150.0"></tag>
+  <tag k="MAIL" v="gde@tragoess.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Tragöß"></tag>
+  <tag k="GEMNR" v="62134"></tag>
+</node>
+<node lat="47.39146875434088" lon="15.4294496434269" id="-226">
+  <tag k="FAX" v="+43 (3866) 5151-20"></tag>
+  <tag k="TEL" v="+43 (3866) 5151"></tag>
+  <tag k="OBJECTID" v="768"></tag>
+  <tag k="URL" v="http://www.breitenau-hochlantsch.at/start.html"></tag>
+  <tag k="GEMNR_alt" v="60203"></tag>
+  <tag k="ORT" v="Breitenau"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="9"></tag>
+  <tag k="PLZ" v="8614"></tag>
+  <tag k="GEMANSCHR1" v="St. Jakob"></tag>
+  <tag k="HW_BMN34" v="681844.1"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St. Jakob 9"></tag>
+  <tag k="GVOUID" v="65004071.0"></tag>
+  <tag k="MAIL" v="gde@breitenau-hochlantsch.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Breitenau am Hochlantsch"></tag>
+  <tag k="GEMNR" v="62105"></tag>
+</node>
+<node lat="47.52271625085687" lon="15.233033736506142" id="-228">
+  <tag k="FAX" v="+43 (3861) 2307-10"></tag>
+  <tag k="TEL" v="+43 (3861) 2307"></tag>
+  <tag k="OBJECTID" v="770"></tag>
+  <tag k="URL" v="http://www.thoerl.gv.at/index.php"></tag>
+  <tag k="GEMNR_alt" v="60219"></tag>
+  <tag k="ORT" v="Thörl"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="73"></tag>
+  <tag k="PLZ" v="8621"></tag>
+  <tag k="GEMANSCHR1" v="Palbersdorf"></tag>
+  <tag k="HW_BMN34" v="667222.01"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Palbersdorf 73"></tag>
+  <tag k="GVOUID" v="65003767.0"></tag>
+  <tag k="MAIL" v="office@thoerl.gv.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Thörl"></tag>
+  <tag k="GEMNR" v="62133"></tag>
+</node>
+<node lat="47.544448985469685" lon="15.16816216211877" id="-229">
+  <tag k="FAX" v="+43 (3861) 8136"></tag>
+  <tag k="TEL" v="+43 (3861) 8136"></tag>
+  <tag k="OBJECTID" v="771"></tag>
+  <tag k="URL" v="http://www.st-ilgen.at/"></tag>
+  <tag k="GEMNR_alt" v="60214"></tag>
+  <tag k="ORT" v="Thörl"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="69"></tag>
+  <tag k="PLZ" v="8621"></tag>
+  <tag k="GEMANSCHR1" v="St. Ilgen"></tag>
+  <tag k="HW_BMN34" v="662372.84"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St. Ilgen 69"></tag>
+  <tag k="GVOUID" v="65003764.0"></tag>
+  <tag k="MAIL" v="gemeinde@st-ilgen.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Ilgen"></tag>
+  <tag k="GEMNR" v="62126"></tag>
+</node>
+<node lat="47.51573333347512" lon="15.172895287426512" id="-230">
+  <tag k="FAX" v="+43 (3861) 8416"></tag>
+  <tag k="TEL" v="+43 (3861) 8116"></tag>
+  <tag k="OBJECTID" v="772"></tag>
+  <tag k="URL" v="http://www.etmissl.at/"></tag>
+  <tag k="GEMNR_alt" v="60205"></tag>
+  <tag k="ORT" v="Etmißl"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="48"></tag>
+  <tag k="PLZ" v="8622"></tag>
+  <tag k="GEMANSCHR1" v="Etmißl"></tag>
+  <tag k="HW_BMN34" v="662681.33"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Etmißl 48"></tag>
+  <tag k="GVOUID" v="65004148.0"></tag>
+  <tag k="MAIL" v="gde@etmissl.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Etmißl"></tag>
+  <tag k="GEMNR" v="62107"></tag>
+</node>
+<node lat="47.544447000638115" lon="15.240186742589676" id="-231">
+  <tag k="FAX" v="+43 (3861) 2206-22"></tag>
+  <tag k="TEL" v="+43 (3861) 2206"></tag>
+  <tag k="OBJECTID" v="773"></tag>
+  <tag k="URL" v="http://www.aflenz-kurort.at/"></tag>
+  <tag k="GEMNR_alt" v="60201"></tag>
+  <tag k="ORT" v="Aflenz Kurort"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="9"></tag>
+  <tag k="PLZ" v="8623"></tag>
+  <tag k="GEMANSCHR1" v="Aflenz Kurort"></tag>
+  <tag k="HW_BMN34" v="667794.8"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Aflenz Kurort 9"></tag>
+  <tag k="GVOUID" v="65003968.0"></tag>
+  <tag k="MAIL" v="gde@aflenz-kurort.gv.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Aflenz Kurort"></tag>
+  <tag k="GEMNR" v="62101"></tag>
+</node>
+<node lat="47.54960796212643" lon="15.273125002734151" id="-232">
+  <tag k="FAX" v="+43 (3861) 2288-22"></tag>
+  <tag k="TEL" v="+43 (3861) 2288"></tag>
+  <tag k="OBJECTID" v="774"></tag>
+  <tag k="URL" v="http://www.aflenz-land.gv.at/"></tag>
+  <tag k="GEMNR_alt" v="60202"></tag>
+  <tag k="ORT" v="Aflenz Kurort"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="24"></tag>
+  <tag k="PLZ" v="8623"></tag>
+  <tag k="GEMANSCHR1" v="Dörflach"></tag>
+  <tag k="HW_BMN34" v="670282.23"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dörflach 24"></tag>
+  <tag k="GVOUID" v="65003763.0"></tag>
+  <tag k="MAIL" v="gde@aflenz-land.gv.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Aflenz Land"></tag>
+  <tag k="GEMNR" v="62102"></tag>
+</node>
+<node lat="47.55850379038517" lon="15.337477709266889" id="-233">
+  <tag k="FAX" v="+43 (3863) 2111-19"></tag>
+  <tag k="TEL" v="+43 (3863) 2111"></tag>
+  <tag k="OBJECTID" v="775"></tag>
+  <tag k="URL" v="http://www.turnau.at/"></tag>
+  <tag k="GEMNR_alt" v="60221"></tag>
+  <tag k="ORT" v="Turnau"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="18"></tag>
+  <tag k="PLZ" v="8625"></tag>
+  <tag k="GEMANSCHR1" v="Turnau"></tag>
+  <tag k="HW_BMN34" v="675138.92"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Turnau 18"></tag>
+  <tag k="GVOUID" v="65003768.0"></tag>
+  <tag k="MAIL" v="gde@turnau.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Turnau"></tag>
+  <tag k="GEMNR" v="62135"></tag>
+</node>
+<node lat="47.78112371913315" lon="15.310701734480299" id="-234">
+  <tag k="FAX" v="+43 (3882) 2148-22"></tag>
+  <tag k="TEL" v="+43 (3882) 2148"></tag>
+  <tag k="OBJECTID" v="776"></tag>
+  <tag k="URL" v="http://www.st-sebastian.at/"></tag>
+  <tag k="GEMNR_alt" v="60218"></tag>
+  <tag k="ORT" v="Mariazell"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="3"></tag>
+  <tag k="PLZ" v="8630"></tag>
+  <tag k="GEMANSCHR1" v="Erlaufseestraße"></tag>
+  <tag k="HW_BMN34" v="673451.28"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Erlaufseestraße 3"></tag>
+  <tag k="GVOUID" v="65004149.0"></tag>
+  <tag k="MAIL" v="gemeinde@st-sebastian.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Sebastian"></tag>
+  <tag k="GEMNR" v="62130"></tag>
+</node>
+<node lat="47.76090133234711" lon="15.37388318903035" id="-235">
+  <tag k="FAX" v="+43 (3882) 3361"></tag>
+  <tag k="TEL" v="+43 (3882) 2203"></tag>
+  <tag k="OBJECTID" v="777"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="60208"></tag>
+  <tag k="ORT" v="Mariazell"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="26"></tag>
+  <tag k="PLZ" v="8630"></tag>
+  <tag k="GEMANSCHR1" v="Halltal"></tag>
+  <tag k="HW_BMN34" v="678158.14"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Halltal 26"></tag>
+  <tag k="GVOUID" v="65004017.0"></tag>
+  <tag k="MAIL" v="gde@halltal.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Halltal"></tag>
+  <tag k="GEMNR" v="62111"></tag>
+</node>
+<node lat="47.77344232549624" lon="15.316781970520436" id="-236">
+  <tag k="FAX" v="+43 (3882) 2244-4"></tag>
+  <tag k="TEL" v="+43 (3882) 2244"></tag>
+  <tag k="OBJECTID" v="778"></tag>
+  <tag k="URL" v="http://www.stadt-mariazell.at"></tag>
+  <tag k="GEMNR_alt" v="60210"></tag>
+  <tag k="ORT" v="Mariazell"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8630"></tag>
+  <tag k="GEMANSCHR1" v="Pater Hermann Geist-Platz"></tag>
+  <tag k="HW_BMN34" v="673895.68"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Pater Hermann Geist-Platz 1"></tag>
+  <tag k="GVOUID" v="65003770.0"></tag>
+  <tag k="MAIL" v="stadtamt@mariazell.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Mariazell"></tag>
+  <tag k="GEMNR" v="62117"></tag>
+</node>
+<node lat="47.740200433496874" lon="15.30803304707283" id="-237">
+  <tag k="FAX" v="+43 (3882) 4160"></tag>
+  <tag k="TEL" v="+43 (3882) 2503"></tag>
+  <tag k="OBJECTID" v="779"></tag>
+  <tag k="URL" v="http://www.gusswerk.at/system/web/default.aspx"></tag>
+  <tag k="GEMNR_alt" v="60207"></tag>
+  <tag k="ORT" v="Gußwerk"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8632"></tag>
+  <tag k="GEMANSCHR1" v="Hochschwabstraße"></tag>
+  <tag k="HW_BMN34" v="673190.84"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hochschwabstraße 1"></tag>
+  <tag k="GVOUID" v="65003769.0"></tag>
+  <tag k="MAIL" v="office@gusswerk.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gußwerk"></tag>
+  <tag k="GEMNR" v="62110"></tag>
+</node>
+<node lat="47.47523793799904" lon="15.373062202152392" id="-238">
+  <tag k="FAX" v="+43 (3864) 2222-8"></tag>
+  <tag k="TEL" v="+43 (3864) 2222-0"></tag>
+  <tag k="OBJECTID" v="780"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="60217"></tag>
+  <tag k="ORT" v="St. Marein im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8641"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="677702.23"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 1"></tag>
+  <tag k="GVOUID" v="65003766.0"></tag>
+  <tag k="MAIL" v="gde@st-marein-mzt.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sankt Marein im Mürztal"></tag>
+  <tag k="GEMNR" v="62129"></tag>
+</node>
+<node lat="47.48274266141734" lon="15.37008338957408" id="-239">
+  <tag k="FAX" v="+43 (3864) 2322-10"></tag>
+  <tag k="TEL" v="+43 (3864) 2322"></tag>
+  <tag k="OBJECTID" v="781"></tag>
+  <tag k="URL" v="http://www.stlorenzen.at"></tag>
+  <tag k="GEMNR_alt" v="60216"></tag>
+  <tag k="ORT" v="St. Lorenzen im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="4"></tag>
+  <tag k="PLZ" v="8642"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="677488.06"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 4"></tag>
+  <tag k="GVOUID" v="65004221.0"></tag>
+  <tag k="MAIL" v="gde@stlorenzen.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sankt Lorenzen im Mürztal"></tag>
+  <tag k="GEMNR" v="62128"></tag>
+</node>
+<node lat="47.48134801281577" lon="15.406228079254259" id="-240">
+  <tag k="FAX" v="+43 (3864) 2311-33"></tag>
+  <tag k="TEL" v="+43 (3864) 2311"></tag>
+  <tag k="OBJECTID" v="782"></tag>
+  <tag k="URL" v="http://www.allerheiligen-im-muerztal.at/"></tag>
+  <tag k="GEMNR_alt" v="61301"></tag>
+  <tag k="ORT" v="Allerheiligen im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="3"></tag>
+  <tag k="PLZ" v="8643"></tag>
+  <tag k="GEMANSCHR1" v="Allerheiligen im Mürztal"></tag>
+  <tag k="HW_BMN34" v="680210.36"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Allerheiligen im Mürztal 3"></tag>
+  <tag k="GVOUID" v="65004004.0"></tag>
+  <tag k="MAIL" v="gde@allerheiligen-muerztal.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Allerheiligen im Mürztal"></tag>
+  <tag k="GEMNR" v="62103"></tag>
+</node>
+<node lat="47.485237170719785" lon="15.398206891738962" id="-241">
+  <tag k="FAX" v="+43 (3864) 2211-5"></tag>
+  <tag k="TEL" v="+43 (3864) 2211"></tag>
+  <tag k="OBJECTID" v="783"></tag>
+  <tag k="URL" v="http://www.muerzhofen.co.at/"></tag>
+  <tag k="GEMNR_alt" v="61309"></tag>
+  <tag k="ORT" v="Mürzhofen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="18"></tag>
+  <tag k="PLZ" v="8644"></tag>
+  <tag k="GEMANSCHR1" v="Wiener Straße"></tag>
+  <tag k="HW_BMN34" v="679611.02"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Wiener Straße 18"></tag>
+  <tag k="GVOUID" v="65003906.0"></tag>
+  <tag k="MAIL" v="gde@muerzhofen.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Mürzhofen"></tag>
+  <tag k="GEMNR" v="62119"></tag>
+</node>
+<node lat="47.50517610661198" lon="15.44835787661293" id="-242">
+  <tag k="FAX" v="+43 (3865) 2202-90"></tag>
+  <tag k="TEL" v="+43 (3865) 2202"></tag>
+  <tag k="OBJECTID" v="784"></tag>
+  <tag k="URL" v="http://www.kindberg.at/"></tag>
+  <tag k="GEMNR_alt" v="61305"></tag>
+  <tag k="ORT" v="Kindberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="44"></tag>
+  <tag k="PLZ" v="8650"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="683415.95"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 44"></tag>
+  <tag k="GVOUID" v="65003904.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@kindberg.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Kindberg"></tag>
+  <tag k="GEMNR" v="62114"></tag>
+</node>
+<node lat="47.465843550384164" lon="15.500577029266742" id="-243">
+  <tag k="FAX" v="+43 (3865) 8202-6"></tag>
+  <tag k="TEL" v="+43 (3865) 8202"></tag>
+  <tag k="OBJECTID" v="785"></tag>
+  <tag k="URL" v="http://www.stanz.at/"></tag>
+  <tag k="GEMNR_alt" v="61314"></tag>
+  <tag k="ORT" v="Stanz im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="61"></tag>
+  <tag k="PLZ" v="8653"></tag>
+  <tag k="GEMANSCHR1" v="Stanz im Mürztal"></tag>
+  <tag k="HW_BMN34" v="687302.93"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Stanz im Mürztal 61"></tag>
+  <tag k="GVOUID" v="65003907.0"></tag>
+  <tag k="MAIL" v="office@stanz.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Stanz im Mürztal"></tag>
+  <tag k="GEMNR" v="62132"></tag>
+</node>
+<node lat="47.52516387032423" lon="15.494970184952294" id="-245">
+  <tag k="FAX" v="+43 (3858) 6135-77"></tag>
+  <tag k="TEL" v="+43 (3858) 6135"></tag>
+  <tag k="OBJECTID" v="787"></tag>
+  <tag k="URL" v="http://www.wartberg-muerztal.at"></tag>
+  <tag k="GEMNR_alt" v="61316"></tag>
+  <tag k="ORT" v="Wartberg im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="44"></tag>
+  <tag k="PLZ" v="8661"></tag>
+  <tag k="GEMANSCHR1" v="Dorfstraße"></tag>
+  <tag k="HW_BMN34" v="686951.6"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dorfstraße 44"></tag>
+  <tag k="GVOUID" v="65004005.0"></tag>
+  <tag k="MAIL" v="gde.wartberg@twin.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Wartberg im Mürztal"></tag>
+  <tag k="GEMNR" v="62137"></tag>
+</node>
+<node lat="47.533942624066476" lon="15.512470158604975" id="-246">
+  <tag k="FAX" v="+43 (3858) 2203-85"></tag>
+  <tag k="TEL" v="+43 (3858) 2203"></tag>
+  <tag k="OBJECTID" v="788"></tag>
+  <tag k="URL" v="http://www.mitterdorf.at/"></tag>
+  <tag k="GEMNR_alt" v="61308"></tag>
+  <tag k="ORT" v="Mitterdorf im Mürztal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="7"></tag>
+  <tag k="PLZ" v="8662"></tag>
+  <tag k="GEMANSCHR1" v="Stelzhamerstraße"></tag>
+  <tag k="HW_BMN34" v="688279.83"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Stelzhamerstraße 7"></tag>
+  <tag k="GVOUID" v="65004122.0"></tag>
+  <tag k="MAIL" v="marktgemeinde.mitterdorf@aon.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Mitterdorf im Mürztal"></tag>
+  <tag k="GEMNR" v="62118"></tag>
+</node>
+<node lat="47.579358123065845" lon="15.489764084912828" id="-247">
+  <tag k="FAX" v="+43 (3856) 2222-34"></tag>
+  <tag k="TEL" v="+43 (3856) 2222"></tag>
+  <tag k="OBJECTID" v="789"></tag>
+  <tag k="URL" v="http://www.veitsch.at/cms/"></tag>
+  <tag k="GEMNR_alt" v="61315"></tag>
+  <tag k="ORT" v="Dorf Veitsch"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="18"></tag>
+  <tag k="PLZ" v="8663"></tag>
+  <tag k="GEMANSCHR1" v="Obere Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="686625.22"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Obere Hauptstraße 18"></tag>
+  <tag k="GVOUID" v="65004058.0"></tag>
+  <tag k="MAIL" v="office@veitsch.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Veitsch"></tag>
+  <tag k="GEMNR" v="62136"></tag>
+</node>
+<node lat="47.568658520041396" lon="15.622702276984477" id="-248">
+  <tag k="FAX" v="+43 (3854) 6155-20"></tag>
+  <tag k="TEL" v="+43 (3854) 6155"></tag>
+  <tag k="OBJECTID" v="790"></tag>
+  <tag k="URL" v="http://www.langenwang.at/gemeinde/index.html"></tag>
+  <tag k="GEMNR_alt" v="61307"></tag>
+  <tag k="ORT" v="Langenwang"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8665"></tag>
+  <tag k="GEMANSCHR1" v="Wiener Straße"></tag>
+  <tag k="HW_BMN34" v="696615.23"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Wiener Straße 2"></tag>
+  <tag k="GVOUID" v="65004057.0"></tag>
+  <tag k="MAIL" v="gde@langenwang.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Langenwang"></tag>
+  <tag k="GEMNR" v="62116"></tag>
+</node>
+<node lat="47.54663254442919" lon="15.558085585103077" id="-249">
+  <tag k="FAX" v="+43 (3855) 2355-113"></tag>
+  <tag k="TEL" v="+43 (3855) 2355"></tag>
+  <tag k="OBJECTID" v="791"></tag>
+  <tag k="URL" v="http://www.krieglach.at/"></tag>
+  <tag k="GEMNR_alt" v="61306"></tag>
+  <tag k="ORT" v="Krieglach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8670"></tag>
+  <tag k="GEMANSCHR1" v="Waldheimatstraße"></tag>
+  <tag k="HW_BMN34" v="691728.58"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Waldheimatstraße 1"></tag>
+  <tag k="GVOUID" v="65003905.0"></tag>
+  <tag k="MAIL" v="gde@krieglach.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Krieglach"></tag>
+  <tag k="GEMNR" v="62115"></tag>
+</node>
+<node lat="47.60764847698679" lon="15.67191382307468" id="-253">
+  <tag k="FAX" v="+43 (3852) 2215"></tag>
+  <tag k="TEL" v="+43 (3852) 2215"></tag>
+  <tag k="OBJECTID" v="795"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61303"></tag>
+  <tag k="ORT" v="Mürzzuschlag"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="4a"></tag>
+  <tag k="PLZ" v="8680"></tag>
+  <tag k="GEMANSCHR1" v="Mariazeller Straße"></tag>
+  <tag k="HW_BMN34" v="700355.28"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Mariazeller Straße 4a"></tag>
+  <tag k="GVOUID" v="65004056.0"></tag>
+  <tag k="MAIL" v="gmdganz@phoenixds.net"></tag>
+  <tag k="GEMNAME" v="Gemeinde Ganz"></tag>
+  <tag k="GEMNR" v="62109"></tag>
+</node>
+<node lat="47.60605321502491" lon="15.672712824860382" id="-254">
+  <tag k="FAX" v="+43 (3852) 2555-14"></tag>
+  <tag k="TEL" v="+43 (3852) 2555"></tag>
+  <tag k="OBJECTID" v="796"></tag>
+  <tag k="URL" v="http://www.muerzzuschlag.at"></tag>
+  <tag k="GEMNR_alt" v="61311"></tag>
+  <tag k="ORT" v="Mürzzuschlag"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="9"></tag>
+  <tag k="PLZ" v="8680"></tag>
+  <tag k="GEMANSCHR1" v="Wiener Straße"></tag>
+  <tag k="HW_BMN34" v="700413.84"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Wiener Straße 9"></tag>
+  <tag k="GVOUID" v="65004203.0"></tag>
+  <tag k="MAIL" v="stadtamt@mzz.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Mürzzuschlag"></tag>
+  <tag k="GEMNR" v="62121"></tag>
+</node>
+<node lat="47.61615000600784" lon="15.753701253270407" id="-255">
+  <tag k="FAX" v="+43 (3853) 323-30"></tag>
+  <tag k="TEL" v="+43 (3853) 323"></tag>
+  <tag k="OBJECTID" v="797"></tag>
+  <tag k="URL" v="http://www.spitalamsemmering.com"></tag>
+  <tag k="GEMNR_alt" v="61313"></tag>
+  <tag k="ORT" v="Spital am Semmering"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="16"></tag>
+  <tag k="PLZ" v="8684"></tag>
+  <tag k="GEMANSCHR1" v="Bundesstraße"></tag>
+  <tag k="HW_BMN34" v="706511.95"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Bundesstraße 16"></tag>
+  <tag k="GVOUID" v="65004274.0"></tag>
+  <tag k="MAIL" v="gemeinde@spitalamsemmering.com"></tag>
+  <tag k="GEMNAME" v="Gemeinde Spital am Semmering"></tag>
+  <tag k="GEMNR" v="62131"></tag>
+</node>
+<node lat="47.65954135978349" lon="15.642403464015937" id="-256">
+  <tag k="FAX" v="+43 (3857) 2561"></tag>
+  <tag k="TEL" v="+43 (3857) 2210"></tag>
+  <tag k="OBJECTID" v="798"></tag>
+  <tag k="URL" v="http://www.altenberg-rax.com/"></tag>
+  <tag k="GEMNR_alt" v="61302"></tag>
+  <tag k="ORT" v="Kapellen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="12"></tag>
+  <tag k="PLZ" v="8691"></tag>
+  <tag k="GEMANSCHR1" v="Altenberg"></tag>
+  <tag k="HW_BMN34" v="698188.02"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Altenberg 12"></tag>
+  <tag k="GVOUID" v="65003908.0"></tag>
+  <tag k="MAIL" v="gemeinde@altenberg-rax.com"></tag>
+  <tag k="GEMNAME" v="Gemeinde Altenberg an der Rax"></tag>
+  <tag k="GEMNR" v="62104"></tag>
+</node>
+<node lat="47.6476637432005" lon="15.629041389325986" id="-257">
+  <tag k="FAX" v="+43 (3857) 2287-6"></tag>
+  <tag k="TEL" v="+43 (3857) 2287"></tag>
+  <tag k="OBJECTID" v="799"></tag>
+  <tag k="URL" v="http://www.kapellen-muerz.com/index1.html"></tag>
+  <tag k="GEMNR_alt" v="61304"></tag>
+  <tag k="ORT" v="Kapellen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="6"></tag>
+  <tag k="PLZ" v="8691"></tag>
+  <tag k="GEMANSCHR1" v="Dorfstraße"></tag>
+  <tag k="HW_BMN34" v="697172.28"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dorfstraße 6"></tag>
+  <tag k="GVOUID" v="65003909.0"></tag>
+  <tag k="MAIL" v="gemeinde@kapellen-muerz.com"></tag>
+  <tag k="GEMNAME" v="Gemeinde Kapellen"></tag>
+  <tag k="GEMNR" v="62112"></tag>
+</node>
+<node lat="47.666974929438325" lon="15.574221562867994" id="-258">
+  <tag k="FAX" v="+43 (3857) 8202-74"></tag>
+  <tag k="TEL" v="+43 (3857) 8202"></tag>
+  <tag k="OBJECTID" v="800"></tag>
+  <tag k="URL" v="http://www.neuberg.at/"></tag>
+  <tag k="GEMNR_alt" v="61312"></tag>
+  <tag k="ORT" v="Neuberg an der Mürz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="8"></tag>
+  <tag k="PLZ" v="8692"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="693074.65"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 8"></tag>
+  <tag k="GVOUID" v="65003910.0"></tag>
+  <tag k="MAIL" v="marktgemeinde@neuberg.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Neuberg an der Mürz"></tag>
+  <tag k="GEMNR" v="62122"></tag>
+</node>
+<node lat="47.675572411099424" lon="15.493530478479629" id="-259">
+  <tag k="FAX" v="+43 (3859) 3030-14"></tag>
+  <tag k="TEL" v="+43 (3859) 3030"></tag>
+  <tag k="OBJECTID" v="801"></tag>
+  <tag k="URL" v="http://www.muerzsteg.at/"></tag>
+  <tag k="GEMNR_alt" v="61310"></tag>
+  <tag k="ORT" v="Mürzsteg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="9"></tag>
+  <tag k="PLZ" v="8693"></tag>
+  <tag k="GEMANSCHR1" v="Mürzsteg"></tag>
+  <tag k="HW_BMN34" v="687024.79"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Mürzsteg 9"></tag>
+  <tag k="GVOUID" v="65004092.0"></tag>
+  <tag k="MAIL" v="info@muerzsteg.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Mürzsteg"></tag>
+  <tag k="GEMNR" v="62120"></tag>
+</node>
+<node lat="47.36030507910233" lon="15.335106128697223" id="-67">
+  <tag k="FAX" v="+43 (3867) 8044-4"></tag>
+  <tag k="TEL" v="+43 (3867) 8044-0"></tag>
+  <tag k="OBJECTID" v="609"></tag>
+  <tag k="URL" v="http://www.pernegg.at/"></tag>
+  <tag k="GEMNR_alt" v="60213"></tag>
+  <tag k="ORT" v="Pernegg an der Mur"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="16"></tag>
+  <tag k="PLZ" v="8132"></tag>
+  <tag k="GEMANSCHR1" v="Kirchdorf"></tag>
+  <tag k="HW_BMN34" v="674676.76"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kirchdorf 16"></tag>
+  <tag k="GVOUID" v="65004304.0"></tag>
+  <tag k="MAIL" v="gde@pernegg.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Pernegg an der Mur"></tag>
+  <tag k="GEMNR" v="62125"></tag>
+</node>
+</osm>

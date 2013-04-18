@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.10778957906471" lon="15.119685568141982" id="-143">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="984"></tag>
+  <tag k="name" v="Afling"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.137837369634184" lon="15.095381075324969" id="-144">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="985"></tag>
+  <tag k="name" v="Kainach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.07215877986464" lon="15.127704242141629" id="-145">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="986"></tag>
+  <tag k="name" v="Bärnbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.07621313053499" lon="15.102204871625325" id="-146">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="987"></tag>
+  <tag k="name" v="Piber"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.065393847052846" lon="15.087286193992739" id="-147">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="988"></tag>
+  <tag k="name" v="Köflach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.06575174963061" lon="15.078968586944539" id="-148">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="989"></tag>
+  <tag k="name" v="Stölzle Oberglas AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04564303926551" lon="15.158401488612814" id="-149">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="990"></tag>
+  <tag k="name" v="Voitsberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.03452141835479" lon="15.174574348404338" id="-150">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="991"></tag>
+  <tag k="name" v="Krems"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.05761630214487" lon="15.112387650845427" id="-151">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="992"></tag>
+  <tag k="name" v="Rostental"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.06176346198653" lon="15.065261255278335" id="-152">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="993"></tag>
+  <tag k="name" v="Maria Lankowitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.02348653287214" lon="15.051988298931212" id="-153">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="994"></tag>
+  <tag k="name" v="Edelschrott"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.021696071794686" lon="14.955250711296852" id="-154">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="995"></tag>
+  <tag k="name" v="Hirschegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.00980524123063" lon="15.106022979232817" id="-155">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="996"></tag>
+  <tag k="name" v="St. Martin am Wöllmißberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.10857898121097" lon="14.97195095390918" id="-156">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="997"></tag>
+  <tag k="name" v="Salla"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.17113256602122" lon="15.164873096068652" id="-157">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="998"></tag>
+  <tag k="name" v="Geistthal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.107706949672725" lon="15.173005840021393" id="-158">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="999"></tag>
+  <tag k="name" v="Södingberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.052627257592185" lon="15.219752489917395" id="-159">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1000"></tag>
+  <tag k="name" v="Stallhofen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.00176350214402" lon="15.279297896351695" id="-160">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1001"></tag>
+  <tag k="name" v="Söding"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.985862992136695" lon="15.278450498804851" id="-161">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1002"></tag>
+  <tag k="name" v="Mooskirchen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.99513904333513" lon="15.239636505731928" id="-162">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1003"></tag>
+  <tag k="name" v="Hallersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.01009637087169" lon="15.244315348959436" id="-163">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1004"></tag>
+  <tag k="name" v="Köppling"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.99482346143267" lon="15.211892136245098" id="-164">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1005"></tag>
+  <tag k="name" v="Ligist"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.96550135073372" lon="15.209027898779475" id="-165">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1006"></tag>
+  <tag k="name" v="Steinberg bei Ligist"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.00871183516316" lon="15.214951611960355" id="-166">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1007"></tag>
+  <tag k="name" v="Krottendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.02163702029466" lon="15.198998673710204" id="-167">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1008"></tag>
+  <tag k="name" v="Gaisfeld"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.13061833181837" lon="15.034732602935975" id="-358">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1199"></tag>
+  <tag k="name" v="Graden"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.069789128091756" lon="15.024014743281887" id="-359">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1200"></tag>
+  <tag k="name" v="Kemetberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.95692672146353" lon="15.059692428253268" id="-360">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1201"></tag>
+  <tag k="name" v="Modriach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.97303459463547" lon="14.980603445155824" id="-361">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1202"></tag>
+  <tag k="name" v="Pack"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.07178003725373" lon="15.132806369601088" id="-760">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1601"></tag>
+  <tag k="name" v="Stölzle Oberglas AG Bärnbach"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04564332724075" lon="15.158401476300593" id="-808">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1649"></tag>
+  <tag k="name" v="Bezirksflorianstation Voitsberg"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+</osm>

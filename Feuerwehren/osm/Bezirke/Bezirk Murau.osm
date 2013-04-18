@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.05980887636534" lon="14.215574473144788" id="-545">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1386"></tag>
+  <tag k="name" v="Laßnitz bei Murau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.10216739448824" lon="14.093458053277006" id="-546">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1387"></tag>
+  <tag k="name" v="St. Georgen ob Murau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.08555826386488" lon="13.982746693612226" id="-547">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1388"></tag>
+  <tag k="name" v="Stadl an der Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.19194011591919" lon="14.160293081881761" id="-548">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1389"></tag>
+  <tag k="name" v="Feistritz am Kammersberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.18771026806316" lon="14.184537975940277" id="-549">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1390"></tag>
+  <tag k="name" v="St. Peter am Kammersberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.17609198909066" lon="14.224593145320465" id="-550">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1391"></tag>
+  <tag k="name" v="Peterdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.15272974639582" lon="14.41164726532625" id="-551">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1392"></tag>
+  <tag k="name" v="Scheifling"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.069350526832714" lon="14.301033310336106" id="-552">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1393"></tag>
+  <tag k="name" v="St. Lambrecht"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.10713161554867" lon="14.456537970996745" id="-553">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1394"></tag>
+  <tag k="name" v="Perchau am Sattel"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.112091983960774" lon="14.167657173551365" id="-554">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1395"></tag>
+  <tag k="name" v="Murau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.10243008140558" lon="14.384212087662616" id="-555">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1396"></tag>
+  <tag k="name" v="Mariahof"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.17984321027241" lon="14.111895392744305" id="-556">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1397"></tag>
+  <tag k="name" v="Schöder"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.12828628315076" lon="14.358131310496121" id="-557">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1398"></tag>
+  <tag k="name" v="Teufenbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.0693268438482" lon="14.430050507720766" id="-558">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1399"></tag>
+  <tag k="name" v="Neumarkt"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.14311601944198" lon="14.282250571788481" id="-559">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1400"></tag>
+  <tag k="name" v="Katsch a.d. Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.147431112601005" lon="14.373371460330949" id="-560">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1401"></tag>
+  <tag k="name" v="Niederwölz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.20122766839165" lon="14.28402113200578" id="-561">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1402"></tag>
+  <tag k="name" v="Oberwölz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.028839691396215" lon="14.508418688046877" id="-562">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1403"></tag>
+  <tag k="name" v="Mühlen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.069754297500424" lon="14.3796013250822" id="-563">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1404"></tag>
+  <tag k="name" v="Zeutschach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.111426192808665" lon="14.02403602466273" id="-564">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1405"></tag>
+  <tag k="name" v="St. Ruprecht ob Murau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.07158141029767" lon="13.913770360360354" id="-565">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1406"></tag>
+  <tag k="name" v="Predlitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.08871872643053" lon="13.940963088043134" id="-566">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1407"></tag>
+  <tag k="name" v="Einach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.961482143639195" lon="13.883093525475646" id="-567">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1408"></tag>
+  <tag k="name" v="Turrach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.121236819819295" lon="14.189417296214613" id="-568">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1409"></tag>
+  <tag k="name" v="Stmk.Krank.Anst.GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.074651039040496" lon="14.323557724901278" id="-582">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1423"></tag>
+  <tag k="name" v="Dynamit Nobel GesmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.15765517316494" lon="14.082341901546448" id="-588">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1429"></tag>
+  <tag k="name" v="Ranten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.18213180603367" lon="14.018368759945426" id="-596">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1437"></tag>
+  <tag k="name" v="Krakaudorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9904806428106" lon="14.389363665549551" id="-597">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1438"></tag>
+  <tag k="name" v="Dürnstein i.d. Steiermark"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.15662104306582" lon="14.133013783367547" id="-774">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1615"></tag>
+  <tag k="name" v="Rinegg"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.16588472503088" lon="14.239170927866207" id="-775">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1616"></tag>
+  <tag k="name" v="Althofen"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.11209239775626" lon="14.167657153918272" id="-806">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1647"></tag>
+  <tag k="name" v="Bezirksflorianstation Murau"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+</osm>

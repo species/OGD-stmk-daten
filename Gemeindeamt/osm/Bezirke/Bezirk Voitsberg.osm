@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.06425189989142" lon="15.082665279468104" id="-100">
+  <tag k="FAX" v="+43 (3144) 2519-111"></tag>
+  <tag k="TEL" v="+43 (3144) 2519"></tag>
+  <tag k="OBJECTID" v="642"></tag>
+  <tag k="URL" v="http://www.koeflach.at"></tag>
+  <tag k="GEMNR_alt" v="61609"></tag>
+  <tag k="ORT" v="Köflach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8580"></tag>
+  <tag k="GEMANSCHR1" v="Rathausplatz"></tag>
+  <tag k="HW_BMN34" v="655078.2"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Rathausplatz 1"></tag>
+  <tag k="GVOUID" v="65004063.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@koeflach.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Köflach"></tag>
+  <tag k="GEMNR" v="61609"></tag>
+</node>
+<node lat="46.98597300177769" lon="15.097415295570665" id="-101">
+  <tag k="FAX" v="+43 (3140) 2024"></tag>
+  <tag k="TEL" v="+43 (3140) 202"></tag>
+  <tag k="OBJECTID" v="643"></tag>
+  <tag k="URL" v="http://www.st-martin-woellmissberg.at.hm"></tag>
+  <tag k="GEMNR_alt" v="61621"></tag>
+  <tag k="ORT" v="Köflach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="64"></tag>
+  <tag k="PLZ" v="8580"></tag>
+  <tag k="GEMANSCHR1" v="Sankt Martin am Wöllmißberg"></tag>
+  <tag k="HW_BMN34" v="656061.0"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Sankt Martin am Wöllmißberg 64"></tag>
+  <tag k="GVOUID" v="65003936.0"></tag>
+  <tag k="MAIL" v="gde@st-martin-woellmissberg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Martin am Wöllmißberg"></tag>
+  <tag k="GEMNR" v="61621"></tag>
+</node>
+<node lat="47.05509977102109" lon="15.114011220109008" id="-102">
+  <tag k="FAX" v="+43 (3142) 22242-42"></tag>
+  <tag k="TEL" v="+43 (3142) 22242"></tag>
+  <tag k="OBJECTID" v="644"></tag>
+  <tag k="URL" v="http://www.rosental-kainach.at/"></tag>
+  <tag k="GEMNR_alt" v="61618"></tag>
+  <tag k="ORT" v="Rosental an der Kainach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="85"></tag>
+  <tag k="PLZ" v="8582"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="657443.48"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 85"></tag>
+  <tag k="GVOUID" v="65003934.0"></tag>
+  <tag k="MAIL" v="gemeinde@rosental-kainach.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Rosental an der Kainach"></tag>
+  <tag k="GEMNR" v="61618"></tag>
+</node>
+<node lat="46.9567841284303" lon="15.0600576991136" id="-103">
+  <tag k="FAX" v="+43 (3146) 2102-7"></tag>
+  <tag k="TEL" v="+43 (3146) 2102"></tag>
+  <tag k="OBJECTID" v="645"></tag>
+  <tag k="URL" v="http://www.modriach.at"></tag>
+  <tag k="GEMNR_alt" v="61614"></tag>
+  <tag k="ORT" v="Edelschrott"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="5"></tag>
+  <tag k="PLZ" v="8583"></tag>
+  <tag k="GEMANSCHR1" v="Modriach"></tag>
+  <tag k="HW_BMN34" v="653166.17"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Modriach 5"></tag>
+  <tag k="GVOUID" v="65004253.0"></tag>
+  <tag k="MAIL" v="gde@modriach.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Modriach"></tag>
+  <tag k="GEMNR" v="61614"></tag>
+</node>
+<node lat="46.97776798385879" lon="14.984466697886118" id="-104">
+  <tag k="FAX" v="+43 (3146) 8144"></tag>
+  <tag k="TEL" v="+43 (3146) 8144"></tag>
+  <tag k="OBJECTID" v="646"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61616"></tag>
+  <tag k="ORT" v="Edelschrott"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="42"></tag>
+  <tag k="PLZ" v="8583"></tag>
+  <tag k="GEMANSCHR1" v="Pack"></tag>
+  <tag k="HW_BMN34" v="647452.67"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Pack 42"></tag>
+  <tag k="GVOUID" v="65004293.0"></tag>
+  <tag k="MAIL" v="gde@pack.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Pack"></tag>
+  <tag k="GEMNR" v="61616"></tag>
+</node>
+<node lat="47.02148145982519" lon="15.050277610723551" id="-105">
+  <tag k="FAX" v="+43 (3145) 802-8"></tag>
+  <tag k="TEL" v="+43 (3145) 802"></tag>
+  <tag k="OBJECTID" v="647"></tag>
+  <tag k="URL" v="http://www.edelschrott.at/"></tag>
+  <tag k="GEMNR_alt" v="61602"></tag>
+  <tag k="ORT" v="Edelschrott"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="17"></tag>
+  <tag k="PLZ" v="8583"></tag>
+  <tag k="GEMANSCHR1" v="Packer Straße"></tag>
+  <tag k="HW_BMN34" v="652539.79"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Packer Straße 17"></tag>
+  <tag k="GVOUID" v="65004125.0"></tag>
+  <tag k="MAIL" v="gde@edelschrott.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Edelschrott"></tag>
+  <tag k="GEMNR" v="61602"></tag>
+</node>
+<node lat="47.019415229153694" lon="14.958079272475976" id="-106">
+  <tag k="FAX" v="+43 (3141) 2207-30"></tag>
+  <tag k="TEL" v="+43 (3141) 2207"></tag>
+  <tag k="OBJECTID" v="648"></tag>
+  <tag k="URL" v="http://www.hirschegg.at/"></tag>
+  <tag k="GEMNR_alt" v="61607"></tag>
+  <tag k="ORT" v="Hirschegg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="24"></tag>
+  <tag k="PLZ" v="8584"></tag>
+  <tag k="GEMANSCHR1" v="Hirschegg"></tag>
+  <tag k="HW_BMN34" v="645526.39"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hirschegg 24"></tag>
+  <tag k="GVOUID" v="65003931.0"></tag>
+  <tag k="MAIL" v="gde@hirschegg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hirschegg"></tag>
+  <tag k="GEMNR" v="61607"></tag>
+</node>
+<node lat="47.049009752899316" lon="15.024224211159815" id="-107">
+  <tag k="FAX" v="+43 (3144) 3192-4"></tag>
+  <tag k="TEL" v="+43 (3144) 3192"></tag>
+  <tag k="OBJECTID" v="649"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61605"></tag>
+  <tag k="ORT" v="Maria Lankowitz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="44"></tag>
+  <tag k="PLZ" v="8591"></tag>
+  <tag k="GEMANSCHR1" v="Gößnitz-Dorf"></tag>
+  <tag k="HW_BMN34" v="650610.37"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gößnitz-Dorf 44"></tag>
+  <tag k="GVOUID" v="65003930.0"></tag>
+  <tag k="MAIL" v="gde@goessnitz.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gößnitz"></tag>
+  <tag k="GEMNR" v="61605"></tag>
+</node>
+<node lat="47.06178987016823" lon="15.065268327797696" id="-108">
+  <tag k="FAX" v="+43 (3144) 3484-4"></tag>
+  <tag k="TEL" v="+43 (3144) 3484"></tag>
+  <tag k="OBJECTID" v="650"></tag>
+  <tag k="URL" v="http://www.maria-lankowitz.at"></tag>
+  <tag k="GEMNR_alt" v="61613"></tag>
+  <tag k="ORT" v="Maria Lankowitz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="204"></tag>
+  <tag k="PLZ" v="8591"></tag>
+  <tag k="GEMANSCHR1" v="Puchbacherstraße"></tag>
+  <tag k="HW_BMN34" v="653752.21"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Puchbacherstraße 204"></tag>
+  <tag k="GVOUID" v="65003933.0"></tag>
+  <tag k="MAIL" v="gemeinde@maria-lankowitz.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Maria Lankowitz"></tag>
+  <tag k="GEMNR" v="61613"></tag>
+</node>
+<node lat="47.108863137775806" lon="14.973321725024665" id="-109">
+  <tag k="FAX" v="+43 (3147) 366"></tag>
+  <tag k="TEL" v="+43 (3147) 206"></tag>
+  <tag k="OBJECTID" v="651"></tag>
+  <tag k="URL" v="http://www.salla.at"></tag>
+  <tag k="GEMNR_alt" v="61619"></tag>
+  <tag k="ORT" v="Salla"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8592"></tag>
+  <tag k="GEMANSCHR1" v="Dorf"></tag>
+  <tag k="HW_BMN34" v="646858.43"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dorf 2"></tag>
+  <tag k="GVOUID" v="65004010.0"></tag>
+  <tag k="MAIL" v="gde@salla.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Salla"></tag>
+  <tag k="GEMNR" v="61619"></tag>
+</node>
+<node lat="47.131687736196135" lon="15.033734800064956" id="-110">
+  <tag k="FAX" v="+43 (3144) 8212-20"></tag>
+  <tag k="TEL" v="+43 (3144) 8212"></tag>
+  <tag k="OBJECTID" v="652"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61606"></tag>
+  <tag k="ORT" v="Graden"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="11"></tag>
+  <tag k="PLZ" v="8593"></tag>
+  <tag k="GEMANSCHR1" v="Graden"></tag>
+  <tag k="HW_BMN34" v="651486.09"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Graden 11"></tag>
+  <tag k="GVOUID" v="65004210.0"></tag>
+  <tag k="MAIL" v="gde@graden.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Graden"></tag>
+  <tag k="GEMNR" v="61606"></tag>
+</node>
+<node lat="47.10178289528844" lon="15.175453156510997" id="-274">
+  <tag k="FAX" v="+43 (3142) 8134-4"></tag>
+  <tag k="TEL" v="+43 (3142) 8134"></tag>
+  <tag k="OBJECTID" v="816"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61623"></tag>
+  <tag k="ORT" v="Stallhofen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="35"></tag>
+  <tag k="PLZ" v="8152"></tag>
+  <tag k="GEMANSCHR1" v="Södingberg"></tag>
+  <tag k="HW_BMN34" v="662188.67"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Södingberg 35"></tag>
+  <tag k="GVOUID" v="65004065.0"></tag>
+  <tag k="MAIL" v="gde@soedingberg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Södingberg"></tag>
+  <tag k="GEMNR" v="61623"></tag>
+</node>
+<node lat="47.052508970096646" lon="15.219318135605647" id="-275">
+  <tag k="FAX" v="+43 (3142) 22038-9"></tag>
+  <tag k="TEL" v="+43 (3142) 22038"></tag>
+  <tag k="OBJECTID" v="817"></tag>
+  <tag k="URL" v="http://www.stallhofen.eu"></tag>
+  <tag k="GEMNR_alt" v="61624"></tag>
+  <tag k="ORT" v="Stallhofen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="113"></tag>
+  <tag k="PLZ" v="8152"></tag>
+  <tag k="GEMANSCHR1" v="Stallhofen"></tag>
+  <tag k="HW_BMN34" v="665440.31"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Stallhofen 113"></tag>
+  <tag k="GVOUID" v="65003938.0"></tag>
+  <tag k="MAIL" v="gde@stallhofen.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Stallhofen"></tag>
+  <tag k="GEMNR" v="61624"></tag>
+</node>
+<node lat="47.16834553079308" lon="15.166905161842784" id="-276">
+  <tag k="FAX" v="+43 (3149) 2204-4"></tag>
+  <tag k="TEL" v="+43 (3149) 2204"></tag>
+  <tag k="OBJECTID" v="818"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61604"></tag>
+  <tag k="ORT" v="Geistthal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="83"></tag>
+  <tag k="PLZ" v="8153"></tag>
+  <tag k="GEMANSCHR1" v="Geistthal"></tag>
+  <tag k="HW_BMN34" v="661650.48"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Geistthal 83"></tag>
+  <tag k="GVOUID" v="65004062.0"></tag>
+  <tag k="MAIL" v="gde@geistthal.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Geistthal"></tag>
+  <tag k="GEMNR" v="61604"></tag>
+</node>
+<node lat="46.9987566052563" lon="15.28966977888224" id="-89">
+  <tag k="FAX" v="+43 (3137) 6130-17"></tag>
+  <tag k="TEL" v="+43 (3137) 6130"></tag>
+  <tag k="OBJECTID" v="631"></tag>
+  <tag k="URL" v="http://www.soeding.at/"></tag>
+  <tag k="GEMNR_alt" v="61622"></tag>
+  <tag k="ORT" v="Söding"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8561"></tag>
+  <tag k="GEMANSCHR1" v="Schulplatz"></tag>
+  <tag k="HW_BMN34" v="670705.85"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Schulplatz 1"></tag>
+  <tag k="GVOUID" v="65003937.0"></tag>
+  <tag k="MAIL" v="gemeinde@soeding.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Söding"></tag>
+  <tag k="GEMNR" v="61622"></tag>
+</node>
+<node lat="46.98454004876217" lon="15.28209858136722" id="-90">
+  <tag k="FAX" v="+43 (3137) 6112-75"></tag>
+  <tag k="TEL" v="+43 (3137) 6112"></tag>
+  <tag k="OBJECTID" v="632"></tag>
+  <tag k="URL" v="http://www.mooskirchen.at/"></tag>
+  <tag k="GEMNR_alt" v="61615"></tag>
+  <tag k="ORT" v="Mooskirchen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="4"></tag>
+  <tag k="PLZ" v="8562"></tag>
+  <tag k="GEMANSCHR1" v="Marktplatz"></tag>
+  <tag k="HW_BMN34" v="670108.74"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Marktplatz 4"></tag>
+  <tag k="GVOUID" v="65004064.0"></tag>
+  <tag k="MAIL" v="gde@mooskirchen.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Mooskirchen"></tag>
+  <tag k="GEMNR" v="61615"></tag>
+</node>
+<node lat="46.993794083121514" lon="15.207280547600858" id="-91">
+  <tag k="FAX" v="+43 (3143) 2229-24"></tag>
+  <tag k="TEL" v="+43 (3143) 2229"></tag>
+  <tag k="OBJECTID" v="633"></tag>
+  <tag k="URL" v="http://www.ligist.at/"></tag>
+  <tag k="GEMNR_alt" v="61612"></tag>
+  <tag k="ORT" v="Ligist"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="22"></tag>
+  <tag k="PLZ" v="8563"></tag>
+  <tag k="GEMANSCHR1" v="Ligist"></tag>
+  <tag k="HW_BMN34" v="664431.58"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Ligist 22"></tag>
+  <tag k="GVOUID" v="65004212.0"></tag>
+  <tag k="MAIL" v="gde@ligist.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Ligist"></tag>
+  <tag k="GEMNR" v="61612"></tag>
+</node>
+<node lat="47.008897602944444" lon="15.216224989611362" id="-92">
+  <tag k="FAX" v="+43 (3143) 2222-20"></tag>
+  <tag k="TEL" v="+43 (3143) 2222"></tag>
+  <tag k="OBJECTID" v="634"></tag>
+  <tag k="URL" v="http://www.krottendorf-gaisfeld.gv.at/"></tag>
+  <tag k="GEMNR_alt" v="61611"></tag>
+  <tag k="ORT" v="Krottendorf-Gaisfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="161"></tag>
+  <tag k="PLZ" v="8564"></tag>
+  <tag k="GEMANSCHR1" v="Krottendorf"></tag>
+  <tag k="HW_BMN34" v="665135.94"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Krottendorf 161"></tag>
+  <tag k="GVOUID" v="65003932.0"></tag>
+  <tag k="MAIL" v="gde@krottendorf-gaisfeld.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Krottendorf-Gaisfeld"></tag>
+  <tag k="GEMNR" v="61611"></tag>
+</node>
+<node lat="47.008836006325645" lon="15.229410370139298" id="-93">
+  <tag k="FAX" v="+43 (3143) 2251-16"></tag>
+  <tag k="TEL" v="+43 (3143) 2251"></tag>
+  <tag k="OBJECTID" v="635"></tag>
+  <tag k="URL" v="http://www.st-johann-koeppling.at/"></tag>
+  <tag k="GEMNR_alt" v="61620"></tag>
+  <tag k="ORT" v="St. Johann ob Hohenburg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="83"></tag>
+  <tag k="PLZ" v="8565"></tag>
+  <tag k="GEMANSCHR1" v="Sankt Johann ob Hohenburg"></tag>
+  <tag k="HW_BMN34" v="666138.5"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Sankt Johann ob Hohenburg 83"></tag>
+  <tag k="GVOUID" v="65003935.0"></tag>
+  <tag k="MAIL" v="gde.stjohann@westnet.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Johann-Köppling"></tag>
+  <tag k="GEMNR" v="61620"></tag>
+</node>
+<node lat="47.04910705053637" lon="15.149967060748956" id="-94">
+  <tag k="FAX" v="+43 (3142) 22170-219"></tag>
+  <tag k="TEL" v="+43 (3142) 22170"></tag>
+  <tag k="OBJECTID" v="636"></tag>
+  <tag k="URL" v="http://www.voitsberg.at/"></tag>
+  <tag k="GEMNR_alt" v="61625"></tag>
+  <tag k="ORT" v="Voitsberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8570"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="660165.21"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 1"></tag>
+  <tag k="GVOUID" v="65004011.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@voitsberg.gv.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Voitsberg"></tag>
+  <tag k="GEMNR" v="61625"></tag>
+</node>
+<node lat="47.070758911468545" lon="15.127979118138779" id="-95">
+  <tag k="FAX" v="+43 (3142) 61550-33"></tag>
+  <tag k="TEL" v="+43 (3142) 61550-0"></tag>
+  <tag k="OBJECTID" v="637"></tag>
+  <tag k="URL" v="http://www.baernbach.at/"></tag>
+  <tag k="GEMNR_alt" v="61601"></tag>
+  <tag k="ORT" v="Bärnbach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8572"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="658531.6"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 1"></tag>
+  <tag k="GVOUID" v="65003929.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@baernbach.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Bärnbach"></tag>
+  <tag k="GEMNR" v="61601"></tag>
+</node>
+<node lat="47.096087675204515" lon="15.115527571711047" id="-96">
+  <tag k="FAX" v="+43 (3142) 61404"></tag>
+  <tag k="TEL" v="+43 (3142) 61400"></tag>
+  <tag k="OBJECTID" v="638"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61617"></tag>
+  <tag k="ORT" v="Bärnbach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="32"></tag>
+  <tag k="PLZ" v="8572"></tag>
+  <tag k="GEMANSCHR1" v="Josef-Roll-Siedlung"></tag>
+  <tag k="HW_BMN34" v="657629.78"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Josef-Roll-Siedlung 32"></tag>
+  <tag k="GVOUID" v="65004126.0"></tag>
+  <tag k="MAIL" v="gde1.piberegg@westnet.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Piberegg"></tag>
+  <tag k="GEMNR" v="61617"></tag>
+</node>
+<node lat="47.14026751640046" lon="15.092196934696304" id="-97">
+  <tag k="FAX" v="+43 (3148) 236-6"></tag>
+  <tag k="TEL" v="+43 (3148) 236"></tag>
+  <tag k="OBJECTID" v="639"></tag>
+  <tag k="URL" v="http://www.kainach.at"></tag>
+  <tag k="GEMNR_alt" v="61608"></tag>
+  <tag k="ORT" v="Kainach bei Voitsberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="19"></tag>
+  <tag k="PLZ" v="8573"></tag>
+  <tag k="GEMANSCHR1" v="Kainach bei Voitsberg"></tag>
+  <tag k="HW_BMN34" v="655936.69"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kainach bei Voitsberg 19"></tag>
+  <tag k="GVOUID" v="65004211.0"></tag>
+  <tag k="MAIL" v="gde@kainach-voitsberg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Kainach bei Voitsberg"></tag>
+  <tag k="GEMNR" v="61608"></tag>
+</node>
+<node lat="47.14026751640046" lon="15.092196934696304" id="-98">
+  <tag k="FAX" v="+43 (3148) 236-6"></tag>
+  <tag k="TEL" v="+43 (3148) 236"></tag>
+  <tag k="OBJECTID" v="640"></tag>
+  <tag k="URL" v="http://www.kohlschwarz.at/"></tag>
+  <tag k="GEMNR_alt" v="61610"></tag>
+  <tag k="ORT" v="Kainach bei Voitsberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="19"></tag>
+  <tag k="PLZ" v="8573"></tag>
+  <tag k="GEMANSCHR1" v="Kainach bei Voitsberg"></tag>
+  <tag k="HW_BMN34" v="655936.69"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kainach bei Voitsberg 19"></tag>
+  <tag k="GVOUID" v="65004276.0"></tag>
+  <tag k="MAIL" v="gde@kohlschwarz.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Kohlschwarz"></tag>
+  <tag k="GEMNR" v="61610"></tag>
+</node>
+<node lat="47.14026751640046" lon="15.092196934696304" id="-99">
+  <tag k="FAX" v="+43 (3148) 236-6"></tag>
+  <tag k="TEL" v="+43 (3148) 236"></tag>
+  <tag k="OBJECTID" v="641"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61603"></tag>
+  <tag k="ORT" v="Kainach bei Voitsberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="19"></tag>
+  <tag k="PLZ" v="8573"></tag>
+  <tag k="GEMANSCHR1" v="Kainach bei Voitsberg"></tag>
+  <tag k="HW_BMN34" v="655936.69"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kainach bei Voitsberg 19"></tag>
+  <tag k="GVOUID" v="65004252.0"></tag>
+  <tag k="MAIL" v="gde@gallmannsegg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gallmannsegg"></tag>
+  <tag k="GEMNR" v="61603"></tag>
+</node>
+</osm>

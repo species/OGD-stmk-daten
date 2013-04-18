@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.543159021366975" lon="14.758881079543011" id="-137">
+  <tag k="FAX" v="+43 (3635) 2311"></tag>
+  <tag k="TEL" v="+43 (3635) 2110"></tag>
+  <tag k="OBJECTID" v="679"></tag>
+  <tag k="URL" v="http://www.radmer.at/index_g.html"></tag>
+  <tag k="GEMNR_alt" v="61112"></tag>
+  <tag k="ORT" v="Radmer"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="31a"></tag>
+  <tag k="PLZ" v="8795"></tag>
+  <tag k="GEMANSCHR1" v="Radmer an der Stube"></tag>
+  <tag k="HW_BMN34" v="857373.41"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Radmer an der Stube 31a"></tag>
+  <tag k="GVOUID" v="65003998.0"></tag>
+  <tag k="MAIL" v="gde@radmer.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Radmer"></tag>
+  <tag k="GEMNR" v="61112"></tag>
+</node>
+<node lat="47.38069895724156" lon="15.091674168538308" id="-260">
+  <tag k="FAX" v="+43 (3842) 4062-320"></tag>
+  <tag k="TEL" v="+43 (3842) 4062-0"></tag>
+  <tag k="OBJECTID" v="802"></tag>
+  <tag k="URL" v="http://www.leoben.at/"></tag>
+  <tag k="GEMNR_alt" v="61108"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="GEMANSCHR1" v="Erzherzog Johann-Straße"></tag>
+  <tag k="HW_BMN34" v="656323.49"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Erzherzog Johann-Straße 2"></tag>
+  <tag k="GVOUID" v="65004192.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@leoben.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Leoben"></tag>
+  <tag k="GEMNR" v="61108"></tag>
+</node>
+<node lat="47.39837826662241" lon="15.140017368099384" id="-261">
+  <tag k="FAX" v="+43 (3842) 83406"></tag>
+  <tag k="TEL" v="+43 (3842) 81289-0"></tag>
+  <tag k="OBJECTID" v="803"></tag>
+  <tag k="URL" v="http://www.proleb.net/"></tag>
+  <tag k="GEMNR_alt" v="61111"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="GEMANSCHR1" v="Gemeindestraße"></tag>
+  <tag k="HW_BMN34" v="660004.25"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gemeindestraße 2"></tag>
+  <tag k="GVOUID" v="65004048.0"></tag>
+  <tag k="MAIL" v="gemeinde.proleb@aon.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Proleb"></tag>
+  <tag k="GEMNR" v="61111"></tag>
+</node>
+<node lat="47.39765040922896" lon="15.157863011405832" id="-262">
+  <tag k="FAX" v="+43 (3842) 81311-73"></tag>
+  <tag k="TEL" v="+43 (3842) 81311-0"></tag>
+  <tag k="OBJECTID" v="804"></tag>
+  <tag k="URL" v="http://www.niklasdorf.info/"></tag>
+  <tag k="GEMNR_alt" v="61110"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="661350.16"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 1"></tag>
+  <tag k="GVOUID" v="65003883.0"></tag>
+  <tag k="MAIL" v="gde@niklasdorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Niklasdorf"></tag>
+  <tag k="GEMNR" v="61110"></tag>
+</node>
+<node lat="47.31750214635093" lon="14.977587685347084" id="-263">
+  <tag k="FAX" v="+43 (3832) 2250-7"></tag>
+  <tag k="TEL" v="+43 (3832) 2250"></tag>
+  <tag k="OBJECTID" v="805"></tag>
+  <tag k="URL" v="http://www.st-stefan-leoben.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61115"></tag>
+  <tag k="ORT" v="St. Stefan ob Leoben"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="14"></tag>
+  <tag k="PLZ" v="8713"></tag>
+  <tag k="GEMANSCHR1" v="Dorfplatz"></tag>
+  <tag k="HW_BMN34" v="647585.91"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dorfplatz 14"></tag>
+  <tag k="GVOUID" v="65003999.0"></tag>
+  <tag k="MAIL" v="gde@st-stefan-leoben.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Stefan ob Leoben"></tag>
+  <tag k="GEMNR" v="61115"></tag>
+</node>
+<node lat="47.30702950724988" lon="14.935252294899147" id="-264">
+  <tag k="FAX" v="+43 (3832) 4100-14"></tag>
+  <tag k="TEL" v="+43 (3832) 4100"></tag>
+  <tag k="OBJECTID" v="806"></tag>
+  <tag k="URL" v="http://www.kraubath.at/"></tag>
+  <tag k="GEMNR_alt" v="61107"></tag>
+  <tag k="ORT" v="Kraubath an der Mur"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8714"></tag>
+  <tag k="GEMANSCHR1" v="Kirchplatz"></tag>
+  <tag k="HW_BMN34" v="644364.29"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kirchplatz 1"></tag>
+  <tag k="GVOUID" v="65004089.0"></tag>
+  <tag k="MAIL" v="gemeinde@kraubath.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Kraubath an der Mur"></tag>
+  <tag k="GEMNR" v="61107"></tag>
+</node>
+<node lat="47.344102919018155" lon="15.014200138264997" id="-364">
+  <tag k="FAX" v="+43 (3843) 2244-20"></tag>
+  <tag k="TEL" v="+43 (3843) 2244"></tag>
+  <tag k="OBJECTID" v="906"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61113"></tag>
+  <tag k="ORT" v="St. Michael in Obersteiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="64"></tag>
+  <tag k="PLZ" v="8770"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="650404.11"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 64"></tag>
+  <tag k="GVOUID" v="65003884.0"></tag>
+  <tag k="MAIL" v="gde@st-michael.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sankt Michael in Obersteiermark"></tag>
+  <tag k="GEMNR" v="61113"></tag>
+</node>
+<node lat="47.3773436809741" lon="14.984539831321513" id="-365">
+  <tag k="FAX" v="+43 (3833) 8206-10"></tag>
+  <tag k="TEL" v="+43 (3833) 8206-13"></tag>
+  <tag k="OBJECTID" v="907"></tag>
+  <tag k="URL" v="http://www.traboch.at/"></tag>
+  <tag k="GEMNR_alt" v="61116"></tag>
+  <tag k="ORT" v="Timmersdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8772"></tag>
+  <tag k="GEMANSCHR1" v="Schulweg"></tag>
+  <tag k="HW_BMN34" v="648226.96"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Schulweg 2"></tag>
+  <tag k="GVOUID" v="65004140.0"></tag>
+  <tag k="MAIL" v="gde@traboch.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Traboch"></tag>
+  <tag k="GEMNR" v="61116"></tag>
+</node>
+<node lat="47.39343015890564" lon="14.901624348832708" id="-366">
+  <tag k="FAX" v="+43 (3844) 8020-15"></tag>
+  <tag k="TEL" v="+43 (3844) 80200"></tag>
+  <tag k="OBJECTID" v="908"></tag>
+  <tag k="URL" v="http://www.kammern-liesingtal.at/"></tag>
+  <tag k="GEMNR_alt" v="61106"></tag>
+  <tag k="ORT" v="Kammern im Liesingtal"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="56"></tag>
+  <tag k="PLZ" v="8773"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="641998.33"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 56"></tag>
+  <tag k="GVOUID" v="65004191.0"></tag>
+  <tag k="MAIL" v="gemeinde.kammern@aon.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Kammern im Liesingtal"></tag>
+  <tag k="GEMNR" v="61106"></tag>
+</node>
+<node lat="47.53860691687795" lon="14.88828907919872" id="-367">
+  <tag k="FAX" v="+43 (3848) 2511-42"></tag>
+  <tag k="TEL" v="+43 (3848) 2511"></tag>
+  <tag k="OBJECTID" v="909"></tag>
+  <tag k="URL" v="http://www.eisenerz.at/"></tag>
+  <tag k="GEMNR_alt" v="61101"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="GEMANSCHR1" v="Mario-Stecher-Platz"></tag>
+  <tag k="HW_BMN34" v="641292.19"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Mario-Stecher-Platz 1"></tag>
+  <tag k="GVOUID" v="65004190.0"></tag>
+  <tag k="MAIL" v="gde@eisenerz.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Eisenerz"></tag>
+  <tag k="GEMNR" v="61101"></tag>
+</node>
+<node lat="47.39855759470359" lon="15.032514179333296" id="-368">
+  <tag k="FAX" v="+43 (3842) 22922-81"></tag>
+  <tag k="TEL" v="+43 (3842) 22922"></tag>
+  <tag k="OBJECTID" v="910"></tag>
+  <tag k="URL" v="http://www.stpfrst.at"></tag>
+  <tag k="GEMNR_alt" v="61114"></tag>
+  <tag k="ORT" v="St. Peter-Freienstein"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8792"></tag>
+  <tag k="GEMANSCHR1" v="Gemeindegasse"></tag>
+  <tag k="HW_BMN34" v="651889.38"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gemeindegasse 1"></tag>
+  <tag k="GVOUID" v="65003885.0"></tag>
+  <tag k="MAIL" v="gde@stpfrst.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sankt Peter-Freienstein"></tag>
+  <tag k="GEMNR" v="61114"></tag>
+</node>
+<node lat="47.41302684174047" lon="14.970226090771396" id="-369">
+  <tag k="FAX" v="+43 (3847) 4600-18"></tag>
+  <tag k="TEL" v="+43 (3847) 4600-15"></tag>
+  <tag k="OBJECTID" v="911"></tag>
+  <tag k="URL" v="http://www.gai.at"></tag>
+  <tag k="GEMNR_alt" v="61102"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="GEMANSCHR1" v="Gai"></tag>
+  <tag k="HW_BMN34" v="647215.64"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gai 1"></tag>
+  <tag k="GVOUID" v="65004118.0"></tag>
+  <tag k="MAIL" v="gde@gai.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gai"></tag>
+  <tag k="GEMNR" v="0"></tag>
+</node>
+<node lat="47.42605419260138" lon="15.008316870242199" id="-370">
+  <tag k="FAX" v="+43 (3847) 2255-88"></tag>
+  <tag k="TEL" v="+43 (3847) 2255-256"></tag>
+  <tag k="OBJECTID" v="912"></tag>
+  <tag k="URL" v="http://www.trofaiach.at"></tag>
+  <tag k="GEMNR_alt" v="61117"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="9"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="GEMANSCHR1" v="Luchinettigasse"></tag>
+  <tag k="HW_BMN34" v="650114.95"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Luchinettigasse 9"></tag>
+  <tag k="GVOUID" v="65004119.0"></tag>
+  <tag k="MAIL" v="gemeinde@trofaiach.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Trofaiach"></tag>
+  <tag k="GEMNR" v="0"></tag>
+</node>
+<node lat="47.43968065464042" lon="15.000542902056424" id="-371">
+  <tag k="FAX" v="+43 (3847) 2355-15"></tag>
+  <tag k="TEL" v="+43 (3847) 2355"></tag>
+  <tag k="OBJECTID" v="913"></tag>
+  <tag k="URL" v="http://www.hafning.at/"></tag>
+  <tag k="GEMNR_alt" v="61103"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="7"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="GEMANSCHR1" v="Schwabergweg"></tag>
+  <tag k="HW_BMN34" v="649554.43"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Schwabergweg 7"></tag>
+  <tag k="GVOUID" v="65003881.0"></tag>
+  <tag k="MAIL" v="gemeinde@hafning.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hafning bei Trofaiach"></tag>
+  <tag k="GEMNR" v="0"></tag>
+</node>
+<node lat="47.487497246828305" lon="14.993387473783514" id="-372">
+  <tag k="FAX" v="+43 (3849) 206-18"></tag>
+  <tag k="TEL" v="+43 (3849) 206"></tag>
+  <tag k="OBJECTID" v="914"></tag>
+  <tag k="URL" v="http://vordernberg.riskommunal.net/system/web/default.aspx"></tag>
+  <tag k="GEMNR_alt" v="61118"></tag>
+  <tag k="ORT" v="Vordernberg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8794"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="649106.52"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 2"></tag>
+  <tag k="GVOUID" v="65003886.0"></tag>
+  <tag k="MAIL" v="gde@vordernberg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Vordernberg"></tag>
+  <tag k="GEMNR" v="61118"></tag>
+</node>
+<node lat="47.60603309134087" lon="14.744760445229812" id="-494">
+  <tag k="FAX" v="+43 (3634) 545"></tag>
+  <tag k="TEL" v="+43 (3634) 5050"></tag>
+  <tag k="OBJECTID" v="1036"></tag>
+  <tag k="URL" v="http://www.hieflau.at/"></tag>
+  <tag k="GEMNR_alt" v="61104"></tag>
+  <tag k="ORT" v="Hieflau"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="15"></tag>
+  <tag k="PLZ" v="8920"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="856183.51"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 15"></tag>
+  <tag k="GVOUID" v="65003880.0"></tag>
+  <tag k="MAIL" v="gde@hieflau.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hieflau"></tag>
+  <tag k="GEMNR" v="61104"></tag>
+</node>
+<node lat="47.39931997523698" lon="14.82306331491172" id="-528">
+  <tag k="FAX" v="+43 (3845) 3106-6"></tag>
+  <tag k="TEL" v="+43 (3845) 3106"></tag>
+  <tag k="OBJECTID" v="1070"></tag>
+  <tag k="URL" v="http://www.mautern.com"></tag>
+  <tag k="GEMNR_alt" v="61109"></tag>
+  <tag k="ORT" v="Mautern in Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="5a"></tag>
+  <tag k="PLZ" v="8774"></tag>
+  <tag k="GEMANSCHR1" v="Klostergasse"></tag>
+  <tag k="HW_BMN34" v="862511.0"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Klostergasse 5a"></tag>
+  <tag k="GVOUID" v="65003882.0"></tag>
+  <tag k="MAIL" v="gde@mautern.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Mautern in Steiermark"></tag>
+  <tag k="GEMNR" v="61109"></tag>
+</node>
+<node lat="47.428186918211594" lon="14.75627742368728" id="-529">
+  <tag k="FAX" v="+43 (3846) 8271-12"></tag>
+  <tag k="TEL" v="+43 (3846) 8271-0"></tag>
+  <tag k="OBJECTID" v="1071"></tag>
+  <tag k="URL" v="http://www.kalwang.at"></tag>
+  <tag k="GEMNR_alt" v="61105"></tag>
+  <tag k="ORT" v="Kalwang"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="29"></tag>
+  <tag k="PLZ" v="8775"></tag>
+  <tag k="GEMANSCHR1" v="Kalwang"></tag>
+  <tag k="HW_BMN34" v="857411.0"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kalwang 29"></tag>
+  <tag k="GVOUID" v="65004047.0"></tag>
+  <tag k="MAIL" v="gde@kalwang.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Kalwang"></tag>
+  <tag k="GEMNR" v="61105"></tag>
+</node>
+<node lat="47.449684551142845" lon="14.674150934697556" id="-530">
+  <tag k="FAX" v="+43 (3834) 700-25"></tag>
+  <tag k="TEL" v="+43 (3834) 700-0"></tag>
+  <tag k="OBJECTID" v="1072"></tag>
+  <tag k="URL" v="http://www.schoberpass.at/"></tag>
+  <tag k="GEMNR_alt" v="61119"></tag>
+  <tag k="ORT" v="Wald am Schoberpaß"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="57a"></tag>
+  <tag k="PLZ" v="8781"></tag>
+  <tag k="GEMANSCHR1" v="Wald am Schoberpaß"></tag>
+  <tag k="HW_BMN34" v="851173.83"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Wald am Schoberpaß 57a"></tag>
+  <tag k="GVOUID" v="65004193.0"></tag>
+  <tag k="MAIL" v="gemeinde.wald@schoberpass.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Wald am Schoberpaß"></tag>
+  <tag k="GEMNR" v="61119"></tag>
+</node>
+</osm>

@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.20091875092552" lon="14.24077130305927" id="-1753">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03581/8288"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1753"></tag>
+  <tag k="GISY" v="229502.00039999"></tag>
+  <tag k="GISX" v="229502.00039999"></tag>
+  <tag k="ORT" v="Oberwölz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8832"></tag>
+  <tag k="TELEFON" v="03581/8288"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614371"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Winklern"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Winklern 4"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.oberwoelz@vs-oberwoelz.at"></tag>
+</node>
+<node lat="47.129150464267404" lon="14.358467094693752" id="-1754">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1754"></tag>
+  <tag k="GISY" v="221633.2903"></tag>
+  <tag k="GISX" v="221633.2903"></tag>
+  <tag k="ORT" v="Teufenbach"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8833"></tag>
+  <tag k="TELEFON" v="03582/2690"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614351"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Teufenbach 19"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.1336105119398" lon="14.30445861170323" id="-1755">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03588/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1755"></tag>
+  <tag k="GISY" v="222076.9504"></tag>
+  <tag k="GISX" v="222076.9504"></tag>
+  <tag k="ORT" v="Frojach"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8841"></tag>
+  <tag k="TELEFON" v="03588/221"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614031"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Frojach 100"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.18959460436818" lon="14.162865560285786" id="-1756">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/8238-4"></tag>
+  <tag k="NAME" v="Fachschule für 'Land- und Ernährungswirtschaft'"></tag>
+  <tag k="OBJECTID" v="1756"></tag>
+  <tag k="GISY" v="228177.59029999"></tag>
+  <tag k="GISX" v="228177.59029999"></tag>
+  <tag k="ORT" v="Sankt Peter am Kammersberg"></tag>
+  <tag k="HOMEPAGE" v="http://www.diefeistritzerinnen.at"></tag>
+  <tag k="PLZ" v="8843"></tag>
+  <tag k="TELEFON" v="03536/8238"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614710"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="LW FS  Schloss Feistritz 1"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schloss Feistritz 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="fsfeistritz@stmk.gv.at"></tag>
+</node>
+<node lat="47.1814705634949" lon="14.115344827828045" id="-1757">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1757"></tag>
+  <tag k="GISY" v="227237.3704"></tag>
+  <tag k="GISX" v="227237.3704"></tag>
+  <tag k="ORT" v="Schöder"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8844"></tag>
+  <tag k="TELEFON" v="03536/227"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614321"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schöder 88"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.1097972473649" lon="14.170278087371631" id="-1758">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Musikschule der Stadt Murau"></tag>
+  <tag k="OBJECTID" v="1758"></tag>
+  <tag k="GISY" v="219312.17029999"></tag>
+  <tag k="GISX" v="219312.17029999"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.murau.steiermkark.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/3530"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614510"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Musikschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Anna Neumann-Straße 5"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="gde@murau.steiermark.at"></tag>
+</node>
+<node lat="47.112627063205444" lon="14.177374040388399" id="-1759">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Hauptschule 1"></tag>
+  <tag k="OBJECTID" v="1759"></tag>
+  <tag k="GISY" v="219632.5404"></tag>
+  <tag k="GISX" v="219632.5404"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.stsnet.at/hs1-murau"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2344"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614012"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS 1  Bundesstraße 11"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Bundesstraße 11"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="direktion@skihs-murau.stsnet.at"></tag>
+</node>
+<node lat="47.112627063205444" lon="14.177374040388399" id="-1760">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Polytechnische Schule"></tag>
+  <tag k="OBJECTID" v="1760"></tag>
+  <tag k="GISY" v="219632.5404"></tag>
+  <tag k="GISX" v="219632.5404"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.poly-murau.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2040"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614034"></tag>
+  <tag k="SCHULTYP" v="4"></tag>
+  <tag k="TYP_LANG" v="Polytechnische Schule"></tag>
+  <tag k="KURZNAME" v="PS Bundesstraße 11"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Bundesstraße 11"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="ps.murau@muraunet.at"></tag>
+</node>
+<node lat="47.11256125622389" lon="14.178824981498446" id="-1761">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Berufsförderungsinstitut Murau - Ausbildungen im Gesundheitsbereich"></tag>
+  <tag k="OBJECTID" v="1761"></tag>
+  <tag k="GISY" v="219626.4103"></tag>
+  <tag k="GISX" v="219626.4103"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.bfi-stmk.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2377"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614910"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="BFI Murau  Ausb.i.Gesundh."></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Bundesstraße 7"></tag>
+  <tag k="TYP" v="P"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.1135862882727" lon="14.175142494097521" id="-1762">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Hauptschule 2"></tag>
+  <tag k="OBJECTID" v="1762"></tag>
+  <tag k="GISY" v="219737.3603"></tag>
+  <tag k="GISX" v="219737.3603"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.rsmurau.at/"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2061"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614022"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Friedhofgasse"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Friedhofgasse 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.1135862882727" lon="14.175142494097521" id="-1763">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1763"></tag>
+  <tag k="GISY" v="219737.3603"></tag>
+  <tag k="GISX" v="219737.3603"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2487"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614121"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Friedhofgasse 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.11103117312789" lon="14.182892087318738" id="-1764">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/2359-20"></tag>
+  <tag k="NAME" v="Bundes-Oberstufenrealgymnasium"></tag>
+  <tag k="OBJECTID" v="1764"></tag>
+  <tag k="GISY" v="219459.6404"></tag>
+  <tag k="GISX" v="219459.6404"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.borg-murau.stsnet.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2359"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614016"></tag>
+  <tag k="SCHULTYP" v="6"></tag>
+  <tag k="TYP_LANG" v="Allgemeinbildende höhere Schule"></tag>
+  <tag k="KURZNAME" v="BORG"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Grössingstraße 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="office@borg-murau.stsnet.at"></tag>
+</node>
+<node lat="47.14906723346733" lon="14.412576627589583" id="-1801">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03572"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1801"></tag>
+  <tag k="GISY" v="223902.6187"></tag>
+  <tag k="GISX" v="223902.6187"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs.scheifling.cc/navigation.htm"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/2588"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614311"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS Scheifling-Sankt Lorenzen"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Scheifling-Sankt Lorenzen"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.10083529828692" lon="14.326831008649306" id="-1802">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03585/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1802"></tag>
+  <tag k="GISY" v="218454.50039999"></tag>
+  <tag k="GISX" v="218454.50039999"></tag>
+  <tag k="ORT" v="Mariahof"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8812"></tag>
+  <tag k="TELEFON" v="03585/2437"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614231"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Sankt Blasen"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Blasen"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.049883439124265" lon="14.458001031028388" id="-1803">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1803"></tag>
+  <tag k="GISY" v="212924.5798"></tag>
+  <tag k="GISX" v="212924.5798"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2494"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614081"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Kulm am Zirbitz"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kulm am Zirbitz"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.108102155264206" lon="14.457090619672167" id="-1804">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Volksschule Perchau am Sattel"></tag>
+  <tag k="OBJECTID" v="1804"></tag>
+  <tag k="GISY" v="219395.8807"></tag>
+  <tag k="GISX" v="219395.8807"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="035842633"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614171"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Perchau am Sattel"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Perchau am Sattel"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.066732891121795" lon="14.428874572229981" id="-1805">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1805"></tag>
+  <tag k="GISY" v="214766.4502"></tag>
+  <tag k="GISX" v="214766.4502"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs-sankt-marein.com"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2660"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614271"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Sankt Marein bei Neumarkt"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Marein bei Neumarkt"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.stmarein.neumarkt@aon.at"></tag>
+</node>
+<node lat="47.030518547187164" lon="14.451242739049551" id="-1806">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03586/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1806"></tag>
+  <tag k="GISY" v="210764.4207"></tag>
+  <tag k="GISX" v="210764.4207"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03586/2215"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614301"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Sankt Veit in der Gegend"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Veit in der Gegend"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.18875982543346" lon="14.346149334578643" id="-1807">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03587/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1807"></tag>
+  <tag k="GISY" v="228248.14069999"></tag>
+  <tag k="GISX" v="228248.14069999"></tag>
+  <tag k="ORT" v="Niederwölz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8831"></tag>
+  <tag k="TELEFON" v="03587/272"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614331"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Schönberg-Lachtal"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schönberg-Lachtal"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.202605683532745" lon="14.281275228341501" id="-1808">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03581/8352"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1808"></tag>
+  <tag k="GISY" v="229725.9005"></tag>
+  <tag k="GISX" v="229725.9005"></tag>
+  <tag k="ORT" v="Oberwölz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8832"></tag>
+  <tag k="TELEFON" v="03581/8352"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614161"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Oberwölz 45"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="direktion@vs-oberwoelz.at"></tag>
+</node>
+<node lat="47.20193026060547" lon="14.286244673121995" id="-1809">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03581/8291-4"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1809"></tag>
+  <tag k="GISY" v="229655.3806"></tag>
+  <tag k="GISX" v="229655.3806"></tag>
+  <tag k="ORT" v="Oberwölz"></tag>
+  <tag k="HOMEPAGE" v="http://www.mhsoberwoelz.at"></tag>
+  <tag k="PLZ" v="8832"></tag>
+  <tag k="TELEFON" v="03581/8291"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614042"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Oberwölz-Stadt"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Oberwölz-Stadt"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="hs.oberwoelz@mhsoberwoelz.at"></tag>
+</node>
+<node lat="47.185033424980816" lon="14.189576943948534" id="-1810">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1810"></tag>
+  <tag k="GISY" v="227692.2804"></tag>
+  <tag k="GISX" v="227692.2804"></tag>
+  <tag k="ORT" v="Sankt Peter am Kammersberg"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8843"></tag>
+  <tag k="TELEFON" v="03536/7378"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614281"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="152"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.185033424980816" lon="14.189576943948534" id="-1811">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/8383-4"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1811"></tag>
+  <tag k="GISY" v="227692.2804"></tag>
+  <tag k="GISX" v="227692.2804"></tag>
+  <tag k="ORT" v="Sankt Peter am Kammersberg"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs-stpeterak.stsnet.at"></tag>
+  <tag k="PLZ" v="8843"></tag>
+  <tag k="TELEFON" v="03536/8383"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614062"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  St. Peter 152"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="St. Peter 152"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="hs.stpeterak@hs-stpeterak.stsnet.at"></tag>
+</node>
+<node lat="47.059518329327986" lon="14.216534692255866" id="-1812">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1812"></tag>
+  <tag k="GISY" v="213761.0199"></tag>
+  <tag k="GISX" v="213761.0199"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2108"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614091"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Lassnitz bei Murau"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Lassnitz bei Murau 26"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.179616969336486" lon="14.023266733010988" id="-1813">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03535/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1813"></tag>
+  <tag k="GISY" v="226965.78009999"></tag>
+  <tag k="GISX" v="226965.78009999"></tag>
+  <tag k="ORT" v="Krakaudorf"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8854"></tag>
+  <tag k="TELEFON" v="03535/8384"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614061"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Krakauebene"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Krakauebene 27"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.11173233352218" lon="14.02455850237927" id="-1814">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03534/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1814"></tag>
+  <tag k="GISY" v="219419.6207"></tag>
+  <tag k="GISX" v="219419.6207"></tag>
+  <tag k="ORT" v="Stadl an der Mur"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8862"></tag>
+  <tag k="TELEFON" v="03534/2738"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614291"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Sankt Ruprecht ob Murau"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Ruprecht ob Murau"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.14867754750945" lon="14.407409760858977" id="-1906">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/24614"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1906"></tag>
+  <tag k="GISY" v="223853.91039999"></tag>
+  <tag k="GISX" v="223853.91039999"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs.scheifling.cc"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/2461"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614072"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Dr. Georg Zwerenz-Platz 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="hs.scheifling@scheifling.cc"></tag>
+</node>
+<node lat="47.09522758162368" lon="14.402244240869102" id="-1907">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1907"></tag>
+  <tag k="GISY" v="217906.3604"></tag>
+  <tag k="GISX" v="217906.3604"></tag>
+  <tag k="ORT" v="Mariahof"></tag>
+  <tag k="HOMEPAGE" v="http://www.volksschule.mariahof.at"></tag>
+  <tag k="PLZ" v="8812"></tag>
+  <tag k="TELEFON" v="03584/2496"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614101"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hoferdorf 126"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs@mariahof.at"></tag>
+</node>
+<node lat="47.06834341419735" lon="14.302836628883272" id="-1908">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03585/"></tag>
+  <tag k="NAME" v="Hauptschule 'St. Lambrecht'"></tag>
+  <tag k="OBJECTID" v="1908"></tag>
+  <tag k="GISY" v="214819.5003"></tag>
+  <tag k="GISX" v="214819.5003"></tag>
+  <tag k="ORT" v="Sankt Lambrecht"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs.lcnet.cc"></tag>
+  <tag k="PLZ" v="8813"></tag>
+  <tag k="TELEFON" v="03585/2228"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614052"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Am Grünen Weg 20"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Am Grünen Weg 20"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="direktion@hs.lcnet.cc"></tag>
+</node>
+<node lat="47.06834341419735" lon="14.302836628883272" id="-1909">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03585/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1909"></tag>
+  <tag k="GISY" v="214819.5003"></tag>
+  <tag k="GISX" v="214819.5003"></tag>
+  <tag k="ORT" v="Sankt Lambrecht"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8813"></tag>
+  <tag k="TELEFON" v="03585/2223"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614261"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Am Grünen Weg 20"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.07499517888083" lon="14.42900317655914" id="-1910">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1910"></tag>
+  <tag k="GISY" v="215685.1204"></tag>
+  <tag k="GISX" v="215685.1204"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2633"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614131"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Europaplatz 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.neumarkt.stmk@aon.at"></tag>
+</node>
+<node lat="47.075445701012846" lon="14.427903883709233" id="-1911">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1911"></tag>
+  <tag k="GISY" v="215734.0403"></tag>
+  <tag k="GISX" v="215734.0403"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.hsneumarkt.at"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2476"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614032"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS   Meranerweg 3"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Meranerweg 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.03165329898776" lon="14.502525266389435" id="-1912">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03586/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1912"></tag>
+  <tag k="GISY" v="210947.3703"></tag>
+  <tag k="GISX" v="210947.3703"></tag>
+  <tag k="ORT" v="Mühlen"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8822"></tag>
+  <tag k="TELEFON" v="03586/2202"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614111"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Mühlen 76"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.15228838016367" lon="14.376735268659097" id="-1913">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/2295"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1913"></tag>
+  <tag k="GISY" v="224223.9004"></tag>
+  <tag k="GISX" v="224223.9004"></tag>
+  <tag k="ORT" v="Niederwölz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8831"></tag>
+  <tag k="TELEFON" v="03582/2295"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614141"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Niederwölz 81"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.11103117312789" lon="14.182892087318738" id="-1914">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/271690"></tag>
+  <tag k="NAME" v="Höhere Bundeslehranstalt für wirtschaftliche Berufe"></tag>
+  <tag k="OBJECTID" v="1914"></tag>
+  <tag k="GISY" v="219459.6404"></tag>
+  <tag k="GISX" v="219459.6404"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.hbla-murau.stsnet.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2760"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614429"></tag>
+  <tag k="SCHULTYP" v="9"></tag>
+  <tag k="TYP_LANG" v="Lehranstalt für wirtschaftliche Berufe, Sozialberufe und Tourismus"></tag>
+  <tag k="KURZNAME" v="HBLA w. Berufe"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Grössingstraße 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="office@hbla-murau.stsnet.at"></tag>
+</node>
+<node lat="47.11171336428644" lon="14.175325191442111" id="-1915">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/2329/4"></tag>
+  <tag k="NAME" v="Karl-Brunner-Landesberufsschule"></tag>
+  <tag k="OBJECTID" v="1915"></tag>
+  <tag k="GISY" v="219529.2904"></tag>
+  <tag k="GISX" v="219529.2904"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.lbs-murau.ac.at"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2329"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614015"></tag>
+  <tag k="SCHULTYP" v="5"></tag>
+  <tag k="TYP_LANG" v="Fachberufsschule"></tag>
+  <tag k="KURZNAME" v="BS Heiligenstatt 10"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Heiligenstatt 10"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="lbsmu@stmk.gv.at"></tag>
+</node>
+<node lat="47.14185735312384" lon="14.16363567433069" id="-1916">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Schule für allgemeine Gesundheits- und Krankenpflege am Landeskrankenhaus Stolzalpe"></tag>
+  <tag k="OBJECTID" v="1916"></tag>
+  <tag k="GISY" v="222871.0504"></tag>
+  <tag k="GISX" v="222871.0504"></tag>
+  <tag k="ORT" v="Stolzalpe"></tag>
+  <tag k="HOMEPAGE" v="http://www.gesundheitsausbildungen.at"></tag>
+  <tag k="PLZ" v="8852"></tag>
+  <tag k="TELEFON" v="03842/"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611940"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Gesund.-/Krankenpfl.   LKH"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Haus 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.11887194187367" lon="14.188041439053503" id="-1917">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/"></tag>
+  <tag k="NAME" v="Heilstättenschule 'Sonderpädagogisches Zentrum'"></tag>
+  <tag k="OBJECTID" v="1917"></tag>
+  <tag k="GISY" v="220335.5703"></tag>
+  <tag k="GISX" v="220335.5703"></tag>
+  <tag k="ORT" v="Stolzalpe"></tag>
+  <tag k="HOMEPAGE" v="http://www.pze.at/spz/stolzalpe/index.html"></tag>
+  <tag k="PLZ" v="8852"></tag>
+  <tag k="TELEFON" v="03532/2424240-2239"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614013"></tag>
+  <tag k="SCHULTYP" v="3"></tag>
+  <tag k="TYP_LANG" v="Sonderschule"></tag>
+  <tag k="KURZNAME" v="Heilstättenschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Stolzalpe 33"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="spzmurau@utanet.at"></tag>
+</node>
+<node lat="47.15837994238392" lon="14.08051662307286" id="-1918">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03535/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1918"></tag>
+  <tag k="GISY" v="224644.5303"></tag>
+  <tag k="GISX" v="224644.5303"></tag>
+  <tag k="ORT" v="Ranten"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8853"></tag>
+  <tag k="TELEFON" v="03535/8228"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614211"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Ranten 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.181828350299746" lon="14.019659553544056" id="-1919">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03535/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1919"></tag>
+  <tag k="GISY" v="227209.2304"></tag>
+  <tag k="GISX" v="227209.2304"></tag>
+  <tag k="ORT" v="Krakaudorf"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8854"></tag>
+  <tag k="TELEFON" v="03535/8211"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614051"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Krakaudorf 52"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.17665561256031" lon="14.005106051289193" id="-1920">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03535/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1920"></tag>
+  <tag k="GISY" v="226624.6004"></tag>
+  <tag k="GISX" v="226624.6004"></tag>
+  <tag k="ORT" v="Krakaudorf"></tag>
+  <tag k="HOMEPAGE" v="http://www.stolzonline.at/cms/a_vs_kraka"></tag>
+  <tag k="PLZ" v="8854"></tag>
+  <tag k="TELEFON" v="03535/86265"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614071"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Krakauschatten"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Krakauschatten 33"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs@krakauschatten.at"></tag>
+</node>
+<node lat="47.10503271931876" lon="14.102147135321164" id="-1921">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03537/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1921"></tag>
+  <tag k="GISY" v="218729.5703"></tag>
+  <tag k="GISX" v="218729.5703"></tag>
+  <tag k="ORT" v="Sankt Georgen ob Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.stsnet.at/mvs-st.georgen"></tag>
+  <tag k="PLZ" v="8861"></tag>
+  <tag k="TELEFON" v="03537/207"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614251"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Sankt Georgen ob Murau 1"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Georgen ob Murau 18"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.stgeorgen.murau@aon.at"></tag>
+</node>
+<node lat="47.08827616259891" lon="13.979062017198494" id="-1922">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1922"></tag>
+  <tag k="GISY" v="216782.5203"></tag>
+  <tag k="GISX" v="216782.5203"></tag>
+  <tag k="ORT" v="Stadl an der Mur"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8862"></tag>
+  <tag k="TELEFON" v="03534/2302"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614082"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Stadl 100"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.08827616259891" lon="13.979062017198494" id="-1923">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03534/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1923"></tag>
+  <tag k="GISY" v="216782.5203"></tag>
+  <tag k="GISX" v="216782.5203"></tag>
+  <tag k="ORT" v="Stadl an der Mur"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8862"></tag>
+  <tag k="TELEFON" v="03534/2323"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614341"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Stadl/Mur 100"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.07193356569549" lon="13.913497868107598" id="-1924">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03534/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1924"></tag>
+  <tag k="GISY" v="214926.83039999"></tag>
+  <tag k="GISX" v="214926.83039999"></tag>
+  <tag k="ORT" v="Predlitz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8863"></tag>
+  <tag k="TELEFON" v="03534/8272"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614201"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Predlitz 81"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="46.990520850361456" lon="14.38931995331811" id="-1985">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="04268/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1985"></tag>
+  <tag k="GISY" v="206252.6603"></tag>
+  <tag k="GISX" v="206252.6603"></tag>
+  <tag k="ORT" v="Wildbad Einöd"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="9323"></tag>
+  <tag k="TELEFON" v="04268/3960"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614011"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Dürnstein"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Dürnstein 29"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.11358627927507" lon="14.175142494236558" id="-27">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/2061-4"></tag>
+  <tag k="NAME" v="Hauptschule II - Realschule Murau (Realschule)"></tag>
+  <tag k="OBJECTID" v="27"></tag>
+  <tag k="GISY" v="219737.36117579"></tag>
+  <tag k="GISX" v="63943.10170894"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="http://www.rsmurau.at/"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2061"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614022"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Neue Mittelschule"></tag>
+  <tag k="KURZNAME" v="Hauptschule II - Realschule Murau (Realschule)"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Friedhofgasse 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="direktion@rsmurau.at"></tag>
+</node>
+<node lat="47.07544569194883" lon="14.427903870634177" id="-28">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="(03584) 27 25 11"></tag>
+  <tag k="NAME" v="Hauptschule I Neumarkt (Realschule)"></tag>
+  <tag k="OBJECTID" v="28"></tag>
+  <tag k="GISY" v="215734.04092801"></tag>
+  <tag k="GISX" v="83185.53107738"></tag>
+  <tag k="ORT" v="Neumarkt i.Stmk."></tag>
+  <tag k="HOMEPAGE" v="http://www.naturparkschule-neumarkt.at/"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="(03584) 24 76"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614032"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Neue Mittelschule"></tag>
+  <tag k="KURZNAME" v="Hauptschule I Neumarkt (Realschule)"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Meranerweg 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="hs.neumarkt1-stmk@hsneumarkt.at"></tag>
+</node>
+<node lat="47.06834341411718" lon="14.302836615713984" id="-29">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03585 2228"></tag>
+  <tag k="NAME" v="Hauptschule St. Lambrecht"></tag>
+  <tag k="OBJECTID" v="29"></tag>
+  <tag k="GISY" v="214819.50165696"></tag>
+  <tag k="GISX" v="73696.581288"></tag>
+  <tag k="ORT" v="St. Lambrecht"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs.lcnet.cc"></tag>
+  <tag k="PLZ" v="8813"></tag>
+  <tag k="TELEFON" v="03585 2228"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614052"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Neue Mittelschule"></tag>
+  <tag k="KURZNAME" v="Hauptschule St. Lambrecht"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Am Grünen Weg 20"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="direktion@hs.lcnet.cc"></tag>
+</node>
+<node lat="47.185033424980816" lon="14.189576943948534" id="-30">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Hauptschule St. Peter a.Kammersberg"></tag>
+  <tag k="OBJECTID" v="30"></tag>
+  <tag k="GISY" v="227692.28144376"></tag>
+  <tag k="GISX" v="64951.85100809"></tag>
+  <tag k="ORT" v="St. Peter am Kammersberg"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs-stpeterak.stsnet.at"></tag>
+  <tag k="PLZ" v="8843"></tag>
+  <tag k="TELEFON" v="03536 / 200701"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614062"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Neue Mittelschule"></tag>
+  <tag k="KURZNAME" v="Hauptschule St. Peter a.Kammersberg"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Sankt Peter am Kammersberg 152"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="hs.stpeterak@hs-stpeterak.stsnet.at"></tag>
+</node>
+<node lat="47.14867754750945" lon="14.407409760858977" id="-31">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/2461-4"></tag>
+  <tag k="NAME" v="Hauptschule Scheifling"></tag>
+  <tag k="OBJECTID" v="31"></tag>
+  <tag k="GISY" v="223853.91162153"></tag>
+  <tag k="GISX" v="81517.48182983"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs.scheifling.cc"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/2461"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="614072"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Neue Mittelschule"></tag>
+  <tag k="KURZNAME" v="Hauptschule Scheifling"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Dr. Georg Zwerenz-Platz 1"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="hs.scheifling@scheifling.cc"></tag>
+</node>
+<node lat="47.14901913845747" lon="14.412852648807089" id="-855">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/23154"></tag>
+  <tag k="NAME" v="Kindergarten Schulgasse 3A"></tag>
+  <tag k="OBJECTID" v="855"></tag>
+  <tag k="GISY" v="223897.55995358"></tag>
+  <tag k="GISX" v="81929.77003296"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/2771"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61427003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Heilpädagogischer Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schulgasse 3A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga@scheifling.cc"></tag>
+</node>
+<node lat="47.06629664250399" lon="14.429806241911791" id="-856">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/4120"></tag>
+  <tag k="NAME" v="Kindergarten Sankt Marein bei Neumarkt 3"></tag>
+  <tag k="OBJECTID" v="856"></tag>
+  <tag k="GISY" v="214718.93998031"></tag>
+  <tag k="GISX" v="83344.23004773"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/4120"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61424002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Sankt Marein bei Neumarkt 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kinderhausstmarein@aon.at"></tag>
+</node>
+<node lat="47.06629664250399" lon="14.429806241911791" id="-857">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/4120"></tag>
+  <tag k="NAME" v="Kinderhaus Sankt Marein bei Neumarkt 3"></tag>
+  <tag k="OBJECTID" v="857"></tag>
+  <tag k="GISY" v="214718.93998031"></tag>
+  <tag k="GISX" v="83344.23004773"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/4120"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61424601"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderhaus"></tag>
+  <tag k="KURZNAME" v="Kinderhaus"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Sankt Marein bei Neumarkt 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kinderhausstmarein@aon.at"></tag>
+</node>
+<node lat="47.03168459770846" lon="14.503037449672775" id="-858">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03586 220814"></tag>
+  <tag k="NAME" v="Kindergarten Mühlen 43"></tag>
+  <tag k="OBJECTID" v="858"></tag>
+  <tag k="GISY" v="210951.42995462"></tag>
+  <tag k="GISX" v="88964.36003566"></tag>
+  <tag k="ORT" v="Mühlen"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8822"></tag>
+  <tag k="TELEFON" v="03586/2318"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61410001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Mühlen 43"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="marktgemeinde.muehlen@telering.at"></tag>
+</node>
+<node lat="47.15228837116568" lon="14.376735268764296" id="-859">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/22324"></tag>
+  <tag k="NAME" v="Kindergarten Niederwölz 81"></tag>
+  <tag k="OBJECTID" v="859"></tag>
+  <tag k="GISY" v="224223.90001752"></tag>
+  <tag k="GISX" v="79185.63999774"></tag>
+  <tag k="ORT" v="Niederwölz"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8831"></tag>
+  <tag k="TELEFON" v="03582/8477"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61413001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Niederwölz 81"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="sappergundi@a1.net"></tag>
+</node>
+<node lat="47.20124071701151" lon="14.283996781385577" id="-860">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03581/8203-5"></tag>
+  <tag k="NAME" v="Kindergarten Vorstadt 95"></tag>
+  <tag k="OBJECTID" v="860"></tag>
+  <tag k="GISY" v="229576.65004346"></tag>
+  <tag k="GISX" v="72086.34995141"></tag>
+  <tag k="ORT" v="Oberwölz"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8832"></tag>
+  <tag k="TELEFON" v="03581/8588"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61414001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Vorstadt 95"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.13149760481132" lon="14.361415761157854" id="-861">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582 2408 4"></tag>
+  <tag k="NAME" v="Kindergarten Teufenbach 1A"></tag>
+  <tag k="OBJECTID" v="861"></tag>
+  <tag k="GISY" v="221897.16003802"></tag>
+  <tag k="GISX" v="78054.14003862"></tag>
+  <tag k="ORT" v="Teufenbach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8833"></tag>
+  <tag k="TELEFON" v="03582/8227"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61432002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Teufenbach 1A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.teufenbach@ainet.at"></tag>
+</node>
+<node lat="47.145612276680616" lon="14.28245085824797" id="-862">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03588/350"></tag>
+  <tag k="NAME" v="Kindergarten Katsch an der Mur 100"></tag>
+  <tag k="OBJECTID" v="862"></tag>
+  <tag k="GISY" v="223390.77996208"></tag>
+  <tag k="GISX" v="72044.14000773"></tag>
+  <tag k="ORT" v="Katsch an der Mur"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8842"></tag>
+  <tag k="TELEFON" v="03588/350"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61403001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Katsch an der Mur 100"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.frojach-katsch@eunet.at"></tag>
+</node>
+<node lat="47.1766556035632" lon="14.005106051457265" id="-863">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Krakauschatten 33"></tag>
+  <tag k="OBJECTID" v="863"></tag>
+  <tag k="GISY" v="226624.60004201"></tag>
+  <tag k="GISX" v="50978.16999032"></tag>
+  <tag k="ORT" v="Krakaudorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8854"></tag>
+  <tag k="TELEFON" v="03535/8626 6"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61406001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Krakauschatten 33"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@krakauschatten.at"></tag>
+</node>
+<node lat="47.10503271931876" lon="14.102147135321164" id="-864">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03537/221-4"></tag>
+  <tag k="NAME" v="Kindergarten St. Georgen ob Murau 18"></tag>
+  <tag k="OBJECTID" v="864"></tag>
+  <tag k="GISY" v="218729.570001"></tag>
+  <tag k="GISX" v="58412.43999059"></tag>
+  <tag k="ORT" v="St. Georgen ob Murau"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8861"></tag>
+  <tag k="TELEFON" v="03537/456"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61421001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="St. Georgen ob Murau 18"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@st-georgen-murau.steiermark.at"></tag>
+</node>
+<node lat="47.08651497215384" lon="13.979538097716809" id="-865">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03534 2515"></tag>
+  <tag k="NAME" v="Kindergarten Stadl an der Mur 23"></tag>
+  <tag k="OBJECTID" v="865"></tag>
+  <tag k="GISY" v="216587.02004876"></tag>
+  <tag k="GISX" v="49122.47003828"></tag>
+  <tag k="ORT" v="Stadl an der Mur"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8862"></tag>
+  <tag k="TELEFON" v="03534 2515"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61430003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Stadl an der Mur 23"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="elisabeth.lindschinger@stmk.volkshilfe.at"></tag>
+</node>
+<node lat="47.07246242116951" lon="13.91313255630177" id="-866">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Predlitz 82"></tag>
+  <tag k="OBJECTID" v="866"></tag>
+  <tag k="GISY" v="214985.42002868"></tag>
+  <tag k="GISX" v="44091.57998889"></tag>
+  <tag k="ORT" v="Predlitz"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8863"></tag>
+  <tag k="TELEFON" v="03534/8311"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61417001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Predlitz 82"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@predlitz-turrach.steiermark.at"></tag>
+</node>
+<node lat="47.14901913845747" lon="14.412852648807089" id="-904">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582-2315-4"></tag>
+  <tag k="NAME" v="Kindergarten Schulgasse 3A"></tag>
+  <tag k="OBJECTID" v="904"></tag>
+  <tag k="GISY" v="223897.55995358"></tag>
+  <tag k="GISX" v="81929.77003296"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/8672"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61427004"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schulgasse 3A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.14569682202257" lon="14.406367911166242" id="-905">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03582/2492-4"></tag>
+  <tag k="NAME" v="Kindergarten Sankt Lorenzen bei Scheifling 1"></tag>
+  <tag k="OBJECTID" v="905"></tag>
+  <tag k="GISY" v="223521.45003013"></tag>
+  <tag k="GISX" v="81443.00001946"></tag>
+  <tag k="ORT" v="Scheifling"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8811"></tag>
+  <tag k="TELEFON" v="03582/8556"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61423001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Sankt Lorenzen bei Scheifling 1"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="marianne@pfarrkiga.scheifling.at"></tag>
+</node>
+<node lat="47.09522757255679" lon="14.402244227793629" id="-906">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Hoferdorf 301"></tag>
+  <tag k="OBJECTID" v="906"></tag>
+  <tag k="GISY" v="217906.36004318"></tag>
+  <tag k="GISX" v="81206.73995896"></tag>
+  <tag k="ORT" v="Mariahof"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8812"></tag>
+  <tag k="TELEFON" v="03584/249615"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61409001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Hoferdorf 301"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@mariahof.at"></tag>
+</node>
+<node lat="47.072905967901775" lon="14.303316749958173" id="-907">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Hauptstraße 58"></tag>
+  <tag k="OBJECTID" v="907"></tag>
+  <tag k="GISY" v="215327.1799994"></tag>
+  <tag k="GISX" v="73726.77996434"></tag>
+  <tag k="ORT" v="St. Lambrecht"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8813"></tag>
+  <tag k="TELEFON" v="03585/2325"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61422002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Hauptstraße 58"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="pfarrkiga@gmx.at"></tag>
+</node>
+<node lat="47.07544569194883" lon="14.427903870634177" id="-908">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/2100"></tag>
+  <tag k="NAME" v="Kindergarten Meraner Weg 3"></tag>
+  <tag k="OBJECTID" v="908"></tag>
+  <tag k="GISY" v="215734.04000696"></tag>
+  <tag k="GISX" v="83185.5300049"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2100"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61412001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Meraner Weg 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="wiki.neumarkt@gmail.com"></tag>
+</node>
+<node lat="47.07544569194883" lon="14.427903870634177" id="-909">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03584/2100"></tag>
+  <tag k="NAME" v="Hort Meraner Weg 3"></tag>
+  <tag k="OBJECTID" v="909"></tag>
+  <tag k="GISY" v="215734.04000696"></tag>
+  <tag k="GISX" v="83185.5300049"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584/2100"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61412503"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Hort"></tag>
+  <tag k="KURZNAME" v="Hort"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Meraner Weg 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.07544569194883" lon="14.427903870634177" id="-910">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kinderkrippe Meraner Weg 3"></tag>
+  <tag k="OBJECTID" v="910"></tag>
+  <tag k="GISY" v="215734.04000696"></tag>
+  <tag k="GISX" v="83185.5300049"></tag>
+  <tag k="ORT" v="Neumarkt in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8820"></tag>
+  <tag k="TELEFON" v="03584-2100"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61412801"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Meraner Weg 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="wiki.neumarkt@gmail.com"></tag>
+</node>
+<node lat="47.186512160896505" lon="14.188915352534746" id="-911">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/7611-6"></tag>
+  <tag k="NAME" v="Kindergarten St. Peter a. Kbg. 160"></tag>
+  <tag k="OBJECTID" v="911"></tag>
+  <tag k="GISY" v="227856.12998226"></tag>
+  <tag k="GISX" v="64899.9099524"></tag>
+  <tag k="ORT" v="St. Peter am Kammersberg"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8843"></tag>
+  <tag k="TELEFON" v="03536/8373"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61425001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="St. Peter a. Kbg. 160"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@st-peter-kammersberg.steiermark.at"></tag>
+</node>
+<node lat="47.1814705634949" lon="14.115344827828045" id="-912">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03536/7070-4"></tag>
+  <tag k="NAME" v="Kindergarten Schöder 88"></tag>
+  <tag k="OBJECTID" v="912"></tag>
+  <tag k="GISY" v="227237.369963"></tag>
+  <tag k="GISX" v="59329.51000975"></tag>
+  <tag k="ORT" v="Schöder"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8844"></tag>
+  <tag k="TELEFON" v="03536/7335"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61428001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schöder 88"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@schoeder.steiermark.at"></tag>
+</node>
+<node lat="47.11276671218257" lon="14.17802817334505" id="-913">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532/2228-14"></tag>
+  <tag k="NAME" v="Kindergarten Bundesstraße 9"></tag>
+  <tag k="OBJECTID" v="913"></tag>
+  <tag k="GISY" v="219648.59999577"></tag>
+  <tag k="GISX" v="64163.08996463"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="03532/2423"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61411001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Bundesstraße 9"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@muraunet.at"></tag>
+</node>
+<node lat="47.05952154068273" lon="14.216526625786559" id="-914">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Steir. Laßnitz 26"></tag>
+  <tag k="OBJECTID" v="914"></tag>
+  <tag k="GISY" v="213761.36995577"></tag>
+  <tag k="GISX" v="67151.59002221"></tag>
+  <tag k="ORT" v="Murau"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8850"></tag>
+  <tag k="TELEFON" v="06645391939"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61408003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Steir. Laßnitz 26"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergartenlassnitz@aon.at"></tag>
+</node>
+<node lat="47.1189636729927" lon="14.187451231318205" id="-915">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03532 2424 3513"></tag>
+  <tag k="NAME" v="Kindergarten Stolzalpe 76"></tag>
+  <tag k="OBJECTID" v="915"></tag>
+  <tag k="GISY" v="220345.28004816"></tag>
+  <tag k="GISX" v="64870.76004816"></tag>
+  <tag k="ORT" v="Stolzalpe"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8852"></tag>
+  <tag k="TELEFON" v="03532 2424 2123"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61431003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Stolzalpe 76"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="direktion@lkh-stolzalpe.at"></tag>
+</node>
+<node lat="47.158379933280685" lon="14.080516610037286" id="-916">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Ranten 7"></tag>
+  <tag k="OBJECTID" v="916"></tag>
+  <tag k="GISY" v="224644.52998284"></tag>
+  <tag k="GISX" v="56714.04998812"></tag>
+  <tag k="ORT" v="Ranten"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8853"></tag>
+  <tag k="TELEFON" v="03535/8645"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61418002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Ranten 7"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.ranten@aon.at"></tag>
+</node>
+<node lat="47.18182834118964" lon="14.019659540513317" id="-917">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03535 82024"></tag>
+  <tag k="NAME" v="Kindergarten Krakaudorf 52"></tag>
+  <tag k="OBJECTID" v="917"></tag>
+  <tag k="GISY" v="227209.23002027"></tag>
+  <tag k="GISX" v="52076.37000943"></tag>
+  <tag k="ORT" v="Krakaudorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8854"></tag>
+  <tag k="TELEFON" v="03535/7140"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61404001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Krakaudorf 52"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+</osm>

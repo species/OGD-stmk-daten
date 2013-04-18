@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.10849923669725" lon="15.423230899675461" id="-390">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1231"></tag>
+  <tag k="name" v="Andritz Actiengesellschaft"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.02013888396581" lon="15.473516573933322" id="-391">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1232"></tag>
+  <tag k="name" v="Steyr-Daimler-Puch FZ-Te."></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07582773856681" lon="15.429080474690815" id="-392">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1233"></tag>
+  <tag k="name" v="Berufsfeuerwehr Graz (ZW)"></tag>
+  <tag k="note:type" v="BF-ZW"></tag>
+</node>
+<node lat="47.03116674768658" lon="15.436669445592361" id="-393">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1234"></tag>
+  <tag k="name" v="Brau Union Puntigam"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.02223614486023" lon="15.479338639895298" id="-394">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1235"></tag>
+  <tag k="name" v="MAGNA STEYR AG &amp; Co KG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07929132270976" lon="15.46536122618452" id="-395">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1236"></tag>
+  <tag k="name" v="LKH-UNIV.Klinikum Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.03727958747805" lon="15.394886684694185" id="-396">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1237"></tag>
+  <tag k="name" v="Leykam Medien AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.034376735872684" lon="15.409400995883006" id="-397">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1238"></tag>
+  <tag k="name" v="KIKA Möbel Graz GesmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.03374480990472" lon="15.41747439047096" id="-398">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1239"></tag>
+  <tag k="name" v="IKEA Immobilien GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.06068828249112" lon="15.426129591794073" id="-399">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1240"></tag>
+  <tag k="name" v="Interkauf Werbe- u. Verw. GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04190035688179" lon="15.481963956471828" id="-400">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1241"></tag>
+  <tag k="name" v="STYRIA Druckzentrum Messendorf"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.06888445355837" lon="15.445887552047438" id="-401">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1242"></tag>
+  <tag k="name" v="Vereinigte Bühnen Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.070456713107006" lon="15.414363679677349" id="-402">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1243"></tag>
+  <tag k="name" v="SGP-Verkehrstechnik GesmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07780692483621" lon="15.425165821564606" id="-403">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1244"></tag>
+  <tag k="name" v="AVL-List GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.039179900932766" lon="15.419975666200715" id="-404">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1245"></tag>
+  <tag k="name" v="Landesnervenkrankenhaus Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04002129729041" lon="15.464421414012913" id="-778">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1619"></tag>
+  <tag k="name" v="Interspar Graz Liebenau"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.027392283466114" lon="15.429394052708117" id="-779">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1620"></tag>
+  <tag k="name" v="Spar-Zentrale  Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.06620527993719" lon="15.44812568340826" id="-788">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1629"></tag>
+  <tag k="name" v="HO"></tag>
+  <tag k="note:type" v="BF"></tag>
+</node>
+<node lat="47.07458021449747" lon="15.401527618575482" id="-789">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1630"></tag>
+  <tag k="name" v="WE"></tag>
+  <tag k="note:type" v="BF"></tag>
+</node>
+<node lat="47.09040106900877" lon="15.459563808317833" id="-790">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1631"></tag>
+  <tag k="name" v="WK"></tag>
+  <tag k="note:type" v="BF"></tag>
+</node>
+<node lat="47.0758291869478" lon="15.429085386354176" id="-793">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1634"></tag>
+  <tag k="name" v="Bezirksflorianstation Graz"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+<node lat="47.03897024369008" lon="15.426173865220678" id="-818">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1659"></tag>
+  <tag k="name" v="Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.09049524599142" lon="15.459548807509835" id="-819">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1660"></tag>
+  <tag k="name" v="Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.03822748891023" lon="15.407894985696236" id="-820">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1661"></tag>
+  <tag k="name" v="Alfred Wall Gmbh"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.104687426955884" lon="15.398512735949122" id="-822">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1663"></tag>
+  <tag k="name" v="EKZ Shopping Nord GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.045212329093026" lon="15.482499583831546" id="-823">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1664"></tag>
+  <tag k="name" v="Johnson Controls Austria"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.063936238111" lon="15.442219265802407" id="-824">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1665"></tag>
+  <tag k="name" v="Justizanstalt Graz Jakomini"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.054541164306784" lon="15.43066317586782" id="-825">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1666"></tag>
+  <tag k="name" v="Justizanstalt Graz-Karlau"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.071748950945164" lon="15.43675063946894" id="-826">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1667"></tag>
+  <tag k="name" v="Kastner&amp;Öhler Warenhaus AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.0777544367706" lon="15.399549094590562" id="-828">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1669"></tag>
+  <tag k="name" v="LKH Graz West - UKH Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.057673681511666" lon="15.447236736734709" id="-831">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1672"></tag>
+  <tag k="name" v="Messe Congress Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04019957364559" lon="15.464990684201146" id="-832">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1673"></tag>
+  <tag k="name" v="Murpark Entwickl. u. BetriebsgmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07272508973767" lon="15.441426484983667" id="-833">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1674"></tag>
+  <tag k="name" v="Schauspielhaus Graz GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07710405009013" lon="15.445552985693736" id="-837">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1678"></tag>
+  <tag k="name" v="Universität Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.07272510671916" lon="15.44142674855146" id="-839">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1680"></tag>
+  <tag k="name" v="Schauspielhaus Graz GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+</osm>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.675596337805466" lon="15.40012641004309" id="-405">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1246"></tag>
+  <tag k="name" v="Arnfels"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.66895417476652" lon="15.468146482472257" id="-406">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1247"></tag>
+  <tag k="name" v="Leutschach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.70091409161373" lon="15.399827044463285" id="-407">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1248"></tag>
+  <tag k="name" v="St. Johann im Saggautal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.737097711212" lon="15.444557874756748" id="-408">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1249"></tag>
+  <tag k="name" v="Großklein"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.75765402723677" lon="15.487740966425704" id="-409">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1250"></tag>
+  <tag k="name" v="Heimschuh"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.871447567863505" lon="15.452645961696227" id="-410">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1251"></tag>
+  <tag k="name" v="Hengsberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.719034839690224" lon="15.554788404556776" id="-411">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1252"></tag>
+  <tag k="name" v="Gamlitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.78253511816568" lon="15.53758474064219" id="-412">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1253"></tag>
+  <tag k="name" v="Leibnitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.91542111738954" lon="15.55315108372314" id="-413">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1254"></tag>
+  <tag k="name" v="Allerheiligen bei Wildon"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.723742191383465" lon="15.585336242211623" id="-414">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1255"></tag>
+  <tag k="name" v="Ehrenhausen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.998349470019114" lon="15.601312768031667" id="-415">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1256"></tag>
+  <tag k="name" v="Empersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.76657699984197" lon="15.552245532431472" id="-416">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1257"></tag>
+  <tag k="name" v="Wagna"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.894956848877804" lon="15.471434634736326" id="-417">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1258"></tag>
+  <tag k="name" v="Weitendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.73366310152918" lon="15.60925218099036" id="-418">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1259"></tag>
+  <tag k="name" v="Vogau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.72741323836205" lon="15.623679476885826" id="-419">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1260"></tag>
+  <tag k="name" v="Straß"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.79422903290513" lon="15.537516555635744" id="-420">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1261"></tag>
+  <tag k="name" v="Kaindorf a. d. Sulm"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.96036086017805" lon="15.58518580977217" id="-421">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1262"></tag>
+  <tag k="name" v="Heiligenkreuz am Waasen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.768663613258326" lon="15.520874400984166" id="-422">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1263"></tag>
+  <tag k="name" v="Seggauberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.820551670868674" lon="15.448543812219151" id="-423">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1264"></tag>
+  <tag k="name" v="St. Nikolai im Sausal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.74228580024298" lon="15.34428721092717" id="-424">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1265"></tag>
+  <tag k="name" v="Prarath"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.752155342173204" lon="15.36596359724475" id="-425">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1266"></tag>
+  <tag k="name" v="Gleinstätten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.74509775610348" lon="15.583945481249334" id="-426">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1267"></tag>
+  <tag k="name" v="Obervogau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.76904916803858" lon="15.372508982802097" id="-427">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1268"></tag>
+  <tag k="name" v="Pistorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.758598666193954" lon="15.61040885887259" id="-428">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1269"></tag>
+  <tag k="name" v="Wagendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.887234234633816" lon="15.512081424528168" id="-429">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1270"></tag>
+  <tag k="name" v="Wildon"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.85044561349473" lon="15.53981731093409" id="-430">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1271"></tag>
+  <tag k="name" v="Feuerwehr- u. ZS-Schule"></tag>
+  <tag k="note:type" v="BFK"></tag>
+</node>
+<node lat="46.853125003009794" lon="15.53804688996334" id="-431">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1272"></tag>
+  <tag k="name" v="Lebring-St.Margarethen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.81135971152269" lon="15.514538192836875" id="-432">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1273"></tag>
+  <tag k="name" v="Tillmitsch"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.81364270417974" lon="15.546790052455853" id="-433">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1274"></tag>
+  <tag k="name" v="Neutillmitsch"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.77565178447012" lon="15.583552047582932" id="-434">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1275"></tag>
+  <tag k="name" v="Gabersdorf (neues Rüsthaus)"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.68581708157778" lon="15.332245463835301" id="-435">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1276"></tag>
+  <tag k="name" v="Oberhaag"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.670992119478576" lon="15.420680476815821" id="-436">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1277"></tag>
+  <tag k="name" v="Maltschach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.81526579241249" lon="15.55448647601542" id="-437">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1278"></tag>
+  <tag k="name" v="Obergralla"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.80844630370091" lon="15.578657474579812" id="-438">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1279"></tag>
+  <tag k="name" v="Untergralla"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.851572276552304" lon="15.627545429754244" id="-439">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1280"></tag>
+  <tag k="name" v="Breitenfeld a. Tannenriegel"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.71511344756384" lon="15.64196776011173" id="-440">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1281"></tag>
+  <tag k="name" v="Gersdorf a.d. Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.70927945551786" lon="15.63334118973114" id="-441">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1282"></tag>
+  <tag k="name" v="Spielfeld"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.94903350196286" lon="15.54155478846003" id="-442">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1283"></tag>
+  <tag k="name" v="St. Ulrich am Waasen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.81721538006456" lon="15.66267454709771" id="-443">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1284"></tag>
+  <tag k="name" v="St. Nikolai ob Drassling"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.80713138379929" lon="15.63871326542073" id="-444">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1285"></tag>
+  <tag k="name" v="Leitersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.78759754775668" lon="15.658705064051855" id="-445">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1286"></tag>
+  <tag k="name" v="Hütt"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.867204447041566" lon="15.472036698321398" id="-446">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1287"></tag>
+  <tag k="name" v="Schönberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.778566858997365" lon="15.545706142892792" id="-447">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1288"></tag>
+  <tag k="name" v="Assmann Ladenbau Leibnitz  GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.737413059039596" lon="15.572952049171478" id="-448">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1289"></tag>
+  <tag k="name" v="Lafarge Perlmoser AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.83713775978" lon="15.515888764884192" id="-449">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1290"></tag>
+  <tag k="name" v="Lang"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.84338286289251" lon="15.655836090847052" id="-450">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1291"></tag>
+  <tag k="name" v="Wolfsberg im Schwarzautal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.83531953720692" lon="15.680507840299292" id="-451">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1292"></tag>
+  <tag k="name" v="Marchtring"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.915901033081376" lon="15.583271891076244" id="-452">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1293"></tag>
+  <tag k="name" v="Feiting"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.83631224956251" lon="15.63835383918069" id="-453">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1294"></tag>
+  <tag k="name" v="Hainsdorf im Schwarzautal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.87510533304971" lon="15.57431924076255" id="-454">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1295"></tag>
+  <tag k="name" v="St. Georgen a. d. Stiefing"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.800036736119054" lon="15.580267339325403" id="-455">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1296"></tag>
+  <tag k="name" v="Hasendorf a. d. Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.78164355766957" lon="15.564212498092369" id="-456">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1297"></tag>
+  <tag k="name" v="Leitring"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.93339593599915" lon="15.579346536593725" id="-457">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1298"></tag>
+  <tag k="name" v="Großfelgitsch"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.690545455525005" lon="15.572184390337073" id="-458">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1299"></tag>
+  <tag k="name" v="Ratsch a. d. Weinstraße"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.78785252751648" lon="15.638798859225783" id="-459">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1300"></tag>
+  <tag k="name" v="Labuttendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.75588398072275" lon="15.442024625984248" id="-460">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1301"></tag>
+  <tag k="name" v="Fresing-Kitzeck"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.79161594491849" lon="15.377976174971742" id="-461">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1302"></tag>
+  <tag k="name" v="St. Andrä im Sausal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.898518342511906" lon="15.487975665844413" id="-462">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1303"></tag>
+  <tag k="name" v="Neudorf ob Wildon"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.792677485819084" lon="15.595068176627427" id="-463">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1304"></tag>
+  <tag k="name" v="Neudorf an der Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.782535026718975" lon="15.537571639287489" id="-803">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1644"></tag>
+  <tag k="name" v="Bezirksflorianstation Leibnitz"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+</osm>

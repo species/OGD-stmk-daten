@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.019921489623215" lon="15.276678934761403" id="-1">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="842"></tag>
+  <tag k="name" v="Berndorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.1701526456884" lon="15.337287225430398" id="-10">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="851"></tag>
+  <tag k="name" v="Friesach-Wörth"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.972664480687506" lon="15.529660095824118" id="-11">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="852"></tag>
+  <tag k="name" v="Gnaning"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.996382872601046" lon="15.487728987594016" id="-12">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="853"></tag>
+  <tag k="name" v="Gössendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.134446492805985" lon="15.353321367688451" id="-13">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="854"></tag>
+  <tag k="name" v="Gratkorn"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.131376224551516" lon="15.316606592420317" id="-14">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="855"></tag>
+  <tag k="name" v="Gratwein"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.195953894223685" lon="15.23796080156436" id="-15">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="856"></tag>
+  <tag k="name" v="Großstübing"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.06671872752754" lon="15.516271875838854" id="-16">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="857"></tag>
+  <tag k="name" v="Hart bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.16022894122308" lon="15.560458791171742" id="-17">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="858"></tag>
+  <tag k="name" v="Hart-Albersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.11754071294535" lon="15.630101814374356" id="-18">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="859"></tag>
+  <tag k="name" v="Haselbach"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.07461583507003" lon="15.591380104990792" id="-19">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="860"></tag>
+  <tag k="name" v="Laßnitzhöhe"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.948009424259524" lon="15.375234919022342" id="-2">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="843"></tag>
+  <tag k="name" v="Dobl"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.015603539561226" lon="15.502459109689767" id="-20">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="861"></tag>
+  <tag k="name" v="Grambach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.119209716938826" lon="15.334646874954919" id="-21">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="862"></tag>
+  <tag k="name" v="Judendorf-Straßengel"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.099342158530405" lon="15.556703462538442" id="-22">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="863"></tag>
+  <tag k="name" v="Kainbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.03843752518832" lon="15.297493021988252" id="-23">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="864"></tag>
+  <tag k="name" v="Hitzendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.020181978409354" lon="15.634515887244694" id="-24">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="865"></tag>
+  <tag k="name" v="Krumegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.160970034730326" lon="15.53276425260419" id="-25">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="866"></tag>
+  <tag k="name" v="Kumberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.06061172225561" lon="15.549036242837603" id="-26">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="867"></tag>
+  <tag k="name" v="Autal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9758198364369" lon="15.332153344336044" id="-27">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="868"></tag>
+  <tag k="name" v="Lieboch"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.06108456909208" lon="15.597618686888252" id="-28">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="869"></tag>
+  <tag k="name" v="Nestelbach bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9924177749214" lon="15.392826005026787" id="-29">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="870"></tag>
+  <tag k="name" v="Pirka-Windorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.000602039876135" lon="15.450959718381437" id="-3">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="844"></tag>
+  <tag k="name" v="Feldkirchen bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.00984555316551" lon="15.40081888048075" id="-30">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="871"></tag>
+  <tag k="name" v="Seiersberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.14514107139688" lon="15.418937782578679" id="-31">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="872"></tag>
+  <tag k="name" v="Stattegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.18369494958587" lon="15.488439373970937" id="-32">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="873"></tag>
+  <tag k="name" v="St. Radegund"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.22448446577723" lon="15.237028326271092" id="-33">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="874"></tag>
+  <tag k="name" v="Übelbach-Markt"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.223165460406285" lon="15.171295437303044" id="-34">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="875"></tag>
+  <tag k="name" v="Neuhof"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.98896036236048" lon="15.510862645814443" id="-35">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="876"></tag>
+  <tag k="name" v="Hausmannstätten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.02667967014585" lon="15.496233853171601" id="-36">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="877"></tag>
+  <tag k="name" v="Raaba"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.16195301605811" lon="15.489004543846658" id="-37">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="878"></tag>
+  <tag k="name" v="Rinnegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.105468737554695" lon="15.216875365590592" id="-38">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="879"></tag>
+  <tag k="name" v="Stiwoll"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.064784760715696" lon="15.310171023113021" id="-39">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="880"></tag>
+  <tag k="name" v="Steinberg-Rohrbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.972488536593" lon="15.497489032907955" id="-4">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="845"></tag>
+  <tag k="name" v="Fernitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.01243218051726" lon="15.475853376534433" id="-40">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="881"></tag>
+  <tag k="name" v="Thondorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.270062802765594" lon="15.459404065374596" id="-41">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="882"></tag>
+  <tag k="name" v="Tulwitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.97036512799283" lon="15.401539433527468" id="-42">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="883"></tag>
+  <tag k="name" v="Unterpremstätten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.0147111479427" lon="15.555788566751474" id="-43">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="884"></tag>
+  <tag k="name" v="Vasoldsberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.13755555216609" lon="15.288299349640788" id="-44">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="885"></tag>
+  <tag k="name" v="Eisbach-Rein"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.10932382578176" lon="15.264111482244791" id="-45">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="886"></tag>
+  <tag k="name" v="Schirning-Meierhof"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.050187209218535" lon="15.653479092576628" id="-46">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="887"></tag>
+  <tag k="name" v="Langegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9276497135241" lon="15.510628827402698" id="-47">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="888"></tag>
+  <tag k="name" v="Mellach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.30895624483447" lon="15.368749161206958" id="-48">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="889"></tag>
+  <tag k="name" v="Röthelstein"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.217432764533434" lon="15.405323346103929" id="-49">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="890"></tag>
+  <tag k="name" v="Semriach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.200169303237736" lon="15.33435747832736" id="-5">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="846"></tag>
+  <tag k="name" v="Deutschfeistritz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.01565697531157" lon="15.686661975072818" id="-50">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="891"></tag>
+  <tag k="name" v="St. Marein bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.08406309726859" lon="15.276636393641347" id="-51">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="892"></tag>
+  <tag k="name" v="St. Oswald bei Plankenwarth"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9902622176548" lon="15.463057635803748" id="-52">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="893"></tag>
+  <tag k="name" v="Wagnitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.146853037453674" lon="15.481807146456562" id="-53">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="894"></tag>
+  <tag k="name" v="Weinitzen-Oberschöckl"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.92219360736642" lon="15.4838438686078" id="-54">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="895"></tag>
+  <tag k="name" v="Werndorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9279624243309" lon="15.451171371934501" id="-55">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="896"></tag>
+  <tag k="name" v="Wundschuh"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9599225742721" lon="15.424922955504334" id="-56">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="897"></tag>
+  <tag k="name" v="Zettling"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.91107610380191" lon="15.41159178986688" id="-57">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="898"></tag>
+  <tag k="name" v="Zwaring-Pöls"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.13600971359811" lon="15.184310486575736" id="-58">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="899"></tag>
+  <tag k="name" v="St. Pankrazen-Gschnaidt"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.27866252571624" lon="15.327325590812817" id="-59">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="900"></tag>
+  <tag k="name" v="Kartonfabrik Mayr-Melnhof"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.178036090684124" lon="15.320578323898074" id="-6">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="847"></tag>
+  <tag k="name" v="Kleinstübing"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.13570707970682" lon="15.333972200799476" id="-60">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="901"></tag>
+  <tag k="name" v="SAPPI Gratkorn GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.99391501696024" lon="15.444480194806905" id="-61">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="902"></tag>
+  <tag k="name" v="Flughafen bei Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.28413190760933" lon="15.310983510304087" id="-62">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="903"></tag>
+  <tag k="name" v="R. Bauernfeind Papierfabrik"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.96794490050822" lon="15.476846173409927" id="-63">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="904"></tag>
+  <tag k="name" v="Roto Frank Eisenwaren AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.91615662502027" lon="15.48076762987033" id="-64">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="905"></tag>
+  <tag k="name" v="STEWEAG FHKW Neudorf-Werndorf"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.12058288533228" lon="15.595436788366348" id="-7">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="848"></tag>
+  <tag k="name" v="Eggersdorf bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.91925942262397" lon="15.380087183041477" id="-750">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1591"></tag>
+  <tag k="name" v="Petzendorf"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.9364193382459" lon="15.34651734080438" id="-751">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1592"></tag>
+  <tag k="name" v="Weinzettl"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.93543388005827" lon="15.361291988759584" id="-752">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1593"></tag>
+  <tag k="name" v="Muttendorf"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.15104219840709" lon="15.329576120668733" id="-753">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1594"></tag>
+  <tag k="name" v="Eggenfeld"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.191351483607406" lon="15.524649281320386" id="-754">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1595"></tag>
+  <tag k="name" v="Meierhöfen"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.15625186655915" lon="15.521887130968338" id="-755">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1596"></tag>
+  <tag k="name" v="Rabnitz"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.990680684122616" lon="15.342991599128338" id="-756">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1597"></tag>
+  <tag k="name" v="Haselsdorf"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.969114678998864" lon="15.461713266642883" id="-780">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1621"></tag>
+  <tag k="name" v="Charles Vögele (Austria) AG"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.130171570098945" lon="15.245161925119378" id="-782">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1623"></tag>
+  <tag k="name" v="Kehr-Plesch"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.95896802684151" lon="15.481040555541027" id="-792">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1633"></tag>
+  <tag k="name" v="Kalsdorf bei Graz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.02663669934901" lon="15.496219729010658" id="-794">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1635"></tag>
+  <tag k="name" v="Bezirksflorianstation Graz-Umgebung"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+<node lat="47.27056888953099" lon="15.324085596411049" id="-8">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="849"></tag>
+  <tag k="name" v="Frohnleiten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.154989741068455" lon="15.601288280563049" id="-811">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1652"></tag>
+  <tag k="name" v="Haselbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.012076184248805" lon="15.409564943166197" id="-812">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1653"></tag>
+  <tag k="name" v="Shopping City Seiersberg"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.04150723258331" lon="15.511784241228348" id="-813">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1654"></tag>
+  <tag k="name" v="Knapp Logistik"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.93588451904749" lon="15.467651786192693" id="-814">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1655"></tag>
+  <tag k="name" v="Cargo Center Graz"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.01505033169468" lon="15.410812458477558" id="-815">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1656"></tag>
+  <tag k="name" v="C+C Pfeiffer"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.21042729994765" lon="15.342053130340428" id="-838">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1679"></tag>
+  <tag k="name" v="Zuser"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.20626265060779" lon="15.343888836117593" id="-9">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="850"></tag>
+  <tag k="name" v="Peggau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+</osm>

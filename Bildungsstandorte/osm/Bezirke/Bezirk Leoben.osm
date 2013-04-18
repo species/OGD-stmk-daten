@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.38037306631605" lon="15.09733605841673" id="-1070">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Musikschule der Stadt Leoben"></tag>
+  <tag k="OBJECTID" v="1070"></tag>
+  <tag k="GISY" v="249789.6499"></tag>
+  <tag k="GISX" v="-93249.5389"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611520"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Musikschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Leoben"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.36876209573735" lon="15.09514605868691" id="-1071">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Heilstättenschule der Stadt Leoben Sonderpädagogisches Zentrum"></tag>
+  <tag k="OBJECTID" v="1071"></tag>
+  <tag k="GISY" v="248501.41059999"></tag>
+  <tag k="GISX" v="-93435.48919999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.spz.at/leoben/angebote.html"></tag>
+  <tag k="PLZ" v="8704"></tag>
+  <tag k="TELEFON" v="03842/21195"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611033"></tag>
+  <tag k="SCHULTYP" v="3"></tag>
+  <tag k="TYP_LANG" v="Sonderschule"></tag>
+  <tag k="KURZNAME" v="Heilstättens.  Kohlstattg."></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kohlstattgasse 4"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.38921664300276" lon="15.102459603813308" id="-1072">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule Seegraben"></tag>
+  <tag k="OBJECTID" v="1072"></tag>
+  <tag k="GISY" v="250766.7106"></tag>
+  <tag k="GISX" v="-92847.05929999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs-seegraben.stsnet.at"></tag>
+  <tag k="PLZ" v="8706"></tag>
+  <tag k="TELEFON" v="03842/42393"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611151"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Seegraben"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Proleberstraße 4"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.36202501925111" lon="15.096403609326604" id="-1073">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Polytechnische Schule"></tag>
+  <tag k="OBJECTID" v="1073"></tag>
+  <tag k="GISY" v="247750.8906"></tag>
+  <tag k="GISX" v="-93352.42939999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.poly-leoben.at/"></tag>
+  <tag k="PLZ" v="8707"></tag>
+  <tag k="TELEFON" v="03842/22286"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611014"></tag>
+  <tag k="SCHULTYP" v="4"></tag>
+  <tag k="TYP_LANG" v="Polytechnische Schule"></tag>
+  <tag k="KURZNAME" v="PS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Brauhausgasse 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.359443367882065" lon="15.09914294679656" id="-1074">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1074"></tag>
+  <tag k="GISY" v="247460.5803"></tag>
+  <tag k="GISX" v="-93150.05989999"></tag>
+  <tag k="ORT" v="Leoben-Göss"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs-goess.at.tf"></tag>
+  <tag k="PLZ" v="8707"></tag>
+  <tag k="TELEFON" v="03842/22107"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611121"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Göss"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Teichgasse 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs-goess@vs-goess.stsnet.at"></tag>
+</node>
+<node lat="47.37700381909754" lon="14.985031981505585" id="-1076">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03833/8286"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1076"></tag>
+  <tag k="GISY" v="249556.1305"></tag>
+  <tag k="GISX" v="-101736.5291"></tag>
+  <tag k="ORT" v="Timmersdorf"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs-traboch.com"></tag>
+  <tag k="PLZ" v="8772"></tag>
+  <tag k="TELEFON" v="03833/8226"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611271"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Traboch"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Traboch"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.38510232471903" lon="15.082333909634142" id="-1740">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/4012356"></tag>
+  <tag k="NAME" v="Schule für allgemeine Gesundheits- und Krankenpflege des Landes Steiermark am Landeskrankenhaus Leoben"></tag>
+  <tag k="OBJECTID" v="1740"></tag>
+  <tag k="GISY" v="250333.5704"></tag>
+  <tag k="GISX" v="-94373.9395"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.san-edu.asn-graz.ac.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/4012370"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611910"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Allgem. Krankenpfl.,  LKH"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Barbaraweg 86"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="sagkkjg@stmk.gv.at"></tag>
+</node>
+<node lat="47.38131910251528" lon="15.089328047327246" id="-1741">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1741"></tag>
+  <tag k="GISY" v="249904.4803"></tag>
+  <tag k="GISX" v="-93852.5694"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs1-le.stsnet.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/42924"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611171"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Leoben-Stadt"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Erzherzog Johann-Straße 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.37792558051557" lon="15.061490319294853" id="-1742">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Werkmeisterschule für Berufstätige für Maschinenbau-Betriebstechnik des Berufsförderungsinstituts Steiermark"></tag>
+  <tag k="OBJECTID" v="1742"></tag>
+  <tag k="GISY" v="249561.2404"></tag>
+  <tag k="GISX" v="-95960.83949999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.bfi-stmk.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/26866"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611507"></tag>
+  <tag k="SCHULTYP" v="7"></tag>
+  <tag k="TYP_LANG" v="Technisch-gewerbliche Schule"></tag>
+  <tag k="KURZNAME" v="Wkmsch.  Maschinenb.-Betr."></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Erzstraße 21"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="leoben@bfi-stmk.at"></tag>
+</node>
+<node lat="47.37792558051557" lon="15.061490319294853" id="-1743">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Berufsförderungsinstitut Leoben - (AWZ) - Ausbildungen im  Gesundheitsbereich"></tag>
+  <tag k="OBJECTID" v="1743"></tag>
+  <tag k="GISY" v="249561.2404"></tag>
+  <tag k="GISX" v="-95960.83949999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.bfi-stmk.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/26866"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611950"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="BFI Leoben  (AWZ)"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Erzstraße 21"></tag>
+  <tag k="TYP" v="P"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.36130264057458" lon="15.073986755713308" id="-1744">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="'Kinderschule Taptana' des Vereins 'Auf neuen Wegen lernen - Verein zur Förderung von Lehr- und Lernmethoden'"></tag>
+  <tag k="OBJECTID" v="1744"></tag>
+  <tag k="GISY" v="247697.7803"></tag>
+  <tag k="GISX" v="-95047.09939999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.taptana.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/81210"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611341"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="Taptana Kinderschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hinterbergstraße 12"></tag>
+  <tag k="TYP" v="P"></tag>
+  <tag k="EMAIL" v="taptana@hotmail.com"></tag>
+</node>
+<node lat="47.37408666883452" lon="15.082475094194331" id="-1745">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Hauptschule 'Europa Hauptschule'"></tag>
+  <tag k="OBJECTID" v="1745"></tag>
+  <tag k="GISY" v="249108.7103"></tag>
+  <tag k="GISX" v="-94382.99949999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.europahauptschule.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/21413"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611042"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Kerpelystr. 13"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kerpelystraße 13"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="direktion@europahauptschule.at"></tag>
+</node>
+<node lat="47.373963646767166" lon="15.081959361195151" id="-1746">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/25630-20"></tag>
+  <tag k="NAME" v="Höhere Bundeslehranstalt für wirtschaftliche Berufe"></tag>
+  <tag k="OBJECTID" v="1746"></tag>
+  <tag k="GISY" v="249095.66039999"></tag>
+  <tag k="GISX" v="-94422.16949999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.hbla-leoben.stsnet.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/25630"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611429"></tag>
+  <tag k="SCHULTYP" v="9"></tag>
+  <tag k="TYP_LANG" v="Lehranstalt für wirtschaftliche Berufe, Sozialberufe und Tourismus"></tag>
+  <tag k="KURZNAME" v="HBLA w. Berufe"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kerpelystraße 17"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.373138531364496" lon="15.083568090682393" id="-1747">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Städtische Handelsschule"></tag>
+  <tag k="OBJECTID" v="1747"></tag>
+  <tag k="GISY" v="249001.9704"></tag>
+  <tag k="GISX" v="-94302.1495"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.has-leoben.stsnet.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/4062300"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611438"></tag>
+  <tag k="SCHULTYP" v="8"></tag>
+  <tag k="TYP_LANG" v="Handelsakademie und Handelsschule"></tag>
+  <tag k="KURZNAME" v="Städt HAS  Kerpelystraße"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kerpelystraße 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.36876209574835" lon="15.095146045442052" id="-1748">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1748"></tag>
+  <tag k="GISY" v="248501.41039999"></tag>
+  <tag k="GISX" v="-93435.4895"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/21363"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611131"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Leitendorf"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Leitendorf, Fröbelgasse 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.37573509663429" lon="15.071403635915244" id="-1749">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule Leoben-Donawitz"></tag>
+  <tag k="OBJECTID" v="1749"></tag>
+  <tag k="GISY" v="249305.5003"></tag>
+  <tag k="GISX" v="-95216.16949999"></tag>
+  <tag k="ORT" v="Leoben Donawitz"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs-donawitz.stsnet.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/24641"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611111"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS Lorberaustr. 9"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Lorberaustraße 9"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.3820486547822" lon="15.090179456521827" id="-1750">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/42965-4"></tag>
+  <tag k="NAME" v="Hauptschule II Leoben-Stadt"></tag>
+  <tag k="OBJECTID" v="1750"></tag>
+  <tag k="GISY" v="249984.5603"></tag>
+  <tag k="GISX" v="-93786.9795"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.bihs.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/42965-1"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611062"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS II"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Max Tendler-Straße 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="bihs-admin@bihs.at"></tag>
+</node>
+<node lat="47.3820486547822" lon="15.090179456521827" id="-1751">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/448883"></tag>
+  <tag k="NAME" v="Höhere technische Lehranstalt und Werkmeisterschule des Schulvereins der Berg- und Hüttenschule Leoben"></tag>
+  <tag k="OBJECTID" v="1751"></tag>
+  <tag k="GISY" v="249984.5603"></tag>
+  <tag k="GISX" v="-93786.9795"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.htl-leoben.at"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/44888"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611417"></tag>
+  <tag k="SCHULTYP" v="7"></tag>
+  <tag k="TYP_LANG" v="Technisch-gewerbliche Schule"></tag>
+  <tag k="KURZNAME" v="HTLA  Max-Tendler-Straße 3"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Max-Tendler-Straße 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="herbert.resch@htl-leoben.at"></tag>
+</node>
+<node lat="47.374255815729555" lon="15.092419648788628" id="-1752">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Bundesgymnasium und Bundesrealgymnasium"></tag>
+  <tag k="OBJECTID" v="1752"></tag>
+  <tag k="GISY" v="249115.4704"></tag>
+  <tag k="GISX" v="-93631.6595"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.gym-leoben.net"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/23305"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611016"></tag>
+  <tag k="SCHULTYP" v="6"></tag>
+  <tag k="TYP_LANG" v="Allgemeinbildende höhere Schule"></tag>
+  <tag k="KURZNAME" v="BG BRG  Moserhofstr. 5"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Moserhofstraße 5"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="sekr1@gym-leoben.asn-graz.ac.at"></tag>
+</node>
+<node lat="47.37350625548263" lon="15.092043488888168" id="-1765">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/2307715"></tag>
+  <tag k="NAME" v="Bundesgymnasium und Bundesrealgymnasium"></tag>
+  <tag k="OBJECTID" v="1765"></tag>
+  <tag k="GISY" v="249032.59039999"></tag>
+  <tag k="GISX" v="-93661.3995"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.unileoben.ac.at/~brgneu/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/23077"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611046"></tag>
+  <tag k="SCHULTYP" v="6"></tag>
+  <tag k="TYP_LANG" v="Allgemeinbildende höhere Schule"></tag>
+  <tag k="KURZNAME" v="BG BRG  Moserhofstr. 7A"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Moserhofstraße 7a"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.39837510924792" lon="15.134520425184819" id="-1766">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1766"></tag>
+  <tag k="GISY" v="251747.0604"></tag>
+  <tag k="GISX" v="-90410.7094"></tag>
+  <tag k="ORT" v="Proleb"></tag>
+  <tag k="HOMEPAGE" v="http://www.volksschule.proleb.net"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="TELEFON" v="03842/81146"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611211"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Proleb"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Dorfstraße 16"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.396930618752016" lon="15.161039473852261" id="-1767">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1767"></tag>
+  <tag k="GISY" v="251555.9003"></tag>
+  <tag k="GISX" v="-88411.25939999"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="HOMEPAGE" v="http://www.vsniklasdorf.at"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="TELEFON" v="03842/81306"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611201"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schulstraße 8"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.niklasdorf@utanet.at"></tag>
+</node>
+<node lat="47.321731882042315" lon="14.980210301043854" id="-1768">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03832/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1768"></tag>
+  <tag k="GISY" v="243417.5403"></tag>
+  <tag k="GISX" v="-102207.6294"></tag>
+  <tag k="ORT" v="Sankt Stefan ob Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8713"></tag>
+  <tag k="TELEFON" v="03832/2306"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611261"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Murwaldsiedlung 34"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Murwaldsiedlung 34"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.30768007361439" lon="14.935220038783946" id="-1769">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03832/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1769"></tag>
+  <tag k="GISY" v="241915.4903"></tag>
+  <tag k="GISX" v="-105636.8494"></tag>
+  <tag k="ORT" v="Kraubath an der Mur"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8714"></tag>
+  <tag k="TELEFON" v="03832/2226"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611081"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Kirchplatz 7"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kirchplatz 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.kraubath@aon.at"></tag>
+</node>
+<node lat="47.33691034735121" lon="15.02264690338999" id="-1772">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03843/"></tag>
+  <tag k="NAME" v="Hauptschule"></tag>
+  <tag k="OBJECTID" v="1772"></tag>
+  <tag k="GISY" v="245050.0703"></tag>
+  <tag k="GISX" v="-98971.08939999"></tag>
+  <tag k="ORT" v="Sankt Michael in Obersteiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www2.asn-graz.ac.at/hsstmichael"></tag>
+  <tag k="PLZ" v="8770"></tag>
+  <tag k="TELEFON" v="03843/2270"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611082"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Kirchgasse 6"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kirchgasse 6"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.33702265717235" lon="15.02198505175567" id="-1773">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03843/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1773"></tag>
+  <tag k="GISY" v="245063.4004"></tag>
+  <tag k="GISX" v="-99020.8995"></tag>
+  <tag k="ORT" v="Sankt Michael in Obersteiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.vsmichael.at"></tag>
+  <tag k="PLZ" v="8770"></tag>
+  <tag k="TELEFON" v="03843/2213"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611241"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schulgasse 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.395205990546906" lon="14.915178763592852" id="-1774">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03844/"></tag>
+  <tag k="NAME" v="Dr.-Friedrich-Niederl-Volksschule"></tag>
+  <tag k="OBJECTID" v="1774"></tag>
+  <tag k="GISY" v="251673.7004"></tag>
+  <tag k="GISX" v="-106974.7794"></tag>
+  <tag k="ORT" v="Kammern im Liesingtal"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8773"></tag>
+  <tag k="TELEFON" v="03844/8368"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611331"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hochstraße 18"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.56112355865144" lon="14.86450268140098" id="-1775">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/285825"></tag>
+  <tag k="NAME" v="Bundeshandelsschule"></tag>
+  <tag k="OBJECTID" v="1775"></tag>
+  <tag k="GISY" v="270191.18029999"></tag>
+  <tag k="GISX" v="-110451.1595"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.bhak-eisenerz.at"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2858"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611458"></tag>
+  <tag k="SCHULTYP" v="8"></tag>
+  <tag k="TYP_LANG" v="Handelsakademie und Handelsschule"></tag>
+  <tag k="KURZNAME" v="BHAS Hieflauerstr"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hieflauer Straße 89"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="sekretariat@bhak-eisenerz.at"></tag>
+</node>
+<node lat="47.56112355865144" lon="14.86450268140098" id="-1776">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/285825"></tag>
+  <tag k="NAME" v="Bundes-Oberstufenrealgymnasium"></tag>
+  <tag k="OBJECTID" v="1776"></tag>
+  <tag k="GISY" v="270191.18029999"></tag>
+  <tag k="GISX" v="-110451.1595"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.borg-eisenerz.asn-graz.ac.at"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2858"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611026"></tag>
+  <tag k="SCHULTYP" v="6"></tag>
+  <tag k="TYP_LANG" v="Allgemeinbildende höhere Schule"></tag>
+  <tag k="KURZNAME" v="BORG"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hieflauerstraße 89"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="sekretariat@borg-eisenerz.at"></tag>
+</node>
+<node lat="47.543637555283595" lon="14.88448474764356" id="-1777">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/"></tag>
+  <tag k="NAME" v="Volksschule 'Eisenerz'"></tag>
+  <tag k="OBJECTID" v="1777"></tag>
+  <tag k="GISY" v="268218.7804"></tag>
+  <tag k="GISX" v="-108983.7694"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2511-120"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611031"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Eisenerz  Radmeisterstr."></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Radmeisterstraße 2"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.eisenerz@twin.at"></tag>
+</node>
+<node lat="47.54401959182189" lon="14.884380945513769" id="-1778">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/3442"></tag>
+  <tag k="NAME" v="Hauptschule 2 'Hauptschule Eisenerz-Ski-Musik-Sport'"></tag>
+  <tag k="OBJECTID" v="1778"></tag>
+  <tag k="GISY" v="268261.4003"></tag>
+  <tag k="GISX" v="-108990.7895"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs-eisenerz.at"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2577"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611022"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS 2  Radmeisterstr. 4-6"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Radmeisterstraße 4-6"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.53860692025863" lon="14.888289085835332" id="-1779">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/"></tag>
+  <tag k="NAME" v="Musikschule der Stadtgemeinde Eisenerz"></tag>
+  <tag k="OBJECTID" v="1779"></tag>
+  <tag k="GISY" v="267654.1304"></tag>
+  <tag k="GISX" v="-108707.8095"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611510"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Musikschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Rathausplatz 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.543628033401724" lon="14.885082780527533" id="-1780">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/"></tag>
+  <tag k="NAME" v="Polytechnische Schule"></tag>
+  <tag k="OBJECTID" v="1780"></tag>
+  <tag k="GISY" v="268216.8803"></tag>
+  <tag k="GISX" v="-108938.7695"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="http://www.polyeisenerz.at"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2252"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611044"></tag>
+  <tag k="SCHULTYP" v="4"></tag>
+  <tag k="TYP_LANG" v="Polytechnische Schule"></tag>
+  <tag k="KURZNAME" v="PS  Schulstr. 3"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schulstraße 3"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="ps.eisenerz@twin.at"></tag>
+</node>
+<node lat="47.39825767653171" lon="15.031269602353364" id="-1781">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1781"></tag>
+  <tag k="GISY" v="251859.51029999"></tag>
+  <tag k="GISX" v="-98205.12949999"></tag>
+  <tag k="ORT" v="Sankt Peter-Freienstein"></tag>
+  <tag k="HOMEPAGE" v="http://www.vsstpeterfrst.net/"></tag>
+  <tag k="PLZ" v="8792"></tag>
+  <tag k="TELEFON" v="03842/22787"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611251"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schulstraße 6"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.41302684849206" lon="14.970226102366563" id="-1782">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Josef Krainer-Volksschule"></tag>
+  <tag k="OBJECTID" v="1782"></tag>
+  <tag k="GISY" v="253580.5704"></tag>
+  <tag k="GISX" v="-102784.3595"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/3710"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611041"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Gai"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Gai 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.43738927030094" lon="14.969285686813876" id="-1783">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/2482-2"></tag>
+  <tag k="NAME" v="Fachschule für Land- und Ernährungswirtschaft - Sankt Martin"></tag>
+  <tag k="OBJECTID" v="1783"></tag>
+  <tag k="GISY" v="256290.3704"></tag>
+  <tag k="GISX" v="-102807.7394"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.stockschloss.at"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/2482"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611710"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="FS  Gai-Oberdorf  7"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Gai-Oberdorf 7"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="fsstockschloss@stmk.gv.at"></tag>
+</node>
+<node lat="47.427502736228824" lon="15.003577228381012" id="-1784">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Hauptschule I Franz-Jonas-Hauptschule"></tag>
+  <tag k="OBJECTID" v="1784"></tag>
+  <tag k="GISY" v="255146.3203"></tag>
+  <tag k="GISX" v="-100239.8894"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.fjhs-trofaiach.at"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/211110"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611092"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS I  Gössgrabenstraße"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Gössgrabenstraße 17"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="hs.franz.jonas@fjhs-trofaiach.at"></tag>
+</node>
+<node lat="47.430706293386024" lon="15.064442486042937" id="-1785">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1785"></tag>
+  <tag k="GISY" v="255425.6204"></tag>
+  <tag k="GISX" v="-95642.00949999"></tag>
+  <tag k="ORT" v="Hafning"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/5338"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611091"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Laintal   117"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Laintal 117"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.42605419372517" lon="15.008316883501612" id="-1786">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Musikschule des Stadtamts Trofaiach"></tag>
+  <tag k="OBJECTID" v="1786"></tag>
+  <tag k="GISY" v="254979.16039999"></tag>
+  <tag k="GISX" v="-99885.04949999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611540"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Musikschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Luchinettigasse 9"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.42749655002282" lon="15.00621224199868" id="-1787">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Peter-Rosegger-Volksschule"></tag>
+  <tag k="OBJECTID" v="1787"></tag>
+  <tag k="GISY" v="255142.2303"></tag>
+  <tag k="GISX" v="-100041.0995"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.prvs-trofaiach.at"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/2420"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611291"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="Peter-Rosegger-VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Roseggergasse 18"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.peter.rosegger@prvs-trofaiach.at"></tag>
+</node>
+<node lat="47.42749655002282" lon="15.00621224199868" id="-1788">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/"></tag>
+  <tag k="NAME" v="Hauptschule II 'Peter-Rosegger-Hauptschule'"></tag>
+  <tag k="OBJECTID" v="1788"></tag>
+  <tag k="GISY" v="255142.2303"></tag>
+  <tag k="GISX" v="-100041.0995"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="http://www.schulen.telenet.at/pr-hs/"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/2318"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611102"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS II  Roseggergasse 20"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Roseggergasse 20"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="direktion@prhs-trofaiach.at"></tag>
+</node>
+<node lat="47.48787171975676" lon="14.99232273904569" id="-1789">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03849/"></tag>
+  <tag k="NAME" v="Erzherzog - Johann - Volksschule"></tag>
+  <tag k="OBJECTID" v="1789"></tag>
+  <tag k="GISY" v="261872.6404"></tag>
+  <tag k="GISX" v="-100972.9994"></tag>
+  <tag k="ORT" v="Vordernberg"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8794"></tag>
+  <tag k="TELEFON" v="03849/270"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611301"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="Erzherzog-J.-VS  Vordernb."></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hauptstraße 96"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.vordernberg@aon.at"></tag>
+</node>
+<node lat="47.54696413798009" lon="14.758172257215403" id="-1800">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03635/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1800"></tag>
+  <tag k="GISY" v="268558.2743"></tag>
+  <tag k="GISX" v="268558.2743"></tag>
+  <tag k="ORT" v="Radmer"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8795"></tag>
+  <tag k="TELEFON" v="03635/2115"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611221"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Radmer an der Stube"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Radmer an der Stube"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs@radmer.steiermark.at"></tag>
+</node>
+<node lat="47.409997502670365" lon="14.825901429822988" id="-1887">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03845/"></tag>
+  <tag k="NAME" v="Musikschule der Marktgemeinde Mautern"></tag>
+  <tag k="OBJECTID" v="1887"></tag>
+  <tag k="GISY" v="253426.1904"></tag>
+  <tag k="GISX" v="253426.1904"></tag>
+  <tag k="ORT" v="Mautern"></tag>
+  <tag k="HOMEPAGE" v="http://www.msmautern.com"></tag>
+  <tag k="PLZ" v="8774"></tag>
+  <tag k="TELEFON" v="03845/"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611530"></tag>
+  <tag k="SCHULTYP" v="0"></tag>
+  <tag k="TYP_LANG" v="Sonstige Schule"></tag>
+  <tag k="KURZNAME" v="Musikschule"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Klostergasse 5a"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.398323261542366" lon="14.824194272049823" id="-1888">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03845/3112-4"></tag>
+  <tag k="NAME" v="Hauptschule Mautern"></tag>
+  <tag k="OBJECTID" v="1888"></tag>
+  <tag k="GISY" v="252125.8204"></tag>
+  <tag k="GISX" v="252125.8204"></tag>
+  <tag k="ORT" v="Mautern in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.hs-mautern.at"></tag>
+  <tag k="PLZ" v="8774"></tag>
+  <tag k="TELEFON" v="03845/3112"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611072"></tag>
+  <tag k="SCHULTYP" v="2"></tag>
+  <tag k="TYP_LANG" v="Hauptschule"></tag>
+  <tag k="KURZNAME" v="HS  Klostergasse 7A"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Klostergasse 7A"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.39937015866786" lon="14.827660809935288" id="-1889">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03845/20025"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1889"></tag>
+  <tag k="GISY" v="252247.2204"></tag>
+  <tag k="GISX" v="252247.2204"></tag>
+  <tag k="ORT" v="Mautern in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="http://www.vs.mautern.at.gs"></tag>
+  <tag k="PLZ" v="8774"></tag>
+  <tag k="TELEFON" v="03845/2225"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611191"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS  Schulgasse 1"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Schulgasse 1"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.42478618808923" lon="14.75913848889741" id="-1890">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03846/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1890"></tag>
+  <tag k="GISY" v="254976.0404"></tag>
+  <tag k="GISX" v="254976.0404"></tag>
+  <tag k="ORT" v="Kalwang"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8775"></tag>
+  <tag k="TELEFON" v="03846/8208"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611061"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Kalwang 4"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="vs.kalwang@aon.at"></tag>
+</node>
+<node lat="47.44754268590909" lon="14.676513953752305" id="-1891">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03834/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1891"></tag>
+  <tag k="GISY" v="257395.33039999"></tag>
+  <tag k="GISX" v="257395.33039999"></tag>
+  <tag k="ORT" v="Wald am Schoberpass"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8781"></tag>
+  <tag k="TELEFON" v="03834/236"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611321"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Wald 41"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.6054491749175" lon="14.745602584730443" id="-1933">
+  <tag k="STATUS" v="B"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03634/"></tag>
+  <tag k="NAME" v="Volksschule"></tag>
+  <tag k="OBJECTID" v="1933"></tag>
+  <tag k="GISY" v="275043.4004"></tag>
+  <tag k="GISX" v="275043.4004"></tag>
+  <tag k="ORT" v="Hieflau"></tag>
+  <tag k="HOMEPAGE" v="http://www.lsr-stmk.gv.at/"></tag>
+  <tag k="PLZ" v="8920"></tag>
+  <tag k="TELEFON" v="03634/227"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="611051"></tag>
+  <tag k="SCHULTYP" v="1"></tag>
+  <tag k="TYP_LANG" v="Volksschule"></tag>
+  <tag k="KURZNAME" v="VS"></tag>
+  <tag k="FITS" v="20100804"></tag>
+  <tag k="EINRICHTUN" v="Schule"></tag>
+  <tag k="STRASSE" v="Hauptstraße 21"></tag>
+  <tag k="TYP" v="S"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.3848697182624" lon="15.093860641021" id="-44">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="+43 (0)3842 402-7012"></tag>
+  <tag k="NAME" v="Montanuniversität Leoben"></tag>
+  <tag k="OBJECTID" v="44"></tag>
+  <tag k="GISY" v="250293.75743325"></tag>
+  <tag k="GISX" v="-93504.00176153"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="http://www.unileoben.ac.at/"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="+43 (0)3842 402"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="0"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Universität"></tag>
+  <tag k="KURZNAME" v="Uni Leoben"></tag>
+  <tag k="FITS" v="18991230"></tag>
+  <tag k="EINRICHTUN" v="Universität"></tag>
+  <tag k="STRASSE" v="Franz-Josef-Straße 18"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="office@unileoben.ac.at"></tag>
+</node>
+<node lat="47.38173406987954" lon="15.089109544834619" id="-454">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="DW 4"></tag>
+  <tag k="NAME" v="Kinderkrippe Erzherzog Johann-Straße 1A"></tag>
+  <tag k="OBJECTID" v="454"></tag>
+  <tag k="GISY" v="249950.88"></tag>
+  <tag k="GISX" v="-93868.32999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842 42768 11"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108804"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Erzherzog Johann-Straße 1A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kinderkrippe@josefinum.com"></tag>
+</node>
+<node lat="47.38173406987954" lon="15.089109544834619" id="-455">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842 42768 4"></tag>
+  <tag k="NAME" v="Hort Erzherzog Johann-Straße 1A"></tag>
+  <tag k="OBJECTID" v="455"></tag>
+  <tag k="GISY" v="249950.88"></tag>
+  <tag k="GISX" v="-93868.32999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="0384242768-13"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108503"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Hort"></tag>
+  <tag k="KURZNAME" v="Hort"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Erzherzog Johann-Straße 1A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="schuelerhort@josefinum.com"></tag>
+</node>
+<node lat="47.36551738414171" lon="15.097810359410726" id="-456">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847 300704"></tag>
+  <tag k="NAME" v="Kindergarten Gösser Straße 52"></tag>
+  <tag k="OBJECTID" v="456"></tag>
+  <tag k="GISY" v="248137.46999999"></tag>
+  <tag k="GISX" v="-93239.98999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="06642815715"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108019"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Gösser Straße 52"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="lisbeth@loeschnig.at"></tag>
+</node>
+<node lat="47.388296190129374" lon="15.102616035497553" id="-457">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/43043"></tag>
+  <tag k="NAME" v="Kindergarten Lierwaldgasse 4"></tag>
+  <tag k="OBJECTID" v="457"></tag>
+  <tag k="GISY" v="250664.19"></tag>
+  <tag k="GISX" v="-92836.86999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/43043"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108010"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Lierwaldgasse 4"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.judendorf@leox.net"></tag>
+</node>
+<node lat="47.37504916555347" lon="15.093077224263297" id="-458">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842 23621"></tag>
+  <tag k="NAME" v="Kinderkrippe Moserhofstraße 4"></tag>
+  <tag k="OBJECTID" v="458"></tag>
+  <tag k="GISY" v="249202.88"></tag>
+  <tag k="GISX" v="-93580.58999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842 23621"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108801"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Moserhofstraße 4"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.stadt@leox.net"></tag>
+</node>
+<node lat="47.37504916555347" lon="15.093077224263297" id="-459">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/23621"></tag>
+  <tag k="NAME" v="Kindergarten Moserhofstraße 4"></tag>
+  <tag k="OBJECTID" v="459"></tag>
+  <tag k="GISY" v="249202.88"></tag>
+  <tag k="GISX" v="-93580.58999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/23621"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Moserhofstraße 4"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.stadt@leox.net"></tag>
+</node>
+<node lat="47.3826227523738" lon="15.119829836551666" id="-460">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="0384281940"></tag>
+  <tag k="NAME" v="Kinderkrippe Nikolaus Lenau-Straße 25"></tag>
+  <tag k="OBJECTID" v="460"></tag>
+  <tag k="GISY" v="250012.98"></tag>
+  <tag k="GISX" v="-91547.03999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="0384281940"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108802"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Nikolaus Lenau-Straße 25"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.lerchenfeld@leox.net"></tag>
+</node>
+<node lat="47.39837510024981" lon="15.13452042516192" id="-461">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/83406"></tag>
+  <tag k="NAME" v="Kindergarten Dorfstraße 18"></tag>
+  <tag k="OBJECTID" v="461"></tag>
+  <tag k="GISY" v="251747.06"></tag>
+  <tag k="GISX" v="-90410.70999999"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="TELEFON" v="03842/82651"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61111001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Dorfstraße 18"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.proleb@aon.at"></tag>
+</node>
+<node lat="47.39717275225679" lon="15.161925590652944" id="-462">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/8131173"></tag>
+  <tag k="NAME" v="Kindergarten Schulstraße 12"></tag>
+  <tag k="OBJECTID" v="462"></tag>
+  <tag k="GISY" v="251581.81"></tag>
+  <tag k="GISX" v="-88343.95999999"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="TELEFON" v="03842/81808"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61110001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schulstraße 12"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@niklasdorf.steiermark.at"></tag>
+</node>
+<node lat="47.32173188204005" lon="14.98021028781075" id="-463">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03832/2306"></tag>
+  <tag k="NAME" v="Kindergarten Murwaldsiedlung 34"></tag>
+  <tag k="OBJECTID" v="463"></tag>
+  <tag k="GISY" v="243417.54"></tag>
+  <tag k="GISX" v="-102207.62999999"></tag>
+  <tag k="ORT" v="St. Stefan ob Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8713"></tag>
+  <tag k="TELEFON" v="03832/2014"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61115003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Murwaldsiedlung 34"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@st-stefan-leoben.steiermark.at"></tag>
+</node>
+<node lat="47.307811621597935" lon="14.935607069940351" id="-464">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Kirchplatz 6"></tag>
+  <tag k="OBJECTID" v="464"></tag>
+  <tag k="GISY" v="241929.58999999"></tag>
+  <tag k="GISX" v="-105607.31999999"></tag>
+  <tag k="ORT" v="Kraubath an der Mur"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8714"></tag>
+  <tag k="TELEFON" v="03832/2190"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61107001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Kirchplatz 6"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.kraubath@aon.at"></tag>
+</node>
+<node lat="47.38173406987954" lon="15.089109544834619" id="-508">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842768 4"></tag>
+  <tag k="NAME" v="Kindergarten Erzherzog Johann-Straße 1A"></tag>
+  <tag k="OBJECTID" v="508"></tag>
+  <tag k="GISY" v="249950.88"></tag>
+  <tag k="GISX" v="-93868.32999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842 42768"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108021"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Erzherzog Johann-Straße 1A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@josefinum.com"></tag>
+</node>
+<node lat="47.3826227523738" lon="15.119829836551666" id="-509">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/81940"></tag>
+  <tag k="NAME" v="Kindergarten Nikolaus Lenau-Straße 25"></tag>
+  <tag k="OBJECTID" v="509"></tag>
+  <tag k="GISY" v="250012.98"></tag>
+  <tag k="GISX" v="-91547.03999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/81940"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Nikolaus Lenau-Straße 25"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.lerchenfeld@leox.net"></tag>
+</node>
+<node lat="47.3753300228236" lon="15.073121453953977" id="-510">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/23009"></tag>
+  <tag k="NAME" v="Kindergarten Pestalozzistraße 75A"></tag>
+  <tag k="OBJECTID" v="510"></tag>
+  <tag k="GISY" v="249258.36"></tag>
+  <tag k="GISX" v="-95087.16999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/23009"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108005"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Pestalozzistraße 75A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.donawitz2@leox.net"></tag>
+</node>
+<node lat="47.3753300228236" lon="15.073121453953977" id="-511">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/21747"></tag>
+  <tag k="NAME" v="Kindergarten Pestalozzistraße 75B"></tag>
+  <tag k="OBJECTID" v="511"></tag>
+  <tag k="GISY" v="249258.36"></tag>
+  <tag k="GISX" v="-95087.16999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/21747"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108009"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Pestalozzistraße 75B"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.donawitz3@leox.net"></tag>
+</node>
+<node lat="47.359443367893526" lon="15.099142933554035" id="-512">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/23688"></tag>
+  <tag k="NAME" v="Kindergarten Steigtalstraße 28"></tag>
+  <tag k="OBJECTID" v="512"></tag>
+  <tag k="GISY" v="247460.58"></tag>
+  <tag k="GISX" v="-93150.05999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/23688"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108006"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Steigtalstraße 28"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.goess@leox.net"></tag>
+</node>
+<node lat="47.359443367893526" lon="15.099142933554035" id="-513">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kinderkrippe Steigtalstraße 28"></tag>
+  <tag k="OBJECTID" v="513"></tag>
+  <tag k="GISY" v="247460.58"></tag>
+  <tag k="GISX" v="-93150.05999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="-"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108807"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Steigtalstraße 28"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.37878902603161" lon="15.08428917147928" id="-514">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/26663"></tag>
+  <tag k="NAME" v="Kinderhaus Vordernberger Straße 63"></tag>
+  <tag k="OBJECTID" v="514"></tag>
+  <tag k="GISY" v="249629.3"></tag>
+  <tag k="GISX" v="-94237.58999999"></tag>
+  <tag k="ORT" v="Leoben"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8700"></tag>
+  <tag k="TELEFON" v="03842/26663"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61108601"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderhaus"></tag>
+  <tag k="KURZNAME" v="Kinderhaus"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Vordernberger Straße 63"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kh.leoben@stmk.volkshilfe.at"></tag>
+</node>
+<node lat="47.39837510024981" lon="15.13452042516192" id="-515">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/83406"></tag>
+  <tag k="NAME" v="Hort Dorfstraße 16"></tag>
+  <tag k="OBJECTID" v="515"></tag>
+  <tag k="GISY" v="251747.06"></tag>
+  <tag k="GISX" v="-90410.70999999"></tag>
+  <tag k="ORT" v="Niklasdorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8712"></tag>
+  <tag k="TELEFON" v="03842/81289"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61111502"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Hort"></tag>
+  <tag k="KURZNAME" v="Hort"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Dorfstraße 16"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.proleb@aon.at"></tag>
+</node>
+<node lat="47.447542676873745" lon="14.676513940543044" id="-842">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03834/700-25"></tag>
+  <tag k="NAME" v="Kindergarten Wald am Schoberpaß 41"></tag>
+  <tag k="OBJECTID" v="842"></tag>
+  <tag k="GISY" v="257395.33000999"></tag>
+  <tag k="GISX" v="101356.14003516"></tag>
+  <tag k="ORT" v="Wald am Schoberpaß"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8781"></tag>
+  <tag k="TELEFON" v="03834/428 od. 700-0"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61119003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Wald am Schoberpaß 41"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.wald@aon.at"></tag>
+</node>
+<node lat="47.423956000062994" lon="15.00338562512418" id="-849">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/2255-88"></tag>
+  <tag k="NAME" v="Kindergarten Kehrgasse 41"></tag>
+  <tag k="OBJECTID" v="849"></tag>
+  <tag k="GISY" v="254752.25"></tag>
+  <tag k="GISX" v="-100261.09999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/2363"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61117003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Kehrgasse 41"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kehrgasse@kiga-trofaiach.at"></tag>
+</node>
+<node lat="47.42258445437339" lon="15.004713375870022" id="-850">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="o3847/5358"></tag>
+  <tag k="NAME" v="Kindergarten Koloniegasse 31"></tag>
+  <tag k="OBJECTID" v="850"></tag>
+  <tag k="GISY" v="254598.05"></tag>
+  <tag k="GISX" v="-100163.52999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/5358"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61117007"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Heilpädagogischer Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Koloniegasse 31"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@lebenshilfe-trofaiach.at"></tag>
+</node>
+<node lat="47.425241490899275" lon="15.007995489101283" id="-851">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/2255-88"></tag>
+  <tag k="NAME" v="Kindergarten Rebenburggasse 2A"></tag>
+  <tag k="OBJECTID" v="851"></tag>
+  <tag k="GISY" v="254889.22"></tag>
+  <tag k="GISX" v="-99910.83999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/4141"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61117001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Rebenburggasse 2A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="rebenburggasse@kiga-trofaiach.at"></tag>
+</node>
+<node lat="47.48787171975587" lon="14.992322725770904" id="-852">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03849/206-18"></tag>
+  <tag k="NAME" v="Kindergarten Hauptstraße 96"></tag>
+  <tag k="OBJECTID" v="852"></tag>
+  <tag k="GISY" v="261872.64"></tag>
+  <tag k="GISX" v="-100972.99999999"></tag>
+  <tag k="ORT" v="Vordernberg"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8794"></tag>
+  <tag k="TELEFON" v="03849/6215"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61118001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Hauptstraße 96"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.vordernberg@aon.at"></tag>
+</node>
+<node lat="47.54550014982077" lon="14.760086755231402" id="-853">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Radmer an der Stube 35"></tag>
+  <tag k="OBJECTID" v="853"></tag>
+  <tag k="GISY" v="268398.15000258"></tag>
+  <tag k="GISX" v="107459.40002887"></tag>
+  <tag k="ORT" v="Radmer"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8795"></tag>
+  <tag k="TELEFON" v="03635/2346"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61112001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Radmer an der Stube 35"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="-"></tag>
+</node>
+<node lat="47.34873606848965" lon="15.01285613141824" id="-891">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03843 2461"></tag>
+  <tag k="NAME" v="Kindergarten Ruthenenweg 2"></tag>
+  <tag k="OBJECTID" v="891"></tag>
+  <tag k="GISY" v="246377.33"></tag>
+  <tag k="GISX" v="-99688.69999999"></tag>
+  <tag k="ORT" v="St. Michael in Obersteiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8770"></tag>
+  <tag k="TELEFON" v="03843/2461"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61113002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Ruthenenweg 2"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten1@aon.at"></tag>
+</node>
+<node lat="47.3371311114259" lon="15.022548276526303" id="-892">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03843 224420"></tag>
+  <tag k="NAME" v="Kindergarten Schulgasse 7"></tag>
+  <tag k="OBJECTID" v="892"></tag>
+  <tag k="GISY" v="245074.73999999"></tag>
+  <tag k="GISX" v="-98978.12999999"></tag>
+  <tag k="ORT" v="St. Michael in Obersteiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8770"></tag>
+  <tag k="TELEFON" v="03843/227019"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61113003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schulgasse 7"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@st-michael.steiermark.at"></tag>
+</node>
+<node lat="47.37700381909754" lon="14.985031981505585" id="-893">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Schulweg 3"></tag>
+  <tag k="OBJECTID" v="893"></tag>
+  <tag k="GISY" v="249556.12999999"></tag>
+  <tag k="GISX" v="-101736.52999999"></tag>
+  <tag k="ORT" v="Timmersdorf"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8772"></tag>
+  <tag k="TELEFON" v="03833/8628"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61116001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Schulweg 3"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergartentraboch@inode.at"></tag>
+</node>
+<node lat="47.393563365902466" lon="14.932463387511492" id="-894">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03844/82283"></tag>
+  <tag k="NAME" v="Kindergarten Seiz 21"></tag>
+  <tag k="OBJECTID" v="894"></tag>
+  <tag k="GISY" v="251467.4"></tag>
+  <tag k="GISX" v="-105673.21999999"></tag>
+  <tag k="ORT" v="Kammern im Liesingtal"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8773"></tag>
+  <tag k="TELEFON" v="03844/8228"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61106001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Seiz 21"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten.seiz@speed.at"></tag>
+</node>
+<node lat="47.39891381819441" lon="14.823725384639559" id="-895">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="038452538"></tag>
+  <tag k="NAME" v="Kindergarten Klostergasse 5E"></tag>
+  <tag k="OBJECTID" v="895"></tag>
+  <tag k="GISY" v="252190.79995091"></tag>
+  <tag k="GISX" v="112561.83997169"></tag>
+  <tag k="ORT" v="Mautern in Steiermark"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8774"></tag>
+  <tag k="TELEFON" v="03845/2538"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61109003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Klostergasse 5E"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kdg.mautern@gmx.net"></tag>
+</node>
+<node lat="47.42478617909122" lon="14.759138488938454" id="-896">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03846/8271-12"></tag>
+  <tag k="NAME" v="Kindergarten Kalwang 4A"></tag>
+  <tag k="OBJECTID" v="896"></tag>
+  <tag k="GISY" v="254976.04002172"></tag>
+  <tag k="GISX" v="107633.76995707"></tag>
+  <tag k="ORT" v="Kalwang"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8775"></tag>
+  <tag k="TELEFON" v="03846/82082"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61105002"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Kalwang 4A"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@kalwang.at"></tag>
+</node>
+<node lat="47.55094601490419" lon="14.874239746934368" id="-898">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="-"></tag>
+  <tag k="NAME" v="Kindergarten Kriechbaumweg 1"></tag>
+  <tag k="OBJECTID" v="898"></tag>
+  <tag k="GISY" v="269045.8"></tag>
+  <tag k="GISX" v="-109739.70999999"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/2511 140"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61101008"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Kriechbaumweg 1"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="mukiga@twin.at"></tag>
+</node>
+<node lat="47.54121213338382" lon="14.900455135610246" id="-899">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03848/3689"></tag>
+  <tag k="NAME" v="Kindergarten Trofengbachgasse 25"></tag>
+  <tag k="OBJECTID" v="899"></tag>
+  <tag k="GISY" v="267926.77"></tag>
+  <tag k="GISX" v="-107786.50999999"></tag>
+  <tag k="ORT" v="Eisenerz"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8790"></tag>
+  <tag k="TELEFON" v="03848/3689"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61101006"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Trofengbachgasse 25"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kiga.trofeng@twin.at"></tag>
+</node>
+<node lat="47.39956378985712" lon="15.032186791773093" id="-900">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03842/22922-81"></tag>
+  <tag k="NAME" v="Kindergarten Gemeindegasse 6"></tag>
+  <tag k="OBJECTID" v="900"></tag>
+  <tag k="GISY" v="252003.56"></tag>
+  <tag k="GISX" v="-98133.45999999"></tag>
+  <tag k="ORT" v="St. Peter-Freienstein"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8792"></tag>
+  <tag k="TELEFON" v="03842/21917"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61114001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Gemeindegasse 6"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="wikikiga.freinstein@aon.at"></tag>
+</node>
+<node lat="47.42231512247717" lon="14.995972526496303" id="-901">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/2255-88"></tag>
+  <tag k="NAME" v="Kindergarten Bergmanngasse 22"></tag>
+  <tag k="OBJECTID" v="901"></tag>
+  <tag k="GISY" v="254579.43"></tag>
+  <tag k="GISX" v="-100823.56999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/6397"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61117005"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Bergmanngasse 22"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="bergmanngasse@kiga-trofaiach.at"></tag>
+</node>
+<node lat="47.42231512247717" lon="14.995972526496303" id="-902">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/2255-88"></tag>
+  <tag k="NAME" v="Kinderkrippe Bergmanngasse 22"></tag>
+  <tag k="OBJECTID" v="902"></tag>
+  <tag k="GISY" v="254579.43"></tag>
+  <tag k="GISX" v="-100823.56999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/6397"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61117801"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Kinderkrippe"></tag>
+  <tag k="KURZNAME" v="Kinderkrippe"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Bergmanngasse 22"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="bergmanngasse@kiga-trofaiach.at"></tag>
+</node>
+<node lat="47.413026839490506" lon="14.970226089115663" id="-903">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="34"></tag>
+  <tag k="FAX" v="03847/4600-18"></tag>
+  <tag k="NAME" v="Kindergarten Gai 1"></tag>
+  <tag k="OBJECTID" v="903"></tag>
+  <tag k="GISY" v="253580.56999999"></tag>
+  <tag k="GISX" v="-102784.35999999"></tag>
+  <tag k="ORT" v="Trofaiach"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8793"></tag>
+  <tag k="TELEFON" v="03847/4600 21"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61102003"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Gai 1"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="kindergarten@gai.at"></tag>
+</node>
+<node lat="47.60325081457444" lon="14.747245093656545" id="-921">
+  <tag k="STATUS" v="2010"></tag>
+  <tag k="GISMERIDIA" v="31"></tag>
+  <tag k="FAX" v="03624/545"></tag>
+  <tag k="NAME" v="Kindergarten Hauptstraße 32"></tag>
+  <tag k="OBJECTID" v="921"></tag>
+  <tag k="GISY" v="274801.22996546"></tag>
+  <tag k="GISX" v="106375.95998262"></tag>
+  <tag k="ORT" v="Hieflau"></tag>
+  <tag k="HOMEPAGE" v="-"></tag>
+  <tag k="PLZ" v="8920"></tag>
+  <tag k="TELEFON" v="03634/505-18"></tag>
+  <tag k="LUTS" v="18991230"></tag>
+  <tag k="KENNZAHL" v="61104001"></tag>
+  <tag k="SCHULTYP" v="-"></tag>
+  <tag k="TYP_LANG" v="Allgemeiner Kindergarten"></tag>
+  <tag k="KURZNAME" v="Kindergarten"></tag>
+  <tag k="FITS" v="20101207"></tag>
+  <tag k="EINRICHTUN" v="Kinderbildung und -betreuung"></tag>
+  <tag k="STRASSE" v="Hauptstraße 32"></tag>
+  <tag k="TYP" v="-"></tag>
+  <tag k="EMAIL" v="gde@hieflau.steiermark.at"></tag>
+</node>
+</osm>

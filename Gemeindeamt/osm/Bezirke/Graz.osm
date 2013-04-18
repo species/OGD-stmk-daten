@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.07070684055472" lon="15.438457325520671" id="-14">
+  <tag k="FAX" v="+43 (316) 872-2369"></tag>
+  <tag k="TEL" v="+43 (316) 872-0"></tag>
+  <tag k="OBJECTID" v="556"></tag>
+  <tag k="URL" v="http://www.graz.at/"></tag>
+  <tag k="GEMNR_alt" v="60101"></tag>
+  <tag k="ORT" v="Graz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8010"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="682114.0"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 1"></tag>
+  <tag k="GVOUID" v="65003762.0"></tag>
+  <tag k="MAIL" v="stadtverwaltung@graz.at"></tag>
+  <tag k="GEMNAME" v="Magistrat Graz"></tag>
+  <tag k="GEMNR" v="60101"></tag>
+</node>
+<node lat="47.106981796624126" lon="15.4910261705265" id="-16">
+  <tag k="FAX" v="+43 (3132) 2550-6"></tag>
+  <tag k="TEL" v="+43 (3132) 2550"></tag>
+  <tag k="OBJECTID" v="558"></tag>
+  <tag k="URL" v="http://www.weinitzen.com/"></tag>
+  <tag k="GEMNR_alt" v="60654"></tag>
+  <tag k="ORT" v="Graz-Mariatrost"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="4"></tag>
+  <tag k="PLZ" v="8044"></tag>
+  <tag k="GEMANSCHR1" v="Kirchplatz"></tag>
+  <tag k="HW_BMN34" v="686150.47"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kirchplatz 4"></tag>
+  <tag k="GVOUID" v="65004302.0"></tag>
+  <tag k="MAIL" v="gde@weinitzen.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Weinitzen"></tag>
+  <tag k="GEMNR" v="60654"></tag>
+</node>
+</osm>

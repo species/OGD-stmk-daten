@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.10331614575865" lon="15.827781635860244" id="-113">
+  <tag k="FAX" v="+43 (3118) 2211-22"></tag>
+  <tag k="TEL" v="+43 (3118) 2211"></tag>
+  <tag k="OBJECTID" v="655"></tag>
+  <tag k="URL" v="http://www.sinabelkirchen.eu"></tag>
+  <tag k="GEMNR_alt" v="61748"></tag>
+  <tag k="ORT" v="Sinabelkirchen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="8"></tag>
+  <tag k="PLZ" v="8261"></tag>
+  <tag k="GEMANSCHR1" v="Sinabelkirchen"></tag>
+  <tag k="HW_BMN34" v="711709.03"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Sinabelkirchen 8"></tag>
+  <tag k="GVOUID" v="65004219.0"></tag>
+  <tag k="MAIL" v="gde@sinabelkirchen.gv.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sinabelkirchen"></tag>
+  <tag k="GEMNR" v="61748"></tag>
+</node>
+<node lat="47.044949125916936" lon="15.744804722880659" id="-142">
+  <tag k="FAX" v="+43 (3115) 2263-5"></tag>
+  <tag k="TEL" v="+43 (3115) 2263"></tag>
+  <tag k="OBJECTID" v="684"></tag>
+  <tag k="URL" v="http://www.st-margarethen-raab.at/"></tag>
+  <tag k="GEMNR_alt" v="61746"></tag>
+  <tag k="ORT" v="St. Margarethen an der Raab"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="163"></tag>
+  <tag k="PLZ" v="8321"></tag>
+  <tag k="GEMANSCHR1" v="St. Margarethen an der Raab"></tag>
+  <tag k="HW_BMN34" v="705361.24"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St. Margarethen an der Raab 163"></tag>
+  <tag k="GVOUID" v="65004129.0"></tag>
+  <tag k="MAIL" v="gde@st-margarethen-raab.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Margarethen an der Raab"></tag>
+  <tag k="GEMNR" v="61746"></tag>
+</node>
+<node lat="47.21574260787566" lon="15.480021044660816" id="-22">
+  <tag k="FAX" v="+43 (3132) 2775-4"></tag>
+  <tag k="TEL" v="+43 (3132) 2775"></tag>
+  <tag k="OBJECTID" v="564"></tag>
+  <tag k="URL" v="http://www.stenzengreith.at/"></tag>
+  <tag k="GEMNR_alt" v="61749"></tag>
+  <tag k="ORT" v="St. Radegund bei Graz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="15"></tag>
+  <tag k="PLZ" v="8061"></tag>
+  <tag k="GEMANSCHR1" v="Plenzengreith"></tag>
+  <tag k="HW_BMN34" v="685447.62"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Plenzengreith 15"></tag>
+  <tag k="GVOUID" v="65004284.0"></tag>
+  <tag k="MAIL" v="gemeinde.stenzengreith@aon.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Stenzengreith"></tag>
+  <tag k="GEMNR" v="61749"></tag>
+</node>
+<node lat="47.38307147031821" lon="15.570321861022682" id="-227">
+  <tag k="FAX" v="+43 (3171) 201-4"></tag>
+  <tag k="TEL" v="+43 (3171) 201"></tag>
+  <tag k="OBJECTID" v="769"></tag>
+  <tag k="URL" v="http://www.gasen.at/"></tag>
+  <tag k="GEMNR_alt" v="61711"></tag>
+  <tag k="ORT" v="Gasen"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="3"></tag>
+  <tag k="PLZ" v="8616"></tag>
+  <tag k="GEMANSCHR1" v="Gasen"></tag>
+  <tag k="HW_BMN34" v="692470.59"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gasen 3"></tag>
+  <tag k="GVOUID" v="65004012.0"></tag>
+  <tag k="MAIL" v="gde@gasen.gv.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gasen"></tag>
+  <tag k="GEMNR" v="61711"></tag>
+</node>
+<node lat="47.44210910554138" lon="15.65194165651253" id="-244">
+  <tag k="FAX" v="+43 (3170) 206-24"></tag>
+  <tag k="TEL" v="+43 (3170) 206"></tag>
+  <tag k="OBJECTID" v="786"></tag>
+  <tag k="URL" v="http://www.fischbach.co.at/"></tag>
+  <tag k="GEMNR_alt" v="61708"></tag>
+  <tag k="ORT" v="Fischbach"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="11a"></tag>
+  <tag k="PLZ" v="8654"></tag>
+  <tag k="GEMANSCHR1" v="Fischbach"></tag>
+  <tag k="HW_BMN34" v="698691.48"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Fischbach 11a"></tag>
+  <tag k="GVOUID" v="65004067.0"></tag>
+  <tag k="MAIL" v="gde@fischbach.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Fischbach"></tag>
+  <tag k="GEMNR" v="61708"></tag>
+</node>
+<node lat="47.48898380356351" lon="15.691787193685293" id="-250">
+  <tag k="FAX" v="+43 (3173) 4030-4"></tag>
+  <tag k="TEL" v="+43 (3173) 4030"></tag>
+  <tag k="OBJECTID" v="792"></tag>
+  <tag k="URL" v="http://members.aon.at/st-kathrein-hauenstein.at/"></tag>
+  <tag k="GEMNR_alt" v="61744"></tag>
+  <tag k="ORT" v="St. Kathrein am Hauenstein"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="132"></tag>
+  <tag k="PLZ" v="8672"></tag>
+  <tag k="GEMANSCHR1" v="St. Kathrein"></tag>
+  <tag k="HW_BMN34" v="701740.08"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St. Kathrein 132"></tag>
+  <tag k="GVOUID" v="65004093.0"></tag>
+  <tag k="MAIL" v="gde@st-kathrein-hauenstein.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Kathrein am Hauenstein"></tag>
+  <tag k="GEMNR" v="61744"></tag>
+</node>
+<node lat="47.485347023809226" lon="15.724892577779036" id="-251">
+  <tag k="FAX" v="+43 (3173) 2213-18"></tag>
+  <tag k="TEL" v="+43 (3173) 2213"></tag>
+  <tag k="OBJECTID" v="793"></tag>
+  <tag k="URL" v="http://ratten-steiermark.at/"></tag>
+  <tag k="GEMNR_alt" v="61741"></tag>
+  <tag k="ORT" v="Ratten"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="211"></tag>
+  <tag k="PLZ" v="8673"></tag>
+  <tag k="GEMANSCHR1" v="Kirchenviertel"></tag>
+  <tag k="HW_BMN34" v="704231.71"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kirchenviertel 211"></tag>
+  <tag k="GVOUID" v="65004143.0"></tag>
+  <tag k="MAIL" v="gde@ratten.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Ratten"></tag>
+  <tag k="GEMNR" v="61741"></tag>
+</node>
+<node lat="47.5268003544897" lon="15.781298863724743" id="-252">
+  <tag k="FAX" v="+43 (3173) 8020-4"></tag>
+  <tag k="TEL" v="+43 (3173) 8020"></tag>
+  <tag k="OBJECTID" v="794"></tag>
+  <tag k="URL" v="http://www.rettenegg.at/"></tag>
+  <tag k="GEMNR_alt" v="61743"></tag>
+  <tag k="ORT" v="Rettenegg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="166"></tag>
+  <tag k="PLZ" v="8674"></tag>
+  <tag k="GEMANSCHR1" v="Rettenegg"></tag>
+  <tag k="HW_BMN34" v="708515.67"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Rettenegg 166"></tag>
+  <tag k="GVOUID" v="65003942.0"></tag>
+  <tag k="MAIL" v="gde@rettenegg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Rettenegg"></tag>
+  <tag k="GEMNR" v="61743"></tag>
+</node>
+<node lat="47.19709927631328" lon="15.689288955764928" id="-278">
+  <tag k="FAX" v="+43 (3177) 2450-4"></tag>
+  <tag k="TEL" v="+43 (3177) 2450"></tag>
+  <tag k="OBJECTID" v="820"></tag>
+  <tag k="URL" v="http://www.etzersdorf-rollsdorf.at/ws/"></tag>
+  <tag k="GEMNR_alt" v="61706"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="51"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Etzersdorf"></tag>
+  <tag k="HW_BMN34" v="701282.39"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Etzersdorf 51"></tag>
+  <tag k="GVOUID" v="65003952.0"></tag>
+  <tag k="MAIL" v="gemeinde@etzersdorf-rollsdorf.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Etzersdorf-Rollsdorf"></tag>
+  <tag k="GEMNR" v="61706"></tag>
+</node>
+<node lat="47.21285779146861" lon="15.60494015794506" id="-279">
+  <tag k="FAX" v="+43 (3172) 67550-4"></tag>
+  <tag k="TEL" v="+43 (3172) 67550"></tag>
+  <tag k="OBJECTID" v="821"></tag>
+  <tag k="URL" v="http://www.mortantsch.info/"></tag>
+  <tag k="GEMNR_alt" v="61730"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="160"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Göttelsberg"></tag>
+  <tag k="HW_BMN34" v="694907.17"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Göttelsberg 160"></tag>
+  <tag k="GVOUID" v="65004256.0"></tag>
+  <tag k="MAIL" v="gde@mortantsch.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Mortantsch"></tag>
+  <tag k="GEMNR" v="61730"></tag>
+</node>
+<node lat="47.21748921038055" lon="15.62153456395703" id="-280">
+  <tag k="FAX" v="+43 (3172) 2319-9100"></tag>
+  <tag k="TEL" v="+43 (3172) 2319-0"></tag>
+  <tag k="OBJECTID" v="822"></tag>
+  <tag k="URL" v="http://www.weiz.at"></tag>
+  <tag k="GEMNR_alt" v="61755"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="7"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="696168.97"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 7"></tag>
+  <tag k="GVOUID" v="65004016.0"></tag>
+  <tag k="MAIL" v="stadtgemeinde@weiz.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Weiz"></tag>
+  <tag k="GEMNR" v="61755"></tag>
+</node>
+<node lat="47.249533747922484" lon="15.595548260618274" id="-281">
+  <tag k="FAX" v="+43 (3172) 2441-41"></tag>
+  <tag k="TEL" v="+43 (3172) 2441"></tag>
+  <tag k="OBJECTID" v="823"></tag>
+  <tag k="URL" v="http://www.naas.at"></tag>
+  <tag k="GEMNR_alt" v="61731"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="37"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="In der Weiz"></tag>
+  <tag k="HW_BMN34" v="694234.39"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="In der Weiz 37"></tag>
+  <tag k="GVOUID" v="65004257.0"></tag>
+  <tag k="MAIL" v="gde@naas.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Naas"></tag>
+  <tag k="GEMNR" v="61731"></tag>
+</node>
+<node lat="47.206528921427775" lon="15.563714944618592" id="-282">
+  <tag k="FAX" v="+43 (3172) 7100-5"></tag>
+  <tag k="TEL" v="+43 (3172) 7100"></tag>
+  <tag k="OBJECTID" v="824"></tag>
+  <tag k="URL" v="http://www.gutenberg-raabklamm.gv.at"></tag>
+  <tag k="GEMNR_alt" v="61715"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="96"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Kleinsemmering"></tag>
+  <tag k="HW_BMN34" v="691777.25"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Kleinsemmering 96"></tag>
+  <tag k="GVOUID" v="65004214.0"></tag>
+  <tag k="MAIL" v="gde@gutenberg-raabklamm.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gutenberg an der Raabklamm"></tag>
+  <tag k="GEMNR" v="61715"></tag>
+</node>
+<node lat="47.214115511466936" lon="15.644484792125132" id="-283">
+  <tag k="FAX" v="+43 (3172) 2744-6"></tag>
+  <tag k="TEL" v="+43 (3172) 2744"></tag>
+  <tag k="OBJECTID" v="825"></tag>
+  <tag k="URL" v="http://www.krottendorf.info/"></tag>
+  <tag k="GEMNR_alt" v="61723"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="14"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Teichstraße"></tag>
+  <tag k="HW_BMN34" v="697904.06"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Teichstraße 14"></tag>
+  <tag k="GVOUID" v="65004130.0"></tag>
+  <tag k="MAIL" v="gde@krottendorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Krottendorf"></tag>
+  <tag k="GEMNR" v="61723"></tag>
+</node>
+<node lat="47.22366097008384" lon="15.644412276268834" id="-284">
+  <tag k="FAX" v="+43 (3172) 2015-44"></tag>
+  <tag k="TEL" v="+43 (3172) 2015"></tag>
+  <tag k="OBJECTID" v="826"></tag>
+  <tag k="URL" v="http://www.thannhausen.at/"></tag>
+  <tag k="GEMNR_alt" v="61751"></tag>
+  <tag k="ORT" v="Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8160"></tag>
+  <tag k="GEMANSCHR1" v="Thannhausen"></tag>
+  <tag k="HW_BMN34" v="697907.97"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Thannhausen 1"></tag>
+  <tag k="GVOUID" v="65003957.0"></tag>
+  <tag k="MAIL" v="gde@thannhausen.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Thannhausen"></tag>
+  <tag k="GEMNR" v="61751"></tag>
+</node>
+<node lat="47.24837878600439" lon="15.518081139306819" id="-285">
+  <tag k="FAX" v="+43 (3179) 27450-4"></tag>
+  <tag k="TEL" v="+43 (3179) 27450"></tag>
+  <tag k="OBJECTID" v="827"></tag>
+  <tag k="URL" v="http://www.arzberg.at/"></tag>
+  <tag k="GEMNR_alt" v="61703"></tag>
+  <tag k="ORT" v="Passail"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="3"></tag>
+  <tag k="PLZ" v="8162"></tag>
+  <tag k="GEMANSCHR1" v="Arzberg"></tag>
+  <tag k="HW_BMN34" v="688368.68"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Arzberg 3"></tag>
+  <tag k="GVOUID" v="65003951.0"></tag>
+  <tag k="MAIL" v="gemeindeamt@arzberg.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Arzberg"></tag>
+  <tag k="GEMNR" v="61703"></tag>
+</node>
+<node lat="47.27666416500923" lon="15.536622298595942" id="-286">
+  <tag k="FAX" v="+43 (3179) 23660-16"></tag>
+  <tag k="TEL" v="+43 (3179) 23660"></tag>
+  <tag k="OBJECTID" v="828"></tag>
+  <tag k="URL" v="http://www.hohenau.info"></tag>
+  <tag k="GEMNR_alt" v="61720"></tag>
+  <tag k="ORT" v="Passail"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="40"></tag>
+  <tag k="PLZ" v="8162"></tag>
+  <tag k="GEMANSCHR1" v="Auen"></tag>
+  <tag k="HW_BMN34" v="689804.53"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Auen 40"></tag>
+  <tag k="GVOUID" v="65004216.0"></tag>
+  <tag k="MAIL" v="gde@hohenau-raab.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hohenau an der Raab"></tag>
+  <tag k="GEMNR" v="61720"></tag>
+</node>
+<node lat="47.24122814144823" lon="15.459516138320653" id="-287">
+  <tag k="FAX" v="+43 (3179) 61904"></tag>
+  <tag k="TEL" v="+43 (3179) 6190"></tag>
+  <tag k="OBJECTID" v="829"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61733"></tag>
+  <tag k="ORT" v="Passail"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="48"></tag>
+  <tag k="PLZ" v="8162"></tag>
+  <tag k="GEMANSCHR1" v="Oberneudorf"></tag>
+  <tag k="HW_BMN34" v="683926.21"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Oberneudorf 48"></tag>
+  <tag k="GVOUID" v="65004087.0"></tag>
+  <tag k="MAIL" v="neudorf.passail@aon.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Neudorf bei Passail"></tag>
+  <tag k="GEMNR" v="61733"></tag>
+</node>
+<node lat="47.28224879034591" lon="15.515347396471386" id="-288">
+  <tag k="FAX" v="+43 (3179) 23300-30"></tag>
+  <tag k="TEL" v="+43 (3179) 23300"></tag>
+  <tag k="OBJECTID" v="830"></tag>
+  <tag k="URL" v="http://www.passail.istsuper.com/"></tag>
+  <tag k="GEMNR_alt" v="61736"></tag>
+  <tag k="ORT" v="Passail"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="40"></tag>
+  <tag k="PLZ" v="8162"></tag>
+  <tag k="GEMANSCHR1" v="Passail"></tag>
+  <tag k="HW_BMN34" v="688201.35"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Passail 40"></tag>
+  <tag k="GVOUID" v="65004218.0"></tag>
+  <tag k="MAIL" v="marktgemeinde@passail.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Passail"></tag>
+  <tag k="GEMNR" v="61736"></tag>
+</node>
+<node lat="47.2860428078121" lon="15.47681281784258" id="-289">
+  <tag k="FAX" v="+43 (3179) 23238-6"></tag>
+  <tag k="TEL" v="+43 (3179) 23238"></tag>
+  <tag k="OBJECTID" v="831"></tag>
+  <tag k="URL" v="http://www.fladnitz.at/"></tag>
+  <tag k="GEMNR_alt" v="61709"></tag>
+  <tag k="ORT" v="Fladnitz an der Teichalm"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="100"></tag>
+  <tag k="PLZ" v="8163"></tag>
+  <tag k="GEMANSCHR1" v="Fladnitz/Teichalm"></tag>
+  <tag k="HW_BMN34" v="685290.68"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Fladnitz/Teichalm 100"></tag>
+  <tag k="GVOUID" v="65004015.0"></tag>
+  <tag k="MAIL" v="gde@fladnitz-teichalm.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Fladnitz an der Teichalm"></tag>
+  <tag k="GEMNR" v="61709"></tag>
+</node>
+<node lat="47.30042743678584" lon="15.574890957854265" id="-291">
+  <tag k="FAX" v="+43 (3179) 8231-4"></tag>
+  <tag k="TEL" v="+43 (3179) 8231"></tag>
+  <tag k="OBJECTID" v="833"></tag>
+  <tag k="URL" v="http://www.st-kathrein.at/"></tag>
+  <tag k="GEMNR_alt" v="61745"></tag>
+  <tag k="ORT" v="St. Kathrein am Offenegg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8171"></tag>
+  <tag k="GEMANSCHR1" v="St.Kathrein 1. VTL."></tag>
+  <tag k="HW_BMN34" v="692725.83"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="St.Kathrein 1. VTL. 2"></tag>
+  <tag k="GVOUID" v="65004289.0"></tag>
+  <tag k="MAIL" v="gde@st-kathrein-offenegg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Sankt Kathrein am Offenegg"></tag>
+  <tag k="GEMNR" v="61745"></tag>
+</node>
+<node lat="47.17067345907133" lon="15.615044248265226" id="-292">
+  <tag k="FAX" v="+43 (3178) 5150-4"></tag>
+  <tag k="TEL" v="+43 (3178) 51500"></tag>
+  <tag k="OBJECTID" v="834"></tag>
+  <tag k="URL" v="http://www.mitterdorf-raab.at/"></tag>
+  <tag k="GEMNR_alt" v="61729"></tag>
+  <tag k="ORT" v="St. Ruprecht an der Raab"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="5"></tag>
+  <tag k="PLZ" v="8181"></tag>
+  <tag k="GEMANSCHR1" v="Mitterdorf an der Raab"></tag>
+  <tag k="HW_BMN34" v="695629.29"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Mitterdorf an der Raab 5"></tag>
+  <tag k="GVOUID" v="65003954.0"></tag>
+  <tag k="MAIL" v="gde@mitterdorf-raab.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Mitterdorf an der Raab"></tag>
+  <tag k="GEMNR" v="61729"></tag>
+</node>
+<node lat="47.15285044126749" lon="15.662455753983236" id="-293">
+  <tag k="FAX" v="+43 (3178) 2218-9"></tag>
+  <tag k="TEL" v="+43 (3178) 2218"></tag>
+  <tag k="OBJECTID" v="835"></tag>
+  <tag k="URL" v="http://ruprecht.at/html/ruprecht/ruprecht.htm"></tag>
+  <tag k="GEMNR_alt" v="61747"></tag>
+  <tag k="ORT" v="St. Ruprecht an der Raab"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="27"></tag>
+  <tag k="PLZ" v="8181"></tag>
+  <tag k="GEMANSCHR1" v="Untere Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="699206.65"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Untere Hauptstraße 27"></tag>
+  <tag k="GVOUID" v="65003956.0"></tag>
+  <tag k="MAIL" v="gemeinde@st.ruprecht.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Sankt Ruprecht an der Raab"></tag>
+  <tag k="GEMNR" v="61747"></tag>
+</node>
+<node lat="47.1793938452551" lon="15.666676729291058" id="-294">
+  <tag k="FAX" v="+43 (3178) 2600-19"></tag>
+  <tag k="TEL" v="+43 (3178) 2600"></tag>
+  <tag k="OBJECTID" v="836"></tag>
+  <tag k="URL" v="http://www.unterfladnitz.at/"></tag>
+  <tag k="GEMNR_alt" v="61753"></tag>
+  <tag k="ORT" v="St. Ruprecht an der Raab"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="101"></tag>
+  <tag k="PLZ" v="8181"></tag>
+  <tag k="GEMANSCHR1" v="Unterfladnitz"></tag>
+  <tag k="HW_BMN34" v="699552.05"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Unterfladnitz 101"></tag>
+  <tag k="GVOUID" v="65003958.0"></tag>
+  <tag k="MAIL" v="gemeinde@unterfladnitz.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Unterfladnitz"></tag>
+  <tag k="GEMNR" v="61753"></tag>
+</node>
+<node lat="47.2246667206813" lon="15.725859064395276" id="-295">
+  <tag k="FAX" v="+43 (3177) 2222-16"></tag>
+  <tag k="TEL" v="+43 (3177) 2222"></tag>
+  <tag k="OBJECTID" v="837"></tag>
+  <tag k="URL" v="http://www.puch-weiz.at/"></tag>
+  <tag k="GEMNR_alt" v="61740"></tag>
+  <tag k="ORT" v="Puch bei Weiz"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="100"></tag>
+  <tag k="PLZ" v="8182"></tag>
+  <tag k="GEMANSCHR1" v="Puch"></tag>
+  <tag k="HW_BMN34" v="704077.49"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Puch 100"></tag>
+  <tag k="GVOUID" v="65003955.0"></tag>
+  <tag k="MAIL" v="gde@puch-weiz.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Puch bei Weiz"></tag>
+  <tag k="GEMNR" v="61740"></tag>
+</node>
+<node lat="47.24910402772771" lon="15.733596297320865" id="-296">
+  <tag k="FAX" v="+43 (3177) 2234-4"></tag>
+  <tag k="TEL" v="+43 (3177) 2234"></tag>
+  <tag k="OBJECTID" v="838"></tag>
+  <tag k="URL" v="http://www.floing.at"></tag>
+  <tag k="GEMNR_alt" v="61710"></tag>
+  <tag k="ORT" v="Floing"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="5"></tag>
+  <tag k="PLZ" v="8183"></tag>
+  <tag k="GEMANSCHR1" v="Lebing"></tag>
+  <tag k="HW_BMN34" v="704684.46"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Lebing 5"></tag>
+  <tag k="GVOUID" v="65003953.0"></tag>
+  <tag k="MAIL" v="gde@floing.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Floing"></tag>
+  <tag k="GEMNR" v="61710"></tag>
+</node>
+<node lat="47.27726197584928" lon="15.69779762471077" id="-297">
+  <tag k="FAX" v="+43 (3175) 2212-15"></tag>
+  <tag k="TEL" v="+43 (3175) 2212"></tag>
+  <tag k="OBJECTID" v="839"></tag>
+  <tag k="URL" v="http://www.baierdorf-anger.at/"></tag>
+  <tag k="GEMNR_alt" v="61704"></tag>
+  <tag k="ORT" v="Anger"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="205"></tag>
+  <tag k="PLZ" v="8184"></tag>
+  <tag k="GEMANSCHR1" v="Baierdorf-Umgebung"></tag>
+  <tag k="HW_BMN34" v="702000.04"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Baierdorf-Umgebung 205"></tag>
+  <tag k="GVOUID" v="65004127.0"></tag>
+  <tag k="MAIL" v="gde@baierdorf-anger.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Baierdorf bei Anger"></tag>
+  <tag k="GEMNR" v="61704"></tag>
+</node>
+<node lat="47.292022509442845" lon="15.687719580499817" id="-298">
+  <tag k="FAX" v="+43 (3175) 7172-4"></tag>
+  <tag k="TEL" v="+43 (3175) 7172"></tag>
+  <tag k="OBJECTID" v="840"></tag>
+  <tag k="URL" v="http://www.naintsch.at/"></tag>
+  <tag k="GEMNR_alt" v="61732"></tag>
+  <tag k="ORT" v="Anger"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="170"></tag>
+  <tag k="PLZ" v="8184"></tag>
+  <tag k="GEMANSCHR1" v="Naintsch"></tag>
+  <tag k="HW_BMN34" v="701251.16"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Naintsch 170"></tag>
+  <tag k="GVOUID" v="65003941.0"></tag>
+  <tag k="MAIL" v="gemeinde@naintsch.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Naintsch"></tag>
+  <tag k="GEMNR" v="61732"></tag>
+</node>
+<node lat="47.26023486948023" lon="15.709128101589766" id="-299">
+  <tag k="FAX" v="+43 (3175) 2420-4"></tag>
+  <tag k="TEL" v="+43 (3175) 2420"></tag>
+  <tag k="OBJECTID" v="841"></tag>
+  <tag k="URL" v="http://www.feistritz-anger.at/"></tag>
+  <tag k="GEMNR_alt" v="61707"></tag>
+  <tag k="ORT" v="Anger"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="105"></tag>
+  <tag k="PLZ" v="8184"></tag>
+  <tag k="GEMANSCHR1" v="Oberfeistritz"></tag>
+  <tag k="HW_BMN34" v="702842.11"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Oberfeistritz 105"></tag>
+  <tag k="GVOUID" v="65004254.0"></tag>
+  <tag k="MAIL" v="info@feistritz-anger.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Feistritz bei Anger"></tag>
+  <tag k="GEMNR" v="61707"></tag>
+</node>
+<node lat="47.27408926936353" lon="15.69160884793828" id="-300">
+  <tag k="FAX" v="+43 (3175) 2169"></tag>
+  <tag k="TEL" v="+43 (3175) 2211"></tag>
+  <tag k="OBJECTID" v="842"></tag>
+  <tag k="URL" v="http://www.anger.st/"></tag>
+  <tag k="GEMNR_alt" v="61702"></tag>
+  <tag k="ORT" v="Anger"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="3"></tag>
+  <tag k="PLZ" v="8184"></tag>
+  <tag k="GEMANSCHR1" v="Südtiroler Platz"></tag>
+  <tag k="HW_BMN34" v="701528.87"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Südtiroler Platz 3"></tag>
+  <tag k="GVOUID" v="65004066.0"></tag>
+  <tag k="MAIL" v="gde@anger.st"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Anger"></tag>
+  <tag k="GEMNR" v="61702"></tag>
+</node>
+<node lat="47.37148171995033" lon="15.760243816832244" id="-301">
+  <tag k="FAX" v="+43 (3174) 8223-4"></tag>
+  <tag k="TEL" v="+43 (3174) 8223"></tag>
+  <tag k="OBJECTID" v="843"></tag>
+  <tag k="URL" v="http://www.miesenbach.com/server/"></tag>
+  <tag k="GEMNR_alt" v="61728"></tag>
+  <tag k="ORT" v="Birkfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="6"></tag>
+  <tag k="PLZ" v="8190"></tag>
+  <tag k="GEMANSCHR1" v="Dorfviertel"></tag>
+  <tag k="HW_BMN34" v="706802.25"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Dorfviertel 6"></tag>
+  <tag k="GVOUID" v="65004217.0"></tag>
+  <tag k="MAIL" v="gde@miesenbach-birkfeld.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Miesenbach bei Birkfeld"></tag>
+  <tag k="GEMNR" v="61728"></tag>
+</node>
+<node lat="47.353532760122306" lon="15.70160905309049" id="-302">
+  <tag k="FAX" v="+43 (3174) 4418-4"></tag>
+  <tag k="TEL" v="+43 (3174) 4418"></tag>
+  <tag k="OBJECTID" v="844"></tag>
+  <tag k="URL" v="http://www.gschaid.at/"></tag>
+  <tag k="GEMNR_alt" v="61714"></tag>
+  <tag k="ORT" v="Birkfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="117"></tag>
+  <tag k="PLZ" v="8190"></tag>
+  <tag k="GEMANSCHR1" v="Gschaid bei Birkfeld"></tag>
+  <tag k="HW_BMN34" v="702357.45"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gschaid bei Birkfeld 117"></tag>
+  <tag k="GVOUID" v="65004085.0"></tag>
+  <tag k="MAIL" v="gemeinde@gschaid.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gschaid bei Birkfeld"></tag>
+  <tag k="GEMNR" v="61714"></tag>
+</node>
+<node lat="47.36284228330309" lon="15.651293083757698" id="-303">
+  <tag k="FAX" v="+43 (3174) 20075"></tag>
+  <tag k="TEL" v="+43 (3174) 4409"></tag>
+  <tag k="OBJECTID" v="845"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61717"></tag>
+  <tag k="ORT" v="Birkfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="84a"></tag>
+  <tag k="PLZ" v="8190"></tag>
+  <tag k="GEMANSCHR1" v="Haslau"></tag>
+  <tag k="HW_BMN34" v="698565.02"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Haslau 84a"></tag>
+  <tag k="GVOUID" v="65004215.0"></tag>
+  <tag k="MAIL" v="gde@haslau-birkfeld.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Haslau bei Birkfeld"></tag>
+  <tag k="GEMNR" v="61717"></tag>
+</node>
+<node lat="47.35502404944601" lon="15.694449384032767" id="-304">
+  <tag k="FAX" v="+43 (3174) 4507-60"></tag>
+  <tag k="TEL" v="+43 (3174) 4507"></tag>
+  <tag k="OBJECTID" v="846"></tag>
+  <tag k="URL" v="http://www.birkfeld.at/"></tag>
+  <tag k="GEMNR_alt" v="61705"></tag>
+  <tag k="ORT" v="Birkfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="13"></tag>
+  <tag k="PLZ" v="8190"></tag>
+  <tag k="GEMANSCHR1" v="Hauptplatz"></tag>
+  <tag k="HW_BMN34" v="701817.88"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptplatz 13"></tag>
+  <tag k="GVOUID" v="65003939.0"></tag>
+  <tag k="MAIL" v="marktgemeinde@birkfeld.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Birkfeld"></tag>
+  <tag k="GEMNR" v="61705"></tag>
+</node>
+<node lat="47.39425715838457" lon="15.68418654040942" id="-305">
+  <tag k="FAX" v="+43 (3174) 4633-4"></tag>
+  <tag k="TEL" v="+43 (3174) 4633"></tag>
+  <tag k="OBJECTID" v="847"></tag>
+  <tag k="URL" v="http://www.waisenegg.at/"></tag>
+  <tag k="GEMNR_alt" v="61754"></tag>
+  <tag k="ORT" v="Birkfeld"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="106"></tag>
+  <tag k="PLZ" v="8190"></tag>
+  <tag k="GEMANSCHR1" v="Waisenegg"></tag>
+  <tag k="HW_BMN34" v="701079.03"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Waisenegg 106"></tag>
+  <tag k="GVOUID" v="65003944.0"></tag>
+  <tag k="MAIL" v="gde@waisenegg.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Waisenegg"></tag>
+  <tag k="GEMNR" v="61754"></tag>
+</node>
+<node lat="47.31960742254542" lon="15.689495089002888" id="-306">
+  <tag k="FAX" v="+43 (3174) 4513-13"></tag>
+  <tag k="TEL" v="+43 (3174) 4513"></tag>
+  <tag k="OBJECTID" v="848"></tag>
+  <tag k="URL" v="http://www.koglhof.at/?id=210&amp;ugid=210"></tag>
+  <tag k="GEMNR_alt" v="61722"></tag>
+  <tag k="ORT" v="Koglhof"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="4"></tag>
+  <tag k="PLZ" v="8191"></tag>
+  <tag k="GEMANSCHR1" v="Koglhof"></tag>
+  <tag k="HW_BMN34" v="701410.9"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Koglhof 4"></tag>
+  <tag k="GVOUID" v="65003940.0"></tag>
+  <tag k="MAIL" v="gde@koglhof.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Koglhof"></tag>
+  <tag k="GEMNR" v="61722"></tag>
+</node>
+<node lat="47.41041097312718" lon="15.725390281794429" id="-307">
+  <tag k="FAX" v="+43 (3174) 2022-16"></tag>
+  <tag k="TEL" v="+43 (3174) 2022"></tag>
+  <tag k="OBJECTID" v="849"></tag>
+  <tag k="URL" v="http://www.strallegg.eu/"></tag>
+  <tag k="GEMNR_alt" v="61750"></tag>
+  <tag k="ORT" v="Strallegg"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="100"></tag>
+  <tag k="PLZ" v="8192"></tag>
+  <tag k="GEMANSCHR1" v="Strallegg"></tag>
+  <tag k="HW_BMN34" v="704203.8"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Strallegg 100"></tag>
+  <tag k="GVOUID" v="65003943.0"></tag>
+  <tag k="MAIL" v="gde@strallegg.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Strallegg"></tag>
+  <tag k="GEMNR" v="61750"></tag>
+</node>
+<node lat="47.12325795171908" lon="15.69731922673861" id="-308">
+  <tag k="FAX" v="+43 (3112) 3110-13"></tag>
+  <tag k="TEL" v="+43 (3112) 3110"></tag>
+  <tag k="OBJECTID" v="850"></tag>
+  <tag k="URL" v="http://www.albersdorf.at/tool/site.php"></tag>
+  <tag k="GEMNR_alt" v="61701"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="160"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Albersdorf"></tag>
+  <tag k="HW_BMN34" v="701823.78"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Albersdorf 160"></tag>
+  <tag k="GVOUID" v="65004213.0"></tag>
+  <tag k="MAIL" v="gde@albersdorf.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Albersdorf-Prebuch"></tag>
+  <tag k="GEMNR" v="61701"></tag>
+</node>
+<node lat="47.08334873992125" lon="15.646786269981586" id="-309">
+  <tag k="FAX" v="+43 (3133) 2577-3"></tag>
+  <tag k="TEL" v="+43 (3133) 2577"></tag>
+  <tag k="OBJECTID" v="851"></tag>
+  <tag k="URL" v="http://www.lassnitzthal.gv.at"></tag>
+  <tag k="GEMNR_alt" v="61726"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="45"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Laßnitzthal"></tag>
+  <tag k="HW_BMN34" v="697950.17"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Laßnitzthal 45"></tag>
+  <tag k="GVOUID" v="65004068.0"></tag>
+  <tag k="MAIL" v="gde@lassnitzthal.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Laßnitzthal"></tag>
+  <tag k="GEMNR" v="61726"></tag>
+</node>
+<node lat="47.10430574223448" lon="15.691738703966909" id="-310">
+  <tag k="FAX" v="+43 (3112) 2387-8"></tag>
+  <tag k="TEL" v="+43 (3112) 2387"></tag>
+  <tag k="OBJECTID" v="852"></tag>
+  <tag k="URL" v="http://www.ludersdorf-wilfersdorf.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61727"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="114"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Ludersdorf"></tag>
+  <tag k="HW_BMN34" v="701382.96"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Ludersdorf 114"></tag>
+  <tag k="GVOUID" v="65003948.0"></tag>
+  <tag k="MAIL" v="gde@ludersdorf-wilfersdorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Ludersdorf-Wilfersdorf"></tag>
+  <tag k="GEMNR" v="61727"></tag>
+</node>
+<node lat="47.12789706795136" lon="15.74758652386666" id="-311">
+  <tag k="FAX" v="+43 (3112) 2080-4"></tag>
+  <tag k="TEL" v="+43 (3112) 2080"></tag>
+  <tag k="OBJECTID" v="853"></tag>
+  <tag k="URL" v="http://www.nitscha.at/"></tag>
+  <tag k="GEMNR_alt" v="61734"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="2"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Nitscha"></tag>
+  <tag k="HW_BMN34" v="705642.01"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Nitscha 2"></tag>
+  <tag k="GVOUID" v="65003949.0"></tag>
+  <tag k="MAIL" v="gde@nitscha.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Nitscha"></tag>
+  <tag k="GEMNR" v="61734"></tag>
+</node>
+<node lat="47.10473882967572" lon="15.711694587197064" id="-312">
+  <tag k="FAX" v="+43 (3112) 2601-490"></tag>
+  <tag k="TEL" v="+43 (3112) 2601-0"></tag>
+  <tag k="OBJECTID" v="854"></tag>
+  <tag k="URL" v="http://www.gleisdorf.at/"></tag>
+  <tag k="GEMNR_alt" v="61713"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="1"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Rathausplatz"></tag>
+  <tag k="HW_BMN34" v="702898.16"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Rathausplatz 1"></tag>
+  <tag k="GVOUID" v="65003945.0"></tag>
+  <tag k="MAIL" v="gemeinde@gleisdorf.at"></tag>
+  <tag k="GEMNAME" v="Stadtgemeinde Gleisdorf"></tag>
+  <tag k="GEMNR" v="61713"></tag>
+</node>
+<node lat="47.09468406223355" lon="15.687525066949696" id="-313">
+  <tag k="FAX" v="+43 (3112) 5060-4"></tag>
+  <tag k="TEL" v="+43 (3112) 5060"></tag>
+  <tag k="OBJECTID" v="855"></tag>
+  <tag k="URL" v="http://www.ungerdorf.at"></tag>
+  <tag k="GEMNR_alt" v="61752"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="161"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Ungerdorf"></tag>
+  <tag k="HW_BMN34" v="701054.24"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Ungerdorf 161"></tag>
+  <tag k="GVOUID" v="65004070.0"></tag>
+  <tag k="MAIL" v="gde@ungerdorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Ungerdorf"></tag>
+  <tag k="GEMNR" v="61752"></tag>
+</node>
+<node lat="47.088070573589334" lon="15.711868601618342" id="-314">
+  <tag k="FAX" v="+43 (3112) 2345-4"></tag>
+  <tag k="TEL" v="+43 (3112) 2345-1"></tag>
+  <tag k="OBJECTID" v="856"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61725"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="100"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Urscha"></tag>
+  <tag k="HW_BMN34" v="702896.58"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Urscha 100"></tag>
+  <tag k="GVOUID" v="65004277.0"></tag>
+  <tag k="MAIL" v="gde@labuch.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Labuch"></tag>
+  <tag k="GEMNR" v="61725"></tag>
+</node>
+<node lat="47.093725624964094" lon="15.728376487736286" id="-315">
+  <tag k="FAX" v="+43 (3112) 2634-4"></tag>
+  <tag k="TEL" v="+43 (3112) 2634"></tag>
+  <tag k="OBJECTID" v="857"></tag>
+  <tag k="URL" v="http://www.hofstaetten.at/"></tag>
+  <tag k="GEMNR_alt" v="61719"></tag>
+  <tag k="ORT" v="Gleisdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="110"></tag>
+  <tag k="PLZ" v="8200"></tag>
+  <tag k="GEMANSCHR1" v="Wünschendorf"></tag>
+  <tag k="HW_BMN34" v="704154.93"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Wünschendorf 110"></tag>
+  <tag k="GVOUID" v="65003946.0"></tag>
+  <tag k="MAIL" v="gde@hofstaetten-raab.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hofstätten an der Raab"></tag>
+  <tag k="GEMNR" v="61719"></tag>
+</node>
+<node lat="47.14262700627052" lon="15.78190017693187" id="-316">
+  <tag k="FAX" v="+43 (3113) 2485-4"></tag>
+  <tag k="TEL" v="+43 (3113) 2485"></tag>
+  <tag k="OBJECTID" v="858"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61721"></tag>
+  <tag k="ORT" v="Großpesendorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="170"></tag>
+  <tag k="PLZ" v="8211"></tag>
+  <tag k="GEMANSCHR1" v="Prebensdorf"></tag>
+  <tag k="HW_BMN34" v="708257.16"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Prebensdorf 170"></tag>
+  <tag k="GVOUID" v="65003947.0"></tag>
+  <tag k="MAIL" v="gde@ilztal.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Ilztal"></tag>
+  <tag k="GEMNR" v="61721"></tag>
+</node>
+<node lat="47.169168690823156" lon="15.741204328755897" id="-317">
+  <tag k="FAX" v="+43 (3113) 2349"></tag>
+  <tag k="TEL" v="+43 (3113) 2349"></tag>
+  <tag k="OBJECTID" v="859"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61739"></tag>
+  <tag k="ORT" v="Großpesendorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="46"></tag>
+  <tag k="PLZ" v="8211"></tag>
+  <tag k="GEMANSCHR1" v="Preßguts"></tag>
+  <tag k="HW_BMN34" v="705192.69"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Preßguts 46"></tag>
+  <tag k="GVOUID" v="65004069.0"></tag>
+  <tag k="MAIL" v="gde@pressguts.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Preßguts"></tag>
+  <tag k="GEMNR" v="61739"></tag>
+</node>
+<node lat="47.16269409489195" lon="15.854412636311272" id="-318">
+  <tag k="FAX" v="+43 (3113) 2410-4"></tag>
+  <tag k="TEL" v="+43 (3113) 2410"></tag>
+  <tag k="OBJECTID" v="860"></tag>
+  <tag k="URL" v="http://www.gersdorf.at"></tag>
+  <tag k="GEMNR_alt" v="61712"></tag>
+  <tag k="ORT" v="Pischelsdorf in der Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="78"></tag>
+  <tag k="PLZ" v="8212"></tag>
+  <tag k="GEMANSCHR1" v="Gersdorf an der Feistritz"></tag>
+  <tag k="HW_BMN34" v="713771.26"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Gersdorf an der Feistritz 78"></tag>
+  <tag k="GVOUID" v="65004255.0"></tag>
+  <tag k="MAIL" v="gemeinde@gersdorf.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Gersdorf an der Feistritz"></tag>
+  <tag k="GEMNR" v="61712"></tag>
+</node>
+<node lat="47.148630597226855" lon="15.816433729484016" id="-319">
+  <tag k="FAX" v="+43 (3113) 8570-4"></tag>
+  <tag k="TEL" v="+43 (3113) 8570"></tag>
+  <tag k="OBJECTID" v="861"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61735"></tag>
+  <tag k="ORT" v="Pischelsdorf in der Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="80"></tag>
+  <tag k="PLZ" v="8212"></tag>
+  <tag k="GEMANSCHR1" v="Oberrettenbach"></tag>
+  <tag k="HW_BMN34" v="710881.1"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Oberrettenbach 80"></tag>
+  <tag k="GVOUID" v="65004086.0"></tag>
+  <tag k="MAIL" v="gde@oberrettenbach.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Oberrettenbach"></tag>
+  <tag k="GEMNR" v="61735"></tag>
+</node>
+<node lat="47.17499021252853" lon="15.804150154373676" id="-320">
+  <tag k="FAX" v="+43 (3113) 2212-1"></tag>
+  <tag k="TEL" v="+43 (3113) 2212"></tag>
+  <tag k="OBJECTID" v="862"></tag>
+  <tag k="URL" v="http://www.pischelsdorf.com"></tag>
+  <tag k="GEMNR_alt" v="61737"></tag>
+  <tag k="ORT" v="Pischelsdorf in der Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="85"></tag>
+  <tag k="PLZ" v="8212"></tag>
+  <tag k="GEMANSCHR1" v="Pischelsdorf"></tag>
+  <tag k="HW_BMN34" v="709969.4"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Pischelsdorf 85"></tag>
+  <tag k="GVOUID" v="65003950.0"></tag>
+  <tag k="MAIL" v="gde@pischelsdorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Pischelsdorf in der Steiermark"></tag>
+  <tag k="GEMNR" v="61737"></tag>
+</node>
+<node lat="47.18870208449772" lon="15.76065209045294" id="-321">
+  <tag k="FAX" v="+43 (3113) 2990-4"></tag>
+  <tag k="TEL" v="+43 (3113) 2990"></tag>
+  <tag k="OBJECTID" v="863"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61742"></tag>
+  <tag k="ORT" v="Pischelsdorf in der Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="25"></tag>
+  <tag k="PLZ" v="8212"></tag>
+  <tag k="GEMANSCHR1" v="Reichendorf"></tag>
+  <tag k="HW_BMN34" v="706683.14"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Reichendorf 25"></tag>
+  <tag k="GVOUID" v="65004014.0"></tag>
+  <tag k="MAIL" v="gem.reichendorf@direkt.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Reichendorf"></tag>
+  <tag k="GEMNR" v="61742"></tag>
+</node>
+<node lat="47.19378306084905" lon="15.775636555157751" id="-322">
+  <tag k="FAX" v="+43 (3113) 2730-4"></tag>
+  <tag k="TEL" v="+43 (3113) 2730"></tag>
+  <tag k="OBJECTID" v="864"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61724"></tag>
+  <tag k="ORT" v="Pischelsdorf in der Steiermark"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="80"></tag>
+  <tag k="PLZ" v="8212"></tag>
+  <tag k="GEMANSCHR1" v="Rohrbach am Kulm"></tag>
+  <tag k="HW_BMN34" v="707822.84"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Rohrbach am Kulm 80"></tag>
+  <tag k="GVOUID" v="65004013.0"></tag>
+  <tag k="MAIL" v="gde@kulm-weiz.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Kulm bei Weiz"></tag>
+  <tag k="GEMNR" v="61724"></tag>
+</node>
+<node lat="47.19399910706126" lon="15.827029016326394" id="-323">
+  <tag k="FAX" v="+43 (3113) 3350"></tag>
+  <tag k="TEL" v="+43 (3113) 8866"></tag>
+  <tag k="OBJECTID" v="865"></tag>
+  <tag k="URL" v="http://www.gemeinden.steiermark.at"></tag>
+  <tag k="GEMNR_alt" v="61718"></tag>
+  <tag k="ORT" v="Hirnsdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="125"></tag>
+  <tag k="PLZ" v="8221"></tag>
+  <tag k="GEMANSCHR1" v="Hirnsdorf"></tag>
+  <tag k="HW_BMN34" v="711717.57"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hirnsdorf 125"></tag>
+  <tag k="GVOUID" v="65004142.0"></tag>
+  <tag k="MAIL" v="gde@hirnsdorf.steiermark.at"></tag>
+  <tag k="GEMNAME" v="Gemeinde Hirnsdorf"></tag>
+  <tag k="GEMNR" v="61718"></tag>
+</node>
+<node lat="47.05404830488084" lon="15.843490232419061" id="-85">
+  <tag k="FAX" v="+43 (3114) 2201-410"></tag>
+  <tag k="TEL" v="+43 (3114) 2201-0"></tag>
+  <tag k="OBJECTID" v="627"></tag>
+  <tag k="URL" v="http://www.markthartmannsdorf.at/"></tag>
+  <tag k="GEMNR_alt" v="61716"></tag>
+  <tag k="ORT" v="Markt Hartmannsdorf"></tag>
+  <tag k="ADRCODE" v="b'       '"></tag>
+  <tag k="GEMANSCHR2" v="157"></tag>
+  <tag k="PLZ" v="8311"></tag>
+  <tag k="GEMANSCHR1" v="Hauptstraße"></tag>
+  <tag k="HW_BMN34" v="712866.98"></tag>
+  <tag k="RW_BMN34" v="0.0"></tag>
+  <tag k="GEMANSCHR" v="Hauptstraße 157"></tag>
+  <tag k="GVOUID" v="65004128.0"></tag>
+  <tag k="MAIL" v="gde@markthartmannsdorf.at"></tag>
+  <tag k="GEMNAME" v="Marktgemeinde Markt Hartmannsdorf"></tag>
+  <tag k="GEMNR" v="61716"></tag>
+</node>
+</osm>

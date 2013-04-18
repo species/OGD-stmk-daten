@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="47.42683139391415" lon="15.04626989270841" id="-284">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1125"></tag>
+  <tag k="name" v="Laintal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.5581507451248" lon="14.868105098581573" id="-285">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1126"></tag>
+  <tag k="name" v="Eisenerz-Wache Munichtal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.541177128700824" lon="14.89684735180322" id="-286">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1127"></tag>
+  <tag k="name" v="Eisenerz-Wache Trofeng"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.606328839343135" lon="14.744332612782586" id="-532">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1373"></tag>
+  <tag k="name" v="Hieflau"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.54501888195647" lon="14.761317459729103" id="-533">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1374"></tag>
+  <tag k="name" v="Vorder-Radmer"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.429303426696634" lon="14.756059632677" id="-534">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1375"></tag>
+  <tag k="name" v="Kalwang"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.39962957384651" lon="14.822849000795921" id="-535">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1376"></tag>
+  <tag k="name" v="Mautern"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.45007785258281" lon="14.675026929797571" id="-536">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1377"></tag>
+  <tag k="name" v="Wald am Schoberpaß"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.528288915652716" lon="14.713928250633053" id="-537">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1378"></tag>
+  <tag k="name" v="Hinter-Radmer"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.53821809164986" lon="14.888352057342402" id="-65">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="906"></tag>
+  <tag k="name" v="Eisenerz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.545323646750916" lon="14.882457443646029" id="-66">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="907"></tag>
+  <tag k="name" v="VOEST-Alpine Erzberg GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.412081761795775" lon="14.970307481739317" id="-67">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="908"></tag>
+  <tag k="name" v="Gai"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.42906375576985" lon="14.977852548459275" id="-68">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="909"></tag>
+  <tag k="name" v="Gimplach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.43978371163709" lon="15.000573531634247" id="-69">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="910"></tag>
+  <tag k="name" v="Hafning"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.329530244527064" lon="14.978522379598122" id="-70">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="911"></tag>
+  <tag k="name" v="Kaisersberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.3170426690934" lon="14.977098033086472" id="-71">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="912"></tag>
+  <tag k="name" v="St. Stefan ob Leoben"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.36195182552135" lon="15.095730087285222" id="-72">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="913"></tag>
+  <tag k="name" v="Göss"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.37939652701172" lon="15.097806376874923" id="-73">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="914"></tag>
+  <tag k="name" v="Leoben-Stadt"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.377392128432284" lon="15.0674656881352" id="-74">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="915"></tag>
+  <tag k="name" v="VA-Stahl Donawitz GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.36162691782779" lon="15.091545411932474" id="-75">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="916"></tag>
+  <tag k="name" v="Brau Union Göss"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.41429084335015" lon="14.941914140499744" id="-757">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1598"></tag>
+  <tag k="name" v="Mochl"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.393390943369894" lon="14.899621730186862" id="-76">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="917"></tag>
+  <tag k="name" v="Kammern im Liesingtal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.5432716007388" lon="14.869002991977835" id="-766">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1607"></tag>
+  <tag k="name" v="Leopoldstein"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.5247347218892" lon="14.896742020138191" id="-767">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1608"></tag>
+  <tag k="name" v="Trofeng"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.39383205475832" lon="14.932135462442963" id="-77">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="918"></tag>
+  <tag k="name" v="Seiz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.37264368214835" lon="14.99577355556774" id="-78">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="919"></tag>
+  <tag k="name" v="Madstein-Stadlhof"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.28974669909209" lon="15.026475237552228" id="-783">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1624"></tag>
+  <tag k="name" v="Lobming"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="47.37760806206108" lon="14.967473801933725" id="-79">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="920"></tag>
+  <tag k="name" v="Traboch-Timmersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.39742712338819" lon="15.155130303381636" id="-80">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="921"></tag>
+  <tag k="name" v="Niklasdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.37739173104741" lon="15.067468178070817" id="-804">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1645"></tag>
+  <tag k="name" v="Bezirksflorianstation Leoben"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+<node lat="47.39726271663878" lon="15.154798758934493" id="-81">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="922"></tag>
+  <tag k="name" v="Brigl u. Bergmeister GmbH"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="47.39799498181724" lon="15.138645039859023" id="-82">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="923"></tag>
+  <tag k="name" v="Proleb"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.381789961343735" lon="15.095042154755523" id="-827">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1668"></tag>
+  <tag k="name" v="Leoben City Shopping"></tag>
+  <tag k="note:type" v="b'     '"></tag>
+</node>
+<node lat="47.33729830413929" lon="15.017286175707238" id="-83">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="924"></tag>
+  <tag k="name" v="St. Michael"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.399197105126234" lon="15.029308205269102" id="-84">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="925"></tag>
+  <tag k="name" v="St. Peter-Freienstein"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.42694135656964" lon="15.009843492142688" id="-85">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="926"></tag>
+  <tag k="name" v="Trofaiach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.48662587055565" lon="14.991989598549369" id="-86">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="927"></tag>
+  <tag k="name" v="Vordernberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="47.30721821321753" lon="14.935865845094733" id="-87">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="928"></tag>
+  <tag k="name" v="Kraubath an der Mur"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+</osm>

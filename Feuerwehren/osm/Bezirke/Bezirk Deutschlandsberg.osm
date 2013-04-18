@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6">
+<node lat="46.82419411338559" lon="15.15296762211184" id="-464">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1305"></tag>
+  <tag k="name" v="Trahütten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.822675461061635" lon="15.252773861085467" id="-465">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1306"></tag>
+  <tag k="name" v="Freidorf a. d. Laßnitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.8432433000243" lon="15.253148671854191" id="-466">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1307"></tag>
+  <tag k="name" v="Schamberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.82991438966106" lon="15.257309959409282" id="-467">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1308"></tag>
+  <tag k="name" v="Frauental a.d. Laßnitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.81195862070674" lon="15.227137375370637" id="-468">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1309"></tag>
+  <tag k="name" v="Deutschlandsberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.72001977489528" lon="15.273642119099748" id="-469">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1310"></tag>
+  <tag k="name" v="Wies"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.84570400196849" lon="15.20757202321012" id="-470">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1311"></tag>
+  <tag k="name" v="Wildbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.86833494983786" lon="15.226159460800744" id="-471">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1312"></tag>
+  <tag k="name" v="Bad Gams"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.75850422124584" lon="15.202645784957033" id="-472">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1313"></tag>
+  <tag k="name" v="Schwanberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.71530532198738" lon="15.235449669990993" id="-473">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1314"></tag>
+  <tag k="name" v="Vordersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.68184265758478" lon="15.07420236427852" id="-474">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1315"></tag>
+  <tag k="name" v="Soboth"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.88783343858757" lon="15.261376308950249" id="-475">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1316"></tag>
+  <tag k="name" v="Stainz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.82410458417794" lon="15.314724933113467" id="-476">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1317"></tag>
+  <tag k="name" v="Groß St.Florian"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.85297596471272" lon="15.332664323974305" id="-477">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1318"></tag>
+  <tag k="name" v="Kraubath"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.83316268392669" lon="15.349598231921286" id="-478">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1319"></tag>
+  <tag k="name" v="Gussendorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.860284854037026" lon="15.407435661749464" id="-479">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1320"></tag>
+  <tag k="name" v="Preding"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.86297999527008" lon="15.36544423631446" id="-480">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1321"></tag>
+  <tag k="name" v="Wieselsdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.832239176466786" lon="15.3859282630244" id="-481">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1322"></tag>
+  <tag k="name" v="Wettmannstätten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.84233413331627" lon="15.379380601952127" id="-482">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1323"></tag>
+  <tag k="name" v="Wohlsdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.941751578603174" lon="15.288001168789291" id="-483">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1324"></tag>
+  <tag k="name" v="Pirkhof"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.92742070025514" lon="15.256901422473126" id="-484">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1325"></tag>
+  <tag k="name" v="St. Stefan ob Stainz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.947390561944765" lon="15.233498421151147" id="-485">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1326"></tag>
+  <tag k="name" v="Gundersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.877304331107844" lon="15.321844175513045" id="-486">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1327"></tag>
+  <tag k="name" v="Grafendorf bei Stainz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.89161610079941" lon="15.328897912836387" id="-487">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1328"></tag>
+  <tag k="name" v="Graggerer"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.865707858530335" lon="15.335992821621737" id="-488">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1329"></tag>
+  <tag k="name" v="Mettersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.86404794725083" lon="15.315423287448327" id="-489">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1330"></tag>
+  <tag k="name" v="Neudorf bei Stainz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.877894147378626" lon="15.354890495823307" id="-490">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1331"></tag>
+  <tag k="name" v="Wetzelsdorf/Weststmk"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.94224304980036" lon="15.333779451477438" id="-491">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1332"></tag>
+  <tag k="name" v="Lannach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.9396375675408" lon="15.317210175521922" id="-492">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1333"></tag>
+  <tag k="name" v="Blumegg-Teipl"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.96020967640961" lon="15.318912774229242" id="-493">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1334"></tag>
+  <tag k="name" v="Breitenbach/Weststmk"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.85579927185455" lon="15.270404548586193" id="-494">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1335"></tag>
+  <tag k="name" v="Rassach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.88762320363459" lon="15.27704734229567" id="-495">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1336"></tag>
+  <tag k="name" v="Stallhof"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.70920982210578" lon="15.148182554127695" id="-496">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1337"></tag>
+  <tag k="name" v="St. Oswald ob Eibiswald"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.69843721144108" lon="15.290324129942835" id="-497">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1338"></tag>
+  <tag k="name" v="Pitschgau-Haselbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.693678781868" lon="15.26151744133632" id="-498">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1339"></tag>
+  <tag k="name" v="Hörmsdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.75748541481458" lon="15.251410237073296" id="-499">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1340"></tag>
+  <tag k="name" v="St. Peter im Sulmtal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.84292411625081" lon="15.279679656354642" id="-500">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1341"></tag>
+  <tag k="name" v="Tanzelsdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.74925286214665" lon="15.315657320334731" id="-501">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1342"></tag>
+  <tag k="name" v="Dietmannsdorf im Sulmtal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.72942798426622" lon="15.294669950112578" id="-502">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1343"></tag>
+  <tag k="name" v="Pölfing-Brunn"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.788823770403326" lon="15.144581003166012" id="-503">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1344"></tag>
+  <tag k="name" v="Gressenberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.824045510133146" lon="15.05790163933566" id="-504">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1345"></tag>
+  <tag k="name" v="Glashütten"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.687496859277665" lon="15.24187488482978" id="-505">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1346"></tag>
+  <tag k="name" v="Eibiswald"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.73612349199881" lon="15.24071736060511" id="-506">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1347"></tag>
+  <tag k="name" v="Steyeregg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.89047431674391" lon="15.307292082152061" id="-507">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1348"></tag>
+  <tag k="name" v="Ettendorf bei Stainz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.910344376419914" lon="15.292942864841901" id="-508">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1349"></tag>
+  <tag k="name" v="Rossegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.680018174327635" lon="15.293311667781428" id="-509">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1350"></tag>
+  <tag k="name" v="Lateindorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.859374107411625" lon="15.091453797346539" id="-510">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1351"></tag>
+  <tag k="name" v="Osterwitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.90678078633404" lon="15.234545625522728" id="-511">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1352"></tag>
+  <tag k="name" v="Wald/Weststmk"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.888566289243784" lon="15.099074728038195" id="-512">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1353"></tag>
+  <tag k="name" v="Kloster"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.758465460598465" lon="15.29189967284323" id="-513">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1354"></tag>
+  <tag k="name" v="St. Martin im Sulmtal"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.77902201097088" lon="15.320737235143921" id="-514">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1355"></tag>
+  <tag k="name" v="Otternitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.71515212057253" lon="15.206992041962017" id="-515">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1356"></tag>
+  <tag k="name" v="Wernersdorf"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.822239413036996" lon="15.231783768287565" id="-516">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1357"></tag>
+  <tag k="name" v="Siemens Matsushita/Epcos"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.954790041195714" lon="15.342844626843979" id="-517">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1358"></tag>
+  <tag k="name" v="ELG Tanklager Lannach"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.74488936844188" lon="15.26936676016532" id="-518">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1359"></tag>
+  <tag k="name" v="Wolfram Bergbau Bergla"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.71511198582822" lon="15.319847956336647" id="-519">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1360"></tag>
+  <tag k="name" v="St. Ulrich im Greith"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.80497042478118" lon="15.36558840405512" id="-520">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1361"></tag>
+  <tag k="name" v="Michlgleinz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.819408269008946" lon="15.215362447656412" id="-521">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1362"></tag>
+  <tag k="name" v="P.A.Liechtenstein FDION"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.911550726584885" lon="15.337813979772802" id="-522">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1363"></tag>
+  <tag k="name" v="St. Josef/Weststmk"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.91469350673932" lon="15.356452230985095" id="-523">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1364"></tag>
+  <tag k="name" v="Oisnitz"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.72674514098919" lon="15.172388603242021" id="-525">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1366"></tag>
+  <tag k="name" v="Wielfresen"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.77605518029178" lon="15.226169312224393" id="-526">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1367"></tag>
+  <tag k="name" v="Rettenbach"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.76682384438155" lon="15.204619890080174" id="-527">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1368"></tag>
+  <tag k="name" v="Grünberg-Aichegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.79095997748221" lon="15.214110577093043" id="-528">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1369"></tag>
+  <tag k="name" v="Hollenegg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.79008183535908" lon="15.24853390363239" id="-529">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1370"></tag>
+  <tag k="name" v="Hohlbach-Riemerberg"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.767156701973356" lon="15.240999843190322" id="-530">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1371"></tag>
+  <tag k="name" v="Trag"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.763650909556475" lon="15.15036592352702" id="-531">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1372"></tag>
+  <tag k="name" v="Garanas"></tag>
+  <tag k="note:type" v="FF"></tag>
+</node>
+<node lat="46.724680236824454" lon="15.127006058462259" id="-776">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1617"></tag>
+  <tag k="name" v="St. Katharina in der Wiel"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.80511521827442" lon="15.318051216382392" id="-777">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1618"></tag>
+  <tag k="name" v="Unterbergla"></tag>
+  <tag k="note:type" v="FF-LZ"></tag>
+</node>
+<node lat="46.963221365478496" lon="15.333874626989774" id="-791">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1632"></tag>
+  <tag k="name" v="ISS-SPT-Lannach"></tag>
+  <tag k="note:type" v="BTF"></tag>
+</node>
+<node lat="46.81197394512849" lon="15.227137872436701" id="-797">
+  <tag k="amenity" v="fire_station"></tag>
+  <tag k="ref:ogdsteiermark" v="1638"></tag>
+  <tag k="name" v="Bezirksflorianstation Deutschlandsberg"></tag>
+  <tag k="note:type" v="FL"></tag>
+</node>
+</osm>
