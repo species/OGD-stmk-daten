@@ -1,0 +1,8 @@
+Koordination Import siehe http://wiki.openstreetmap.org/wiki/AT/Steiermark/OGD/Ärzte
+
+aerzte-all.shp.zip - Alle Ärzte aus OGD Stmk als Shape, von August 2013 mit bereits für Import vorbereiteten neuen Spalten
+aerzte-aus-osm.shp.zip - Alle Ärzte aus der OSM vom 10.9.2013 als Shape. (Punkte, Flächen wurden in Schwerpunkt umgewandelt)
+aerzte-neu-aus-ogd.shp.zip - Ärzte aus OGD Stmk als Shape, die nicht im Umkreis der in OSM vorhandenen waren
+aerzte-neu-aus-ogd-shifted.shp.zip - Ärzte aus OGD Stmk als Shape, die nicht im Umkreis der in OSM vorhandenen waren, mehrfache die Koordinaten leicht geshiftet.
+aerzte-schnittmenge-mit-osm.shp.zip - Ärzte aus OGD Stmk als Shape, die im Umkreis der in OSM vorhandenen sind. (Für manuellen Import!)
+aerzte-neu-aus-ogd-ohne-vorhandene-bearb.osm - - Ärzte aus OGD Stmk als OSM bereit für Import.
