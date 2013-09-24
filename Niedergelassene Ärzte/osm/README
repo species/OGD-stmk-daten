@@ -5,4 +5,5 @@ aerzte-aus-osm.shp.zip - Alle Ärzte aus der OSM vom 10.9.2013 als Shape. (Punkt
 aerzte-neu-aus-ogd.shp.zip - Ärzte aus OGD Stmk als Shape, die nicht im Umkreis der in OSM vorhandenen waren
 aerzte-neu-aus-ogd-shifted.shp.zip - Ärzte aus OGD Stmk als Shape, die nicht im Umkreis der in OSM vorhandenen waren, mehrfache die Koordinaten leicht geshiftet.
 aerzte-schnittmenge-mit-osm.shp.zip - Ärzte aus OGD Stmk als Shape, die im Umkreis der in OSM vorhandenen sind. (Für manuellen Import!)
-aerzte-neu-aus-ogd-ohne-vorhandene-bearb.osm - - Ärzte aus OGD Stmk als OSM bereit für Import.
+aerzte-neu-aus-ogd-ohne-vorhandene-bearb.osm - Ärzte aus OGD Stmk als OSM bereits in die OSM importiert.
+aerzte-neu-aus-ogd-schnittmenge-mit-osm.osm - Ärzte aus OGD Stmk, Schnittmenge mit OSM für manuellen Import vorbereitet.
