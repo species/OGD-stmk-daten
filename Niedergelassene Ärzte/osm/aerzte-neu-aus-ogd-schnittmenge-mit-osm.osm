@@ -5245,8 +5245,4 @@
     <tag k='name' v='Dr. Ernst Steiner' />
     <tag k='source' v='Land Steiermark - data.steiermark.gv.at' />
   </node>
-  <node id='-16' action='modify' visible='true' lat='47.04715187856831' lon='15.454216146546674'>
-    <tag k='amenity' v='telephone' />
-    <tag k='contact:phone' v='+43 316 818366' />
-  </node>
 </osm>
