@@ -3,6 +3,10 @@ OGD-stmk-daten
 
 Konvertierte und Originaldaten von OGD Steiermark / data.steiermark.at
 
+In jedem Ordner sollen die Rohdaten wie auf data.steiermark.at sowie eine Datei gleichen Namens, aber mit Endung .url liegen, die den Quellpfad angibt. So lassen sich leicht automatisierte updates von data.steiermark.at in dieses Repository einspielen.
+
+Da leider die Updatezyklen auf data.steiermark.at nicht bekannt sind, gibt es weiters in jedem Ordner eine Datei namens last_update, wo das Datum der letzten Aktualisierung von data.steiermark.at auf github sowie das Datum der letzten bemerkten Änderung der Daten drin stehen.
+
 Abfallwirtschaftsanlagen
 ------------------------
 
