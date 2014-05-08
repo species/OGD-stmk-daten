@@ -63,7 +63,7 @@ do
       if echo "${urlfilename%%.url}" | grep -q "zip$"; then
         cd Rohdaten
         echo "unzipping ${urlfilename%%.url}"
-        unzip -f -o ../${urlfilename%%.url}
+        unzip -f -o "../${urlfilename%%.url}"
         cd ..
       fi
     done
