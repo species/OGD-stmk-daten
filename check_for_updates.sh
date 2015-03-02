@@ -59,7 +59,8 @@ do
     do
       url=`cat "$urlfilename"`
       echo "Downloading file „$urlfilename“ from „$url“"
-      wget -q -N $url
+      #wget -q -N $url
+      wget  -N $url
       if echo "${urlfilename%%.url}" | grep -q "zip$"; then
         cd Rohdaten
         echo "unzipping ${urlfilename%%.url}"
