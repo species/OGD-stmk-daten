@@ -1,288 +1,288 @@
-COMMUNE_CODE;COMMUNE_NAME;DISTRICT;NUTS3;TOUR_REG;REGION;STATUS;POP_TOTAL;AREA;NUTS1;NUTS2
-60101;Graz ;Graz-Stadt;Graz;Region Graz;Steirischer Zentralraum;Statutarstadt;269997;12748,16;AT2;AT22
-60305;Frauental an der Laßnitz ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2888;1558,38;AT2;AT22
-60318;Lannach ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3337;1987,23;AT2;AT22
-60323;Pölfing-Brunn ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1635;615,86;AT2;AT22
-60324;Preding ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1687;1822,99;AT2;AT22
-60326;Sankt Josef (Weststeiermark) ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1438;1330,29;AT2;AT22
-60329;Sankt Peter im Sulmtal ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1336;1098,38;AT2;AT22
-60341;Wettmannstätten ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1555;1797,49;AT2;AT22
-60344;Deutschlandsberg ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde ;11382;17908,37;AT2;AT22
-60345;Eibiswald ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;6669;15203,84;AT2;AT22
-60346;Groß Sankt Florian ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4229;4877,67;AT2;AT22
-60347;Sankt Martin im Sulmtal ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3099;3918,47;AT2;AT22
-60348;Sankt Stefan ob Stainz ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3548;4923,44;AT2;AT22
-60349;Schwanberg ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4665;12418,69;AT2;AT22
-60350;Stainz ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;8554;9283,54;AT2;AT22
-60351;Wies ;Deutschlandsberg;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4444;7657,14;AT2;AT22
-60608;Feldkirchen bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;5696;1157,59;AT2;AT22
-60611;Gössendorf ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3774;720,96;AT2;AT22
-60613;Gratkorn ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;7622;3461,28;AT2;AT22
-60617;Hart bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;4547;1106,18;AT2;AT22
-60618;Haselsdorf-Tobelbad ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;1346;667,72;AT2;AT22
-60619;Hausmannstätten ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2968;678,14;AT2;AT22
-60623;Kainbach bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;2699;1781,24;AT2;AT22
-60624;Kalsdorf bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;6120;1516,05;AT2;AT22
-60626;Kumberg ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3714;2942,34;AT2;AT22
-60628;Laßnitzhöhe ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2620;1487,65;AT2;AT22
-60629;Lieboch ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4820;1172,87;AT2;AT22
-60632;Peggau ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2144;1125,01;AT2;AT22
-60639;Sankt Bartholomä ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;1400;1172,06;AT2;AT22
-60641;Sankt Oswald bei Plankenwarth ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;1225;1180,73;AT2;AT22
-60642;Sankt Radegund bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;2054;2155,31;AT2;AT22
-60645;Semriach ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3292;6033,73;AT2;AT22
-60646;Stattegg ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;2780;2582,94;AT2;AT22
-60647;Stiwoll ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;719;1301,37;AT2;AT22
-60648;Thal ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2240;1851,28;AT2;AT22
-60651;Übelbach ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;2000;9463,19;AT2;AT22
-60653;Vasoldsberg ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4328;2808,48;AT2;AT22
-60654;Weinitzen ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;2596;1898,78;AT2;AT22
-60655;Werndorf ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;2248;623,85;AT2;AT22
-60656;Wundschuh ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;1539;1288,8;AT2;AT22
-60659;Deutschfeistritz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4222;5705,53;AT2;AT22
-60660;Dobl-Zwaring ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3357;3792,16;AT2;AT22
-60661;Eggersdorf bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;6394;4936,05;AT2;AT22
-60662;Fernitz-Mellach  ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;4557;2051,17;AT2;AT22
-60663;Frohnleiten ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Stadtgemeinde ;6675;15383,99;AT2;AT22
-60664;Gratwein-Straßengel  ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;12811;8669,45;AT2;AT22
-60665;Hitzendorf ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;6895;4888,45;AT2;AT22
-60666;Nestelbach bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde ;2645;2734,39;AT2;AT22
-60667;Raaba-Grambach  ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;4026;1463,62;AT2;AT22
-60668;Sankt Marein bei Graz ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;3627;4171,24;AT2;AT22
-60669;Seiersberg-Pirka  ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Gemeinde;10637;1735,63;AT2;AT22
-60670;Unterpremstätten-Zettling  ;Graz-Umgebung;Graz;Region Graz;Steirischer Zentralraum;Marktgemeinde;5534;2926,5;AT2;AT22
-61001;Allerheiligen bei Wildon ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1425;2050,82;AT2;AT22
-61002;Arnfels ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1081;419,38;AT2;AT22
-61007;Empersdorf ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1325;1423,11;AT2;AT22
-61008;Gabersdorf ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1126;1985,85;AT2;AT22
-61012;Gralla ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2188;1213,54;AT2;AT22
-61013;Großklein ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2292;2771,5;AT2;AT22
-61016;Heimschuh ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1999;1851,16;AT2;AT22
-61017;Hengsberg ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1395;1770,1;AT2;AT22
-61019;Kitzeck im Sausal ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1223;1634,92;AT2;AT22
-61020;Lang ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1231;1566,54;AT2;AT22
-61021;Lebring-Sankt Margarethen ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2028;760,32;AT2;AT22
-61024;Oberhaag ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2196;3596,74;AT2;AT22
-61027;Ragnitz ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1481;2076,18;AT2;AT22
-61030;Sankt Andrä-Höch ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1759;2062,54;AT2;AT22
-61032;Sankt Johann im Saggautal ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2037;2701,93;AT2;AT22
-61033;Sankt Nikolai im Sausal ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2206;2615,82;AT2;AT22
-61043;Tillmitsch ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3197;1501,94;AT2;AT22
-61045;Wagna ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5426;1301,51;AT2;AT22
-61049;Ehrenhausen an der Weinstraße ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2523;2031,13;AT2;AT22
-61050;Gamlitz ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3236;3687,52;AT2;AT22
-61051;Gleinstätten ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2843;2190,87;AT2;AT22
-61052;Heiligenkreuz am Waasen ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2704;2637,48;AT2;AT22
-61053;Leibnitz ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde;11314;2353,37;AT2;AT22
-61054;Leutschach an der Weinstraße ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3811;7574,4;AT2;AT22
-61055;Sankt Georgen an der Stiefing ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1503;1872,32;AT2;AT22
-61056;Sankt Veit in der Südsteiermark;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4044;6866,55;AT2;AT22
-61057;Schwarzautal ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2301;4021,75;AT2;AT22
-61058;Straß-Spielfeld ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4742;2889,58;AT2;AT22
-61059;Wildon ;Leibnitz;West- und Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5183;3266,63;AT2;AT22
-61101;Eisenerz ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;4520;12446,12;AT2;AT22
-61105;Kalwang ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1054;6726,06;AT2;AT22
-61106;Kammern im Liesingtal ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1645;5869,14;AT2;AT22
-61107;Kraubath an der Mur ;Leoben;Östliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark Ost;Marktgemeinde;1277;2747,46;AT2;AT22
-61108;Leoben ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;24466;10772,64;AT2;AT22
-61109;Mautern in Steiermark ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1814;10879,28;AT2;AT22
-61110;Niklasdorf ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2560;1512,71;AT2;AT22
-61111;Proleb ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;1537;2447,5;AT2;AT22
-61112;Radmer ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;618;8243,59;AT2;AT22
-61113;Sankt Michael in Obersteiermark ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3040;5602,4;AT2;AT22
-61114;Sankt Peter-Freienstein ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2419;2729,7;AT2;AT22
-61115;Sankt Stefan ob Leoben ;Leoben;Östliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark Ost;Gemeinde;1933;7855,02;AT2;AT22
-61116;Traboch ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;1364;1249,09;AT2;AT22
-61118;Vordernberg ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1006;2787,22;AT2;AT22
-61119;Wald am Schoberpaß ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;598;9025,44;AT2;AT22
-61120;Trofaiach ;Leoben;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;11190;14324,6;AT2;AT22
-61203;Aigen im Ennstal ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2557;8631,88;AT2;AT22
-61204;Altaussee ;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde;1825;9210,93;AT2;AT22
-61205;Altenmarkt bei Sankt Gallen ;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;852;4304,72;AT2;AT22
-61206;Ardning ;Liezen;Liezen;Sonstige;Liezen;Gemeinde;1197;3416,42;AT2;AT22
-61207;Bad Aussee ;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Stadtgemeinde;4779;8186,09;AT2;AT22
-61213;Gröbming ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2803;6648,3;AT2;AT22
-61215;Grundlsee ;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Gemeinde;1219;15153,97;AT2;AT22
-61217;Haus ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2402;8250,07;AT2;AT22
-61222;Lassing ;Liezen;Liezen;Sonstige;Liezen;Gemeinde;1667;3725,37;AT2;AT22
-61236;Ramsau am Dachstein ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2766;7533,05;AT2;AT22
-61243;Selzthal ;Liezen;Liezen;Sonstige;Liezen;Gemeinde;1641;1674,8;AT2;AT22
-61247;Trieben ;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;3353;4532,62;AT2;AT22
-61251;Wildalpen ;Liezen;Liezen;Hochsteiermark;Liezen;Gemeinde;500;20282,07;AT2;AT22
-61252;Wörschach ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1165;4290,58;AT2;AT22
-61253;Admont ;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;4988;29984,45;AT2;AT22
-61254;Aich ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1205;5647,41;AT2;AT22
-61255;Bad Mitterndorf ;Liezen;Liezen;Auseerland - Salzkammergut;Liezen;Marktgemeinde;4875;19626,41;AT2;AT22
-61256;Gaishorn am See ;Liezen;Liezen;Hochsteiermark;Liezen;Marktgemeinde;1363;7697,02;AT2;AT22
-61257;Irdning-Donnersbachtal ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;4148;19967,9;AT2;AT22
-61258;Landl ;Liezen;Liezen;Sonstige;Liezen;Gemeinde;2943;25570,59;AT2;AT22
-61259;Liezen ;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;7982;9172,61;AT2;AT22
-61260;Michaelerberg-Pruggern  ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1174;4764,32;AT2;AT22
-61261;Mitterberg-Sankt Martin;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1931;5492,28;AT2;AT22
-61262;Öblarn ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2045;7016,84;AT2;AT22
-61263;Rottenmann ;Liezen;Liezen;Sonstige;Liezen;Stadtgemeinde;5283;20533,14;AT2;AT22
-61264;Sankt Gallen ;Liezen;Liezen;Sonstige;Liezen;Marktgemeinde;1879;12979,16;AT2;AT22
-61265;Schladming ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Stadtgemeinde;6676;21110,96;AT2;AT22
-61266;Sölk ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1557;28824,46;AT2;AT22
-61267;Stainach-Pürgg ;Liezen;Liezen;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2848;7295,43;AT2;AT22
-61410;Mühlen ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;904;5066,62;AT2;AT22
-61413;Niederwölz ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;617;1027,71;AT2;AT22
-61425;Sankt Peter am Kammersberg ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2063;8417,79;AT2;AT22
-61428;Schöder ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;981;7492,99;AT2;AT22
-61437;Krakau;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1495;12359,82;AT2;AT22
-61438;Murau ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;3758;7663,11;AT2;AT22
-61439;Neumarkt in der Steiermark ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;5072;16355,41;AT2;AT22
-61440;Oberwölz ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;3049;21017,49;AT2;AT22
-61441;Ranten ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1184;5241,09;AT2;AT22
-61442;Sankt Georgen am Kreischberg;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1851;11177,7;AT2;AT22
-61443;Sankt Lambrecht ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1948;7019,16;AT2;AT22
-61444;Scheifling ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2186;5724,01;AT2;AT22
-61445;Stadl-Predlitz;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1790;25621,49;AT2;AT22
-61446;Teufenbach-Katsch  ;Murau;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1842;4227,11;AT2;AT22
-61611;Krottendorf-Gaisfeld ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;2433;1705,07;AT2;AT22
-61612;Ligist ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3207;3461,84;AT2;AT22
-61615;Mooskirchen ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2106;1797,44;AT2;AT22
-61618;Rosental an der Kainach ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1687;654,06;AT2;AT22
-61621;Sankt Martin am Wöllmißberg ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;811;2575,99;AT2;AT22
-61624;Stallhofen ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3130;2732,45;AT2;AT22
-61625;Voitsberg ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9535;2861,86;AT2;AT22
-61626;Bärnbach ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde ;5591;3158,47;AT2;AT22
-61627;Edelschrott ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;1787;8768,82;AT2;AT22
-61628;Geistthal-Södingberg  ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1630;5260;AT2;AT22
-61629;Hirschegg-Pack ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1067;9912,59;AT2;AT22
-61630;Kainach bei Voitsberg ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1671;8343,76;AT2;AT22
-61631;Köflach ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;10042;4327,61;AT2;AT22
-61632;Maria Lankowitz ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2921;10424,7;AT2;AT22
-61633;Söding-Sankt Johann ;Voitsberg;West- und Südsteiermark;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;3981;1937,25;AT2;AT22
-61701;Albersdorf-Prebuch ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2000;1415,14;AT2;AT22
-61708;Fischbach ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1526;6156,86;AT2;AT22
-61710;Floing ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1209;1315,65;AT2;AT22
-61711;Gasen ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;942;3391,97;AT2;AT22
-61716;Markt Hartmannsdorf ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2982;2920,44;AT2;AT22
-61719;Hofstätten an der Raab ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2117;1524,86;AT2;AT22
-61727;Ludersdorf-Wilfersdorf ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2176;1281,12;AT2;AT22
-61728;Miesenbach bei Birkfeld ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;742;1472,13;AT2;AT22
-61729;Mitterdorf an der Raab ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2091;2102,44;AT2;AT22
-61730;Mortantsch ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2032;1746,67;AT2;AT22
-61731;Naas ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1390;2077,53;AT2;AT22
-61740;Puch bei Weiz ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2085;2475,93;AT2;AT22
-61741;Ratten ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1179;2879,75;AT2;AT22
-61743;Rettenegg ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;749;7852,61;AT2;AT22
-61744;Sankt Kathrein am Hauenstein ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;676;1929,63;AT2;AT22
-61745;Sankt Kathrein am Offenegg ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1136;4038,22;AT2;AT22
-61746;Sankt Margarethen an der Raab ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3954;4301,5;AT2;AT22
-61748;Sinabelkirchen ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4081;3718,81;AT2;AT22
-61750;Strallegg ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1951;4223,06;AT2;AT22
-61751;Thannhausen ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2362;3342,57;AT2;AT22
-61756;Anger ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4126;5396,63;AT2;AT22
-61757;Birkfeld ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;5139;8977,99;AT2;AT22
-61758;Fladnitz an der Teichalm ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1836;6651;AT2;AT22
-61759;Gersdorf an der Feistritz ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1681;3006,9;AT2;AT22
-61760;Gleisdorf ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;10067;3867,16;AT2;AT22
-61761;Gutenberg-Stenzengreith ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1755;2779,86;AT2;AT22
-61762;Ilztal ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2148;2247,72;AT2;AT22
-61763;Passail ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4316;8022,45;AT2;AT22
-61764;Pischelsdorf am Kulm;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3667;2813,61;AT2;AT22
-61765;Sankt Ruprecht an der Raab ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4927;4107,57;AT2;AT22
-61766;Weiz ;Weiz;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;11302;1748,55;AT2;AT22
-62007;Fohnsdorf ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;7813;5469,57;AT2;AT22
-62008;Gaal ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1453;19746,51;AT2;AT22
-62010;Hohentauern ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;434;9264,46;AT2;AT22
-62014;Kobenz ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1830;1763,6;AT2;AT22
-62021;Pusterwald ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;485;10528,99;AT2;AT22
-62026;Sankt Georgen ob Judenburg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;875;4433,37;AT2;AT22
-62032;Sankt Peter ob Judenburg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1072;5027,64;AT2;AT22
-62034;Seckau ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1285;4623,57;AT2;AT22
-62036;Unzmarkt-Frauenburg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1393;3645,35;AT2;AT22
-62038;Zeltweg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;7303;870,49;AT2;AT22
-62039;Großlobming ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1846;5438,48;AT2;AT22
-62040;Judenburg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;10141;6376,96;AT2;AT22
-62041;Knittelfeld ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;12446;1385,64;AT2;AT22
-62042;Obdach ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;3876;15911,15;AT2;AT22
-62043;Pöls-Oberkurzheim  ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;3061;6253,63;AT2;AT22
-62044;Pölstal;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2768;27021,65;AT2;AT22
-62045;Sankt Marein-Feistritz;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2034;7060,71;AT2;AT22
-62046;Sankt Margarethen bei Knittelfeld ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2715;14822,96;AT2;AT22
-62047;Spielberg ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;5295;2969,83;AT2;AT22
-62048;Weißkirchen in Steiermark ;Murtal;Westliche Obersteiermark;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;4916;14963,69;AT2;AT22
-62105;Breitenau am Hochlantsch ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Thermenland Steiermark - Oststeiermark;Obersteiermark Ost;Marktgemeinde;1761;6240,1;AT2;AT22
-62115;Krieglach ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;5198;9373,98;AT2;AT22
-62116;Langenwang ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3926;7592,62;AT2;AT22
-62125;Pernegg an der Mur ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Region Graz;Obersteiermark Ost;Gemeinde;2345;8600,54;AT2;AT22
-62128;Sankt Lorenzen im Mürztal ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3521;3804,69;AT2;AT22
-62131;Spital am Semmering ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;1577;7314,7;AT2;AT22
-62132;Stanz im Mürztal ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;1857;7673,37;AT2;AT22
-62135;Turnau ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1549;13428,41;AT2;AT22
-62138;Aflenz ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2445;5506,31;AT2;AT22
-62139;Bruck an der Mur ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;15730;8524,14;AT2;AT22
-62140;Kapfenberg ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;23235;8199,46;AT2;AT22
-62141;Kindberg ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8243;9052,34;AT2;AT22
-62142;Mariazell ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;3997;41349,32;AT2;AT22
-62143;Mürzzuschlag ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8814;5131,18;AT2;AT22
-62144;Neuberg an der Mürz ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2805;27460,19;AT2;AT22
-62145;Sankt Barbara im Mürztal;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;6834;11248,98;AT2;AT22
-62146;Sankt Marein im Mürztal ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2704;2945,99;AT2;AT22
-62147;Thörl ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2362;16645,54;AT2;AT22
-62148;Tragöß-Sankt Katharein ;Bruck-Mürzzuschlag;Östliche Obersteiermark;Hochsteiermark;Obersteiermark Ost;Gemeinde;1952;15388,52;AT2;AT22
-62202;Bad Blumau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1595;3735,89;AT2;AT22
-62205;Buch-St. Magdalena;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2156;2640,51;AT2;AT22
-62206;Burgau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1066;1999,2;AT2;AT22
-62209;Ebersdorf ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1229;1728,12;AT2;AT22
-62211;Friedberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;2582;2587,27;AT2;AT22
-62214;Greinbach ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1783;2337,71;AT2;AT22
-62216;Großsteinbach ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1285;2124,83;AT2;AT22
-62219;Hartberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;6449;2157,87;AT2;AT22
-62220;Hartberg Umgebung ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2226;3042,98;AT2;AT22
-62226;Lafnitz ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1420;1560,85;AT2;AT22
-62232;Ottendorf an der Rittschein ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1525;1427,37;AT2;AT22
-62233;Pinggau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3126;5908,95;AT2;AT22
-62235;Pöllauberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2127;3395,3;AT2;AT22
-62242;Sankt Jakob im Walde ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1071;3029,6;AT2;AT22
-62244;Sankt Johann in der Haide ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2043;2356,01;AT2;AT22
-62245;Sankt Lorenzen am Wechsel ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1548;4853,93;AT2;AT22
-62247;Schäffern ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1409;3236,54;AT2;AT22
-62252;Söchau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1412;1818,66;AT2;AT22
-62256;Stubenberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2278;3264,49;AT2;AT22
-62262;Wenigzell ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1422;3568,27;AT2;AT22
-62264;Bad Waltersdorf ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3704;5225,83;AT2;AT22
-62265;Dechantskirchen ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2042;2908,47;AT2;AT22
-62266;Feistritztal;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2404;2570,01;AT2;AT22
-62267;Fürstenfeld ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;8237;5041,55;AT2;AT22
-62268;Grafendorf bei Hartberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3145;4570,24;AT2;AT22
-62269;Großwilfersdorf ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2017;3842,01;AT2;AT22
-62270;Hartl ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2133;3382,17;AT2;AT22
-62271;Ilz ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3693;3930,3;AT2;AT22
-62272;Kaindorf ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2810;2800,63;AT2;AT22
-62273;Loipersdorf bei Fürstenfeld ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1900;2500,9;AT2;AT22
-62274;Neudau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1445;1369,11;AT2;AT22
-62275;Pöllau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;6072;8887,36;AT2;AT22
-62276;Rohr bei Hartberg ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1482;2774,8;AT2;AT22
-62277;Rohrbach an der Lafnitz ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2720;2657,29;AT2;AT22
-62278;Vorau ;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4816;8127,03;AT2;AT22
-62279;Waldbach-Mönichwald;Hartberg-Fürstenfeld;Oststeiermark;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1557;5396,84;AT2;AT22
-62311;Edelsbach bei Feldbach ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1338;1612,59;AT2;AT22
-62314;Eichkögl ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1241;1490,56;AT2;AT22
-62326;Halbenrain ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1752;3878,41;AT2;AT22
-62330;Jagerberg ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1671;2904,85;AT2;AT22
-62332;Kapfenstein ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1598;2859,18;AT2;AT22
-62335;Klöch ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1220;1640,65;AT2;AT22
-62343;Mettersdorf am Saßbach ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1292;2275,76;AT2;AT22
-62347;Murfeld ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1675;2421,9;AT2;AT22
-62368;Tieschen ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1306;1817,43;AT2;AT22
-62372;Unterlamm ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1225;1673,27;AT2;AT22
-62375;Bad Gleichenberg ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;5278;3876,6;AT2;AT22
-62376;Bad Radkersburg ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3064;2999,99;AT2;AT22
-62377;Deutsch Goritz ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1848;3401,57;AT2;AT22
-62378;Fehring ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;7338;8728,48;AT2;AT22
-62379;Feldbach ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;12989;6729,78;AT2;AT22
-62380;Gnas ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;6089;8176,05;AT2;AT22
-62381;Kirchbach in der Steiermark ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3233;3915,71;AT2;AT22
-62382;Kirchberg an der Raab ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;4406;4390,08;AT2;AT22
-62383;Mureck ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3582;3872,67;AT2;AT22
-62384;Paldau ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3118;3920,18;AT2;AT22
-62385;Pirching am Traubenberg ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;2594;3157,05;AT2;AT22
-62386;Riegersburg ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;4948;7112,11;AT2;AT22
-62387;Sankt Anna am Aigen ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2366;3261,1;AT2;AT22
-62388;Sankt Peter am Ottersbach ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3043;4856,46;AT2;AT22
-62389;Sankt Stefan im Rosental ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;4016;4320,1;AT2;AT22
-62390;Straden ;Südoststeiermark;Oststeiermark;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3691;5651,19;AT2;AT22
+NUTS1;NUTS2;NUTS3;NUTS3_NAME;DISTRICT_CODE;DISTRICT_NAME;LAU_CODE;LAU_NAME;TOUR_REG;REGION;STATUS;POP_TOTAL;AREA
+AT2;AT22;AT221;Graz;601;Graz-Stadt;60101;Graz ;Region Graz;Steirischer Zentralraum;Statutarstadt;269997;12748,16
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60305;Frauental an der Laßnitz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2888;1558,38
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60318;Lannach ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3337;1987,23
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60323;Pölfing-Brunn ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1635;615,86
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60324;Preding ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1687;1822,99
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60326;Sankt Josef (Weststeiermark) ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1438;1330,29
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60329;Sankt Peter im Sulmtal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1336;1098,38
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60341;Wettmannstätten ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1555;1797,49
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60344;Deutschlandsberg ;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde ;11382;17908,37
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60345;Eibiswald ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;6669;15203,84
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60346;Groß Sankt Florian ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4229;4877,67
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60347;Sankt Martin im Sulmtal ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3099;3918,47
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60348;Sankt Stefan ob Stainz ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3548;4923,44
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60349;Schwanberg ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4665;12418,69
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60350;Stainz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;8554;9283,54
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60351;Wies ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4444;7657,14
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60608;Feldkirchen bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;5696;1157,59
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60611;Gössendorf ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3774;720,96
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60613;Gratkorn ;Region Graz;Steirischer Zentralraum;Marktgemeinde;7622;3461,28
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60617;Hart bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;4547;1106,18
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60618;Haselsdorf-Tobelbad ;Region Graz;Steirischer Zentralraum;Gemeinde;1346;667,72
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60619;Hausmannstätten ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2968;678,14
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60623;Kainbach bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;2699;1781,24
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60624;Kalsdorf bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;6120;1516,05
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60626;Kumberg ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3714;2942,34
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60628;Laßnitzhöhe ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2620;1487,65
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60629;Lieboch ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4820;1172,87
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60632;Peggau ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2144;1125,01
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60639;Sankt Bartholomä ;Region Graz;Steirischer Zentralraum;Gemeinde;1400;1172,06
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60641;Sankt Oswald bei Plankenwarth ;Region Graz;Steirischer Zentralraum;Gemeinde;1225;1180,73
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60642;Sankt Radegund bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;2054;2155,31
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60645;Semriach ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3292;6033,73
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60646;Stattegg ;Region Graz;Steirischer Zentralraum;Gemeinde;2780;2582,94
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60647;Stiwoll ;Region Graz;Steirischer Zentralraum;Gemeinde;719;1301,37
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60648;Thal ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2240;1851,28
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60651;Übelbach ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2000;9463,19
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60653;Vasoldsberg ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4328;2808,48
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60654;Weinitzen ;Region Graz;Steirischer Zentralraum;Gemeinde;2596;1898,78
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60655;Werndorf ;Region Graz;Steirischer Zentralraum;Gemeinde;2248;623,85
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60656;Wundschuh ;Region Graz;Steirischer Zentralraum;Gemeinde;1539;1288,8
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60659;Deutschfeistritz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4222;5705,53
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60660;Dobl-Zwaring ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3357;3792,16
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60661;Eggersdorf bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;6394;4936,05
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60662;Fernitz-Mellach  ;Region Graz;Steirischer Zentralraum;Gemeinde;4557;2051,17
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60663;Frohnleiten ;Region Graz;Steirischer Zentralraum;Stadtgemeinde ;6675;15383,99
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60664;Gratwein-Straßengel  ;Region Graz;Steirischer Zentralraum;Marktgemeinde;12811;8669,45
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60665;Hitzendorf ;Region Graz;Steirischer Zentralraum;Marktgemeinde;6895;4888,45
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60666;Nestelbach bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde ;2645;2734,39
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60667;Raaba-Grambach  ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4026;1463,62
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60668;Sankt Marein bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3627;4171,24
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60669;Seiersberg-Pirka  ;Region Graz;Steirischer Zentralraum;Gemeinde;10637;1735,63
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60670;Unterpremstätten-Zettling  ;Region Graz;Steirischer Zentralraum;Marktgemeinde;5534;2926,5
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61001;Allerheiligen bei Wildon ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1425;2050,82
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61002;Arnfels ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1081;419,38
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61007;Empersdorf ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1325;1423,11
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61008;Gabersdorf ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1126;1985,85
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61012;Gralla ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2188;1213,54
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61013;Großklein ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2292;2771,5
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61016;Heimschuh ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1999;1851,16
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61017;Hengsberg ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1395;1770,1
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61019;Kitzeck im Sausal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1223;1634,92
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61020;Lang ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1231;1566,54
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61021;Lebring-Sankt Margarethen ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2028;760,32
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61024;Oberhaag ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2196;3596,74
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61027;Ragnitz ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1481;2076,18
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61030;Sankt Andrä-Höch ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1759;2062,54
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61032;Sankt Johann im Saggautal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2037;2701,93
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61033;Sankt Nikolai im Sausal ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2206;2615,82
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61043;Tillmitsch ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3197;1501,94
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61045;Wagna ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5426;1301,51
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61049;Ehrenhausen an der Weinstraße ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2523;2031,13
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61050;Gamlitz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3236;3687,52
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61051;Gleinstätten ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2843;2190,87
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61052;Heiligenkreuz am Waasen ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2704;2637,48
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61053;Leibnitz ;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde;11314;2353,37
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61054;Leutschach an der Weinstraße ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3811;7574,4
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61055;Sankt Georgen an der Stiefing ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1503;1872,32
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61056;Sankt Veit in der Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4044;6866,55
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61057;Schwarzautal ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2301;4021,75
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61058;Straß-Spielfeld ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4742;2889,58
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61059;Wildon ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5183;3266,63
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61101;Eisenerz ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;4520;12446,12
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61105;Kalwang ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1054;6726,06
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61106;Kammern im Liesingtal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1645;5869,14
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61107;Kraubath an der Mur ;Urlaubsregion Murtal;Obersteiermark Ost;Marktgemeinde;1277;2747,46
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61108;Leoben ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;24466;10772,64
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61109;Mautern in Steiermark ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1814;10879,28
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61110;Niklasdorf ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2560;1512,71
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61111;Proleb ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1537;2447,5
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61112;Radmer ;Hochsteiermark;Obersteiermark Ost;Gemeinde;618;8243,59
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61113;Sankt Michael in Obersteiermark ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3040;5602,4
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61114;Sankt Peter-Freienstein ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2419;2729,7
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61115;Sankt Stefan ob Leoben ;Urlaubsregion Murtal;Obersteiermark Ost;Gemeinde;1933;7855,02
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61116;Traboch ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1364;1249,09
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61118;Vordernberg ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1006;2787,22
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61119;Wald am Schoberpaß ;Hochsteiermark;Obersteiermark Ost;Gemeinde;598;9025,44
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61120;Trofaiach ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;11190;14324,6
+AT2;AT22;AT222;Liezen;612;Liezen;61203;Aigen im Ennstal ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2557;8631,88
+AT2;AT22;AT222;Liezen;612;Liezen;61204;Altaussee ;Auseerland - Salzkammergut;Liezen;Gemeinde;1825;9210,93
+AT2;AT22;AT222;Liezen;612;Liezen;61205;Altenmarkt bei Sankt Gallen ;Sonstige;Liezen;Marktgemeinde;852;4304,72
+AT2;AT22;AT222;Liezen;612;Liezen;61206;Ardning ;Sonstige;Liezen;Gemeinde;1197;3416,42
+AT2;AT22;AT222;Liezen;612;Liezen;61207;Bad Aussee ;Auseerland - Salzkammergut;Liezen;Stadtgemeinde;4779;8186,09
+AT2;AT22;AT222;Liezen;612;Liezen;61213;Gröbming ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2803;6648,3
+AT2;AT22;AT222;Liezen;612;Liezen;61215;Grundlsee ;Auseerland - Salzkammergut;Liezen;Gemeinde;1219;15153,97
+AT2;AT22;AT222;Liezen;612;Liezen;61217;Haus ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2402;8250,07
+AT2;AT22;AT222;Liezen;612;Liezen;61222;Lassing ;Sonstige;Liezen;Gemeinde;1667;3725,37
+AT2;AT22;AT222;Liezen;612;Liezen;61236;Ramsau am Dachstein ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2766;7533,05
+AT2;AT22;AT222;Liezen;612;Liezen;61243;Selzthal ;Sonstige;Liezen;Gemeinde;1641;1674,8
+AT2;AT22;AT222;Liezen;612;Liezen;61247;Trieben ;Sonstige;Liezen;Stadtgemeinde;3353;4532,62
+AT2;AT22;AT222;Liezen;612;Liezen;61251;Wildalpen ;Hochsteiermark;Liezen;Gemeinde;500;20282,07
+AT2;AT22;AT222;Liezen;612;Liezen;61252;Wörschach ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1165;4290,58
+AT2;AT22;AT222;Liezen;612;Liezen;61253;Admont ;Sonstige;Liezen;Marktgemeinde;4988;29984,45
+AT2;AT22;AT222;Liezen;612;Liezen;61254;Aich ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1205;5647,41
+AT2;AT22;AT222;Liezen;612;Liezen;61255;Bad Mitterndorf ;Auseerland - Salzkammergut;Liezen;Marktgemeinde;4875;19626,41
+AT2;AT22;AT222;Liezen;612;Liezen;61256;Gaishorn am See ;Hochsteiermark;Liezen;Marktgemeinde;1363;7697,02
+AT2;AT22;AT222;Liezen;612;Liezen;61257;Irdning-Donnersbachtal ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;4148;19967,9
+AT2;AT22;AT222;Liezen;612;Liezen;61258;Landl ;Sonstige;Liezen;Gemeinde;2943;25570,59
+AT2;AT22;AT222;Liezen;612;Liezen;61259;Liezen ;Sonstige;Liezen;Stadtgemeinde;7982;9172,61
+AT2;AT22;AT222;Liezen;612;Liezen;61260;Michaelerberg-Pruggern  ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1174;4764,32
+AT2;AT22;AT222;Liezen;612;Liezen;61261;Mitterberg-Sankt Martin;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1931;5492,28
+AT2;AT22;AT222;Liezen;612;Liezen;61262;Öblarn ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2045;7016,84
+AT2;AT22;AT222;Liezen;612;Liezen;61263;Rottenmann ;Sonstige;Liezen;Stadtgemeinde;5283;20533,14
+AT2;AT22;AT222;Liezen;612;Liezen;61264;Sankt Gallen ;Sonstige;Liezen;Marktgemeinde;1879;12979,16
+AT2;AT22;AT222;Liezen;612;Liezen;61265;Schladming ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Stadtgemeinde;6676;21110,96
+AT2;AT22;AT222;Liezen;612;Liezen;61266;Sölk ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1557;28824,46
+AT2;AT22;AT222;Liezen;612;Liezen;61267;Stainach-Pürgg ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2848;7295,43
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61410;Mühlen ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;904;5066,62
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61413;Niederwölz ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;617;1027,71
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61425;Sankt Peter am Kammersberg ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2063;8417,79
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61428;Schöder ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;981;7492,99
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61437;Krakau;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1495;12359,82
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61438;Murau ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;3758;7663,11
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61439;Neumarkt in der Steiermark ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;5072;16355,41
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61440;Oberwölz ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;3049;21017,49
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61441;Ranten ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1184;5241,09
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61442;Sankt Georgen am Kreischberg;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1851;11177,7
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61443;Sankt Lambrecht ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1948;7019,16
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61444;Scheifling ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2186;5724,01
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61445;Stadl-Predlitz;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1790;25621,49
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61446;Teufenbach-Katsch  ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1842;4227,11
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61611;Krottendorf-Gaisfeld ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;2433;1705,07
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61612;Ligist ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3207;3461,84
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61615;Mooskirchen ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2106;1797,44
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61618;Rosental an der Kainach ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1687;654,06
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61621;Sankt Martin am Wöllmißberg ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;811;2575,99
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61624;Stallhofen ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3130;2732,45
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61625;Voitsberg ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9535;2861,86
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61626;Bärnbach ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde ;5591;3158,47
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61627;Edelschrott ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;1787;8768,82
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61628;Geistthal-Södingberg  ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1630;5260
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61629;Hirschegg-Pack ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1067;9912,59
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61630;Kainach bei Voitsberg ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1671;8343,76
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61631;Köflach ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;10042;4327,61
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61632;Maria Lankowitz ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2921;10424,7
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61633;Söding-Sankt Johann ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;3981;1937,25
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61701;Albersdorf-Prebuch ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2000;1415,14
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61708;Fischbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1526;6156,86
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61710;Floing ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1209;1315,65
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61711;Gasen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;942;3391,97
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61716;Markt Hartmannsdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2982;2920,44
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61719;Hofstätten an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2117;1524,86
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61727;Ludersdorf-Wilfersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2176;1281,12
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61728;Miesenbach bei Birkfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;742;1472,13
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61729;Mitterdorf an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2091;2102,44
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61730;Mortantsch ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2032;1746,67
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61731;Naas ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1390;2077,53
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61740;Puch bei Weiz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2085;2475,93
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61741;Ratten ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1179;2879,75
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61743;Rettenegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;749;7852,61
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61744;Sankt Kathrein am Hauenstein ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;676;1929,63
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61745;Sankt Kathrein am Offenegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1136;4038,22
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61746;Sankt Margarethen an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3954;4301,5
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61748;Sinabelkirchen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4081;3718,81
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61750;Strallegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1951;4223,06
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61751;Thannhausen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2362;3342,57
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61756;Anger ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4126;5396,63
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61757;Birkfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;5139;8977,99
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61758;Fladnitz an der Teichalm ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1836;6651
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61759;Gersdorf an der Feistritz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1681;3006,9
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61760;Gleisdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;10067;3867,16
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61761;Gutenberg-Stenzengreith ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1755;2779,86
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61762;Ilztal ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2148;2247,72
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61763;Passail ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4316;8022,45
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61764;Pischelsdorf am Kulm;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3667;2813,61
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61765;Sankt Ruprecht an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4927;4107,57
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61766;Weiz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;11302;1748,55
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62007;Fohnsdorf ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;7813;5469,57
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62008;Gaal ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1453;19746,51
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62010;Hohentauern ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;434;9264,46
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62014;Kobenz ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1830;1763,6
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62021;Pusterwald ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;485;10528,99
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62026;Sankt Georgen ob Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;875;4433,37
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62032;Sankt Peter ob Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1072;5027,64
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62034;Seckau ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1285;4623,57
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62036;Unzmarkt-Frauenburg ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1393;3645,35
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62038;Zeltweg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;7303;870,49
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62039;Großlobming ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1846;5438,48
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62040;Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;10141;6376,96
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62041;Knittelfeld ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;12446;1385,64
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62042;Obdach ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;3876;15911,15
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62043;Pöls-Oberkurzheim  ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;3061;6253,63
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62044;Pölstal;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2768;27021,65
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62045;Sankt Marein-Feistritz;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2034;7060,71
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62046;Sankt Margarethen bei Knittelfeld ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2715;14822,96
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62047;Spielberg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;5295;2969,83
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62048;Weißkirchen in Steiermark ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;4916;14963,69
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62105;Breitenau am Hochlantsch ;Thermenland Steiermark - Oststeiermark;Obersteiermark Ost;Marktgemeinde;1761;6240,1
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62115;Krieglach ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;5198;9373,98
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62116;Langenwang ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3926;7592,62
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62125;Pernegg an der Mur ;Region Graz;Obersteiermark Ost;Gemeinde;2345;8600,54
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62128;Sankt Lorenzen im Mürztal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3521;3804,69
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62131;Spital am Semmering ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1577;7314,7
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62132;Stanz im Mürztal ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1857;7673,37
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62135;Turnau ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1549;13428,41
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62138;Aflenz ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2445;5506,31
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62139;Bruck an der Mur ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;15730;8524,14
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62140;Kapfenberg ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;23235;8199,46
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62141;Kindberg ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8243;9052,34
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62142;Mariazell ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;3997;41349,32
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62143;Mürzzuschlag ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8814;5131,18
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62144;Neuberg an der Mürz ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2805;27460,19
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62145;Sankt Barbara im Mürztal;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;6834;11248,98
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62146;Sankt Marein im Mürztal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2704;2945,99
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62147;Thörl ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2362;16645,54
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62148;Tragöß-Sankt Katharein ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1952;15388,52
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62202;Bad Blumau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1595;3735,89
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62205;Buch-St. Magdalena;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2156;2640,51
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62206;Burgau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1066;1999,2
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62209;Ebersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1229;1728,12
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62211;Friedberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;2582;2587,27
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62214;Greinbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1783;2337,71
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62216;Großsteinbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1285;2124,83
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62219;Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;6449;2157,87
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62220;Hartberg Umgebung ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2226;3042,98
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62226;Lafnitz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1420;1560,85
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62232;Ottendorf an der Rittschein ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1525;1427,37
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62233;Pinggau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3126;5908,95
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62235;Pöllauberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2127;3395,3
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62242;Sankt Jakob im Walde ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1071;3029,6
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62244;Sankt Johann in der Haide ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2043;2356,01
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62245;Sankt Lorenzen am Wechsel ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1548;4853,93
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62247;Schäffern ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1409;3236,54
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62252;Söchau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1412;1818,66
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62256;Stubenberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2278;3264,49
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62262;Wenigzell ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1422;3568,27
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62264;Bad Waltersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3704;5225,83
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62265;Dechantskirchen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2042;2908,47
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62266;Feistritztal;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2404;2570,01
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62267;Fürstenfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;8237;5041,55
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62268;Grafendorf bei Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3145;4570,24
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62269;Großwilfersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2017;3842,01
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62270;Hartl ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2133;3382,17
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62271;Ilz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3693;3930,3
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62272;Kaindorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2810;2800,63
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62273;Loipersdorf bei Fürstenfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1900;2500,9
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62274;Neudau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1445;1369,11
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62275;Pöllau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;6072;8887,36
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62276;Rohr bei Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1482;2774,8
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62277;Rohrbach an der Lafnitz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2720;2657,29
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62278;Vorau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4816;8127,03
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62279;Waldbach-Mönichwald;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1557;5396,84
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62311;Edelsbach bei Feldbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1338;1612,59
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62314;Eichkögl ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1241;1490,56
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62326;Halbenrain ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1752;3878,41
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62330;Jagerberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1671;2904,85
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62332;Kapfenstein ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1598;2859,18
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62335;Klöch ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1220;1640,65
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62343;Mettersdorf am Saßbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1292;2275,76
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62347;Murfeld ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1675;2421,9
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62368;Tieschen ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1306;1817,43
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62372;Unterlamm ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1225;1673,27
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62375;Bad Gleichenberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;5278;3876,6
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62376;Bad Radkersburg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3064;2999,99
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62377;Deutsch Goritz ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1848;3401,57
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62378;Fehring ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;7338;8728,48
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62379;Feldbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;12989;6729,78
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62380;Gnas ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;6089;8176,05
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62381;Kirchbach in der Steiermark ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3233;3915,71
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62382;Kirchberg an der Raab ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;4406;4390,08
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62383;Mureck ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3582;3872,67
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62384;Paldau ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3118;3920,18
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62385;Pirching am Traubenberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;2594;3157,05
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62386;Riegersburg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;4948;7112,11
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62387;Sankt Anna am Aigen ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2366;3261,1
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62388;Sankt Peter am Ottersbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3043;4856,46
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62389;Sankt Stefan im Rosental ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;4016;4320,1
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62390;Straden ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3691;5651,19
